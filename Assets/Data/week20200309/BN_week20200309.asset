@@ -1,0 +1,5133 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2e7278658c95b41bc8f1b824d0dbc740, type: 3}
+  m_Name: BN_week20200309
+  m_EditorClassIdentifier: 
+  sheets:
+  - name: BN_week20200309
+    list:
+    - IP: 202.152.82.205
+      LicenseHash: 1b10be501529a0ff5cdbd766a261672e3827de6c
+      MachineId: 6yC1W77pFyVmTPyPnuM6ld4UkMloeMOTD15yeclUyQI=
+      Version: u2019.2.14f1
+      Location: BN
+      Userid: 18966748643744
+      count: 9
+      SerialNumber: F4-3Y6H-DECH-Y2GC-K5HP-5QCJ
+      LicenseType: F
+      ShortVer: u2019.2.14f1
+      group: 1
+      rows: 30
+      users: 15
+      machines: 15
+      F: 15
+      H: 0
+      Description: 
+      combinedGroup: _1
+    - IP: 202.152.82.205
+      LicenseHash: f3bc478f1e10997918ae1ffe441ef6cafb12bf4f
+      MachineId: Qt1PB+Bu9Q4sbrQIWgAk9GP9MEOTWEIQ+f6Azr8Jdn8=
+      Version: u2018.3.1f1
+      Location: BN
+      Userid: 18966753332883
+      count: 5
+      SerialNumber: F4-QNAA-W58Y-8PPV-VSK4-JBCC
+      LicenseType: F
+      ShortVer: u2018.3.1f1
+      group: 1
+      rows: 30
+      users: 15
+      machines: 15
+      F: 15
+      H: 0
+      Description: 
+      combinedGroup: _1
+    - IP: 202.152.82.205
+      LicenseHash: 30f0bed5f0312625819181e428c2846885b3dde6
+      MachineId: 5avl+jSIHDrVvsFSiGatY1p6/E/cFhnP9bgbOMwBmXw=
+      Version: u2019.3.4f1
+      Location: BN
+      Userid: 18966865466894
+      count: 3
+      SerialNumber: F4-QAUU-TW4D-6ASS-PT3V-8YMW
+      LicenseType: F
+      ShortVer: u2019.3.4f1
+      group: 1
+      rows: 30
+      users: 15
+      machines: 15
+      F: 15
+      H: 0
+      Description: 
+      combinedGroup: _1
+    - IP: 202.152.82.205
+      LicenseHash: 1b10be501529a0ff5cdbd766a261672e3827de6c
+      MachineId: 6yC1W77pFyVmTPyPnuM6ld4UkMloeMOTD15yeclUyQI=
+      Version: u2019.3.4f1
+      Location: BN
+      Userid: 18966748643744
+      count: 3
+      SerialNumber: F4-3Y6H-DECH-Y2GC-K5HP-5QCJ
+      LicenseType: F
+      ShortVer: u2019.3.4f1
+      group: 1
+      rows: 30
+      users: 15
+      machines: 15
+      F: 15
+      H: 0
+      Description: 
+      combinedGroup: _1
+    - IP: 202.152.82.205
+      LicenseHash: ecdc3ef8011ca45b2728c82351ea7694ab2d3c08
+      MachineId: SpQnVJlXgk17h/3y/nUjFPqhc4hjQKfzlilYM2jf4Gw=
+      Version: u2019.2.18f1
+      Location: BN
+      Userid: 18966750936642
+      count: 3
+      SerialNumber: F4-H3AC-55JS-J5DC-QRTC-PBZJ
+      LicenseType: F
+      ShortVer: u2019.2.18f1
+      group: 1
+      rows: 30
+      users: 15
+      machines: 15
+      F: 15
+      H: 0
+      Description: 
+      combinedGroup: _1
+    - IP: 202.152.82.205
+      LicenseHash: 7a4d7206bcb056ed819610a7630973fb3c98b818
+      MachineId: AnGcgUeQjB+ioe7zCfKdWMuUvS1TtNMBsk8Vpg1Mwk4=
+      Version: u2019.3.4f1
+      Location: BN
+      Userid: 476170
+      count: 2
+      SerialNumber: F4-8U7G-RZ83-CTH5-Q59K-2FM9
+      LicenseType: F
+      ShortVer: u2019.3.4f1
+      group: 1
+      rows: 30
+      users: 15
+      machines: 15
+      F: 15
+      H: 0
+      Description: 
+      combinedGroup: _1
+    - IP: 202.152.82.205
+      LicenseHash: 631cf44272c98d27a0132a8554488e715f410710
+      MachineId: Eoyjkl2ZNu6VktST3mwyPVRsqY/YCo2cPMWuFmJU8gg=
+      Version: u2019.2.17f1
+      Location: BN
+      Userid: 18966631949665
+      count: 2
+      SerialNumber: F4-48MA-ZT78-2TZF-GSMZ-2DXK
+      LicenseType: F
+      ShortVer: u2019.2.17f1
+      group: 1
+      rows: 30
+      users: 15
+      machines: 15
+      F: 15
+      H: 0
+      Description: 
+      combinedGroup: _1
+    - IP: 202.152.82.205
+      LicenseHash: a7fb80322268fa2451e6e4feb1f4f6dbe515d87d
+      MachineId: iuX846AgrjVdkplF3Vi8v6rjz2fNTK8vxktVlx1xqi8=
+      Version: u2018.4.18f1
+      Location: BN
+      Userid: 18966782542661
+      count: 2
+      SerialNumber: F4-NCYV-2M6E-RXVG-K6BK-NQ4S
+      LicenseType: F
+      ShortVer: u2018.4.18f1
+      group: 1
+      rows: 30
+      users: 15
+      machines: 15
+      F: 15
+      H: 0
+      Description: 
+      combinedGroup: _1
+    - IP: 202.152.82.205
+      LicenseHash: aca5603480304c90a8595982bf57963a83234f53
+      MachineId: kQ6noX1sCggnLziX8ChaKWTNw0q8XpoqfNngjtWyV0Q=
+      Version: u2019.3.0a3
+      Location: BN
+      Userid: 1836804
+      count: 2
+      SerialNumber: F4-QH3J-PW6F-AF46-TXMG-52SD
+      LicenseType: F
+      ShortVer: u2019.3.0a3
+      group: 1
+      rows: 30
+      users: 15
+      machines: 15
+      F: 15
+      H: 0
+      Description: 
+      combinedGroup: _1
+    - IP: 202.152.82.205
+      LicenseHash: 976b6acbc98d7af5dde5fdf1fd4f332a3ca065b0
+      MachineId: 9IIh6DATZKVPtOF4uyxhBSbuyW6RWlc4b5E4+uVw9uk=
+      Version: u2018.2.1f1
+      Location: BN
+      Userid: 18966724645885
+      count: 2
+      SerialNumber: F4-4NUN-5YRG-3DCV-777D-7Q9N
+      LicenseType: F
+      ShortVer: u2018.2.1f1
+      group: 1
+      rows: 30
+      users: 15
+      machines: 15
+      F: 15
+      H: 0
+      Description: 
+      combinedGroup: _1
+    - IP: 202.152.82.205
+      LicenseHash: 51827aa1ddef628b20e18966cc50a37c9fc3305d
+      MachineId: f7wjLVOLbjjFjexft1EytFL4nMJh30IPk08o9tC+9RU=
+      Version: u2019.3.3f1
+      Location: BN
+      Userid: 18966855264457
+      count: 1
+      SerialNumber: F4-6HEZ-VTEQ-D87K-XSB7-YSFH
+      LicenseType: F
+      ShortVer: u2019.3.3f1
+      group: 1
+      rows: 30
+      users: 15
+      machines: 15
+      F: 15
+      H: 0
+      Description: 
+      combinedGroup: _1
+    - IP: 202.152.82.205
+      LicenseHash: d0dab4a4973a9dfd312cc3e07282257257747b9d
+      MachineId: uh9j/6ZhHDklb4iR17LsBK+S6OR3wDR/02+YfVU0pMk=
+      Version: u2019.3.3f1
+      Location: BN
+      Userid: 18966860839457
+      count: 1
+      SerialNumber: F4-KWAA-EGTS-XPV4-3AAH-QSWP
+      LicenseType: F
+      ShortVer: u2019.3.3f1
+      group: 1
+      rows: 30
+      users: 15
+      machines: 15
+      F: 15
+      H: 0
+      Description: 
+      combinedGroup: _1
+    - IP: 202.152.82.205
+      LicenseHash: 08e7451e2ef4b71854dfa34c98618011604ba541
+      MachineId: L9jNDQZOQDlM1irG1GUJH/Xw1XMnTgbm48jglXoeBDE=
+      Version: u5.6.1f1
+      Location: BN
+      Userid: 18966631903316
+      count: 1
+      SerialNumber: F4-WYFA-A7WU-ZW83-WPZ9-7E7Y
+      LicenseType: F
+      ShortVer: u5.6.1f1
+      group: 1
+      rows: 30
+      users: 15
+      machines: 15
+      F: 15
+      H: 0
+      Description: 
+      combinedGroup: _1
+    - IP: 202.152.82.205
+      LicenseHash: 792944ad70839fe6caf6b8651e9fa52adf83ec03
+      MachineId: fws6n5k5uWznz7+sEyhZWfhr3Jgn26rNPdGd5T00dXY=
+      Version: u2018.4.18f1
+      Location: BN
+      Userid: 18966864977394
+      count: 1
+      SerialNumber: F4-JWF5-MZCW-5NP6-QZZW-YZED
+      LicenseType: F
+      ShortVer: u2018.4.18f1
+      group: 1
+      rows: 30
+      users: 15
+      machines: 15
+      F: 15
+      H: 0
+      Description: 
+      combinedGroup: _1
+    - IP: 202.152.82.205
+      LicenseHash: e2c09be8d311cba48a49e2cee06551e0911248c2
+      MachineId: g/e33njl0R//wBuXZnSD2frCU7xQPeU7L5sEU0HAKIk=
+      Version: u2019.3.4f1
+      Location: BN
+      Userid: 18966865150465
+      count: 1
+      SerialNumber: F4-RCKQ-R29R-66GV-QWVU-NSZM
+      LicenseType: F
+      ShortVer: u2019.3.4f1
+      group: 1
+      rows: 30
+      users: 15
+      machines: 15
+      F: 15
+      H: 0
+      Description: 
+      combinedGroup: _1
+    - IP: 202.152.82.205
+      LicenseHash: 9d11c1eccd4071fb4ea0edb8ff42c72b26907594
+      MachineId: xpKjkc7lp4I8q+jjvo8U2nd79sv9qMhz42sOOj/VGtg=
+      Version: u2019.3.0a5
+      Location: BN
+      Userid: 18966687290528
+      count: 1
+      SerialNumber: F4-AXD3-RJB3-RXCV-T6F4-MEZ7
+      LicenseType: F
+      ShortVer: u2019.3.0a5
+      group: 1
+      rows: 30
+      users: 15
+      machines: 15
+      F: 15
+      H: 0
+      Description: 
+      combinedGroup: _1
+    - IP: 61.6.230.135
+      LicenseHash: 7a4d7206bcb056ed819610a7630973fb3c98b818
+      MachineId: AnGcgUeQjB+ioe7zCfKdWMuUvS1TtNMBsk8Vpg1Mwk4=
+      Version: u2019.3.4f1
+      Location: BN
+      Userid: 476170
+      count: 4
+      SerialNumber: F4-8U7G-RZ83-CTH5-Q59K-2FM9
+      LicenseType: F
+      ShortVer: u2019.3.4f1
+      group: 1
+      rows: 30
+      users: 15
+      machines: 15
+      F: 15
+      H: 0
+      Description: 
+      combinedGroup: _1
+    - IP: 61.6.230.135
+      LicenseHash: 7a4d7206bcb056ed819610a7630973fb3c98b818
+      MachineId: AnGcgUeQjB+ioe7zCfKdWMuUvS1TtNMBsk8Vpg1Mwk4=
+      Version: u2019.2.15f1
+      Location: BN
+      Userid: 476170
+      count: 1
+      SerialNumber: F4-8U7G-RZ83-CTH5-Q59K-2FM9
+      LicenseType: F
+      ShortVer: u2019.2.15f1
+      group: 1
+      rows: 30
+      users: 15
+      machines: 15
+      F: 15
+      H: 0
+      Description: 
+      combinedGroup: _1
+    - IP: 61.6.232.5
+      LicenseHash: a7fb80322268fa2451e6e4feb1f4f6dbe515d87d
+      MachineId: iuX846AgrjVdkplF3Vi8v6rjz2fNTK8vxktVlx1xqi8=
+      Version: u2018.4.18f1
+      Location: BN
+      Userid: 18966782542661
+      count: 1
+      SerialNumber: F4-NCYV-2M6E-RXVG-K6BK-NQ4S
+      LicenseType: F
+      ShortVer: u2018.4.18f1
+      group: 1
+      rows: 30
+      users: 15
+      machines: 15
+      F: 15
+      H: 0
+      Description: 
+      combinedGroup: _1
+    - IP: 61.6.232.5
+      LicenseHash: a7fb80322268fa2451e6e4feb1f4f6dbe515d87d
+      MachineId: iuX846AgrjVdkplF3Vi8v6rjz2fNTK8vxktVlx1xqi8=
+      Version: u2018.3.9f1
+      Location: BN
+      Userid: 18966782542661
+      count: 1
+      SerialNumber: F4-NCYV-2M6E-RXVG-K6BK-NQ4S
+      LicenseType: F
+      ShortVer: u2018.3.9f1
+      group: 1
+      rows: 30
+      users: 15
+      machines: 15
+      F: 15
+      H: 0
+      Description: 
+      combinedGroup: _1
+    - IP: 61.6.232.125
+      LicenseHash: 7a4d7206bcb056ed819610a7630973fb3c98b818
+      MachineId: AnGcgUeQjB+ioe7zCfKdWMuUvS1TtNMBsk8Vpg1Mwk4=
+      Version: u2019.3.4f1
+      Location: BN
+      Userid: 476170
+      count: 2
+      SerialNumber: F4-8U7G-RZ83-CTH5-Q59K-2FM9
+      LicenseType: F
+      ShortVer: u2019.3.4f1
+      group: 1
+      rows: 30
+      users: 15
+      machines: 15
+      F: 15
+      H: 0
+      Description: 
+      combinedGroup: _1
+    - IP: 61.6.230.61
+      LicenseHash: a7fb80322268fa2451e6e4feb1f4f6dbe515d87d
+      MachineId: iuX846AgrjVdkplF3Vi8v6rjz2fNTK8vxktVlx1xqi8=
+      Version: u2018.4.18f1
+      Location: BN
+      Userid: 18966782542661
+      count: 1
+      SerialNumber: F4-NCYV-2M6E-RXVG-K6BK-NQ4S
+      LicenseType: F
+      ShortVer: u2018.4.18f1
+      group: 1
+      rows: 30
+      users: 15
+      machines: 15
+      F: 15
+      H: 0
+      Description: 
+      combinedGroup: _1
+    - IP: 202.152.86.180
+      LicenseHash: a7fb80322268fa2451e6e4feb1f4f6dbe515d87d
+      MachineId: iuX846AgrjVdkplF3Vi8v6rjz2fNTK8vxktVlx1xqi8=
+      Version: u2018.4.18f1
+      Location: BN
+      Userid: 18966782542661
+      count: 3
+      SerialNumber: F4-NCYV-2M6E-RXVG-K6BK-NQ4S
+      LicenseType: F
+      ShortVer: u2018.4.18f1
+      group: 1
+      rows: 30
+      users: 15
+      machines: 15
+      F: 15
+      H: 0
+      Description: 
+      combinedGroup: _1
+    - IP: 61.6.239.198
+      LicenseHash: 976b6acbc98d7af5dde5fdf1fd4f332a3ca065b0
+      MachineId: 9IIh6DATZKVPtOF4uyxhBSbuyW6RWlc4b5E4+uVw9uk=
+      Version: u2018.2.1f1
+      Location: BN
+      Userid: 18966724645885
+      count: 1
+      SerialNumber: F4-4NUN-5YRG-3DCV-777D-7Q9N
+      LicenseType: F
+      ShortVer: u2018.2.1f1
+      group: 1
+      rows: 30
+      users: 15
+      machines: 15
+      F: 15
+      H: 0
+      Description: 
+      combinedGroup: _1
+    - IP: 202.152.71.24
+      LicenseHash: 976b6acbc98d7af5dde5fdf1fd4f332a3ca065b0
+      MachineId: 9IIh6DATZKVPtOF4uyxhBSbuyW6RWlc4b5E4+uVw9uk=
+      Version: u2018.2.1f1
+      Location: BN
+      Userid: 18966724645885
+      count: 1
+      SerialNumber: F4-4NUN-5YRG-3DCV-777D-7Q9N
+      LicenseType: F
+      ShortVer: u2018.2.1f1
+      group: 1
+      rows: 30
+      users: 15
+      machines: 15
+      F: 15
+      H: 0
+      Description: 
+      combinedGroup: _1
+    - IP: 202.152.78.153
+      LicenseHash: d0dab4a4973a9dfd312cc3e07282257257747b9d
+      MachineId: uh9j/6ZhHDklb4iR17LsBK+S6OR3wDR/02+YfVU0pMk=
+      Version: u2019.3.3f1
+      Location: BN
+      Userid: 18966860839457
+      count: 3
+      SerialNumber: F4-KWAA-EGTS-XPV4-3AAH-QSWP
+      LicenseType: F
+      ShortVer: u2019.3.3f1
+      group: 1
+      rows: 30
+      users: 15
+      machines: 15
+      F: 15
+      H: 0
+      Description: 
+      combinedGroup: _1
+    - IP: 61.6.235.229
+      LicenseHash: 08e7451e2ef4b71854dfa34c98618011604ba541
+      MachineId: L9jNDQZOQDlM1irG1GUJH/Xw1XMnTgbm48jglXoeBDE=
+      Version: u5.6.1f1
+      Location: BN
+      Userid: 18966631903316
+      count: 1
+      SerialNumber: F4-WYFA-A7WU-ZW83-WPZ9-7E7Y
+      LicenseType: F
+      ShortVer: u5.6.1f1
+      group: 1
+      rows: 30
+      users: 15
+      machines: 15
+      F: 15
+      H: 0
+      Description: 
+      combinedGroup: _1
+    - IP: 61.6.230.30
+      LicenseHash: 08e7451e2ef4b71854dfa34c98618011604ba541
+      MachineId: L9jNDQZOQDlM1irG1GUJH/Xw1XMnTgbm48jglXoeBDE=
+      Version: u5.6.1f1
+      Location: BN
+      Userid: 18966631903316
+      count: 3
+      SerialNumber: F4-WYFA-A7WU-ZW83-WPZ9-7E7Y
+      LicenseType: F
+      ShortVer: u5.6.1f1
+      group: 1
+      rows: 30
+      users: 15
+      machines: 15
+      F: 15
+      H: 0
+      Description: 
+      combinedGroup: _1
+    - IP: 61.6.236.124
+      LicenseHash: 792944ad70839fe6caf6b8651e9fa52adf83ec03
+      MachineId: fws6n5k5uWznz7+sEyhZWfhr3Jgn26rNPdGd5T00dXY=
+      Version: u2018.4.18f1
+      Location: BN
+      Userid: 18966864977394
+      count: 1
+      SerialNumber: F4-JWF5-MZCW-5NP6-QZZW-YZED
+      LicenseType: F
+      ShortVer: u2018.4.18f1
+      group: 1
+      rows: 30
+      users: 15
+      machines: 15
+      F: 15
+      H: 0
+      Description: 
+      combinedGroup: _1
+    - IP: 202.152.86.241
+      LicenseHash: 792944ad70839fe6caf6b8651e9fa52adf83ec03
+      MachineId: fws6n5k5uWznz7+sEyhZWfhr3Jgn26rNPdGd5T00dXY=
+      Version: u2018.4.18f1
+      Location: BN
+      Userid: 18966864977394
+      count: 1
+      SerialNumber: F4-JWF5-MZCW-5NP6-QZZW-YZED
+      LicenseType: F
+      ShortVer: u2018.4.18f1
+      group: 1
+      rows: 30
+      users: 15
+      machines: 15
+      F: 15
+      H: 0
+      Description: 
+      combinedGroup: _1
+    - IP: 202.152.70.87
+      LicenseHash: 876db752ef4608611b6e84025b2b8a16391f8a8b
+      MachineId: barqGpwm9mieU7xfnqgLwhAHJqmKfwUe8Dhe6obIw2s=
+      Version: u2019.3.4f1
+      Location: BN
+      Userid: 18966859247010
+      count: 2
+      SerialNumber: F4-NGW2-KJSB-NGWS-SRT7-B6RM
+      LicenseType: F
+      ShortVer: u2019.3.4f1
+      group: 2
+      rows: 17
+      users: 4
+      machines: 6
+      F: 6
+      H: 0
+      Description: 
+      combinedGroup: _2
+    - IP: 202.152.70.87
+      LicenseHash: 4e3406bb6f4d46a238109d359cae3ae8a6c00d9e
+      MachineId: +8x3zREKLwO4iukEz7e8R8K4qcouPwCQmQCW1o9FUyI=
+      Version: u2019.2.17f1
+      Location: BN
+      Userid: 18966729125776
+      count: 2
+      SerialNumber: F4-9TVT-5Z7A-W9W6-AU9D-PPKN
+      LicenseType: F
+      ShortVer: u2019.2.17f1
+      group: 2
+      rows: 17
+      users: 4
+      machines: 6
+      F: 6
+      H: 0
+      Description: 
+      combinedGroup: _2
+    - IP: 202.152.70.87
+      LicenseHash: 136b62cc67c480f88de0d492eef9173307cb2d8c
+      MachineId: IjX+Kp7N2I42UOg6DEKksCYQAavCrtHZyLJjIuogQf8=
+      Version: u2019.2.17f1
+      Location: BN
+      Userid: 18966745574774
+      count: 1
+      SerialNumber: F4-H4BA-R2PB-ADZ6-P23K-474M
+      LicenseType: F
+      ShortVer: u2019.2.17f1
+      group: 2
+      rows: 17
+      users: 4
+      machines: 6
+      F: 6
+      H: 0
+      Description: 
+      combinedGroup: _2
+    - IP: 202.152.70.87
+      LicenseHash: 152ab75a21b4a11210627a1442456237f74c9ce5
+      MachineId: oZiwoGFS2GCmvI7cRigUss6x8zKoC1uif9qOErZ3pfQ=
+      Version: u2019.3.4f1
+      Location: BN
+      Userid: 18966859151635
+      count: 1
+      SerialNumber: F4-MWR2-JY8U-MDT4-SDNY-CEJS
+      LicenseType: F
+      ShortVer: u2019.3.4f1
+      group: 2
+      rows: 17
+      users: 4
+      machines: 6
+      F: 6
+      H: 0
+      Description: 
+      combinedGroup: _2
+    - IP: 202.152.71.78
+      LicenseHash: 876db752ef4608611b6e84025b2b8a16391f8a8b
+      MachineId: barqGpwm9mieU7xfnqgLwhAHJqmKfwUe8Dhe6obIw2s=
+      Version: u2019.3.4f1
+      Location: BN
+      Userid: 18966859247010
+      count: 1
+      SerialNumber: F4-NGW2-KJSB-NGWS-SRT7-B6RM
+      LicenseType: F
+      ShortVer: u2019.3.4f1
+      group: 2
+      rows: 17
+      users: 4
+      machines: 6
+      F: 6
+      H: 0
+      Description: 
+      combinedGroup: _2
+    - IP: 202.152.71.78
+      LicenseHash: 4e3406bb6f4d46a238109d359cae3ae8a6c00d9e
+      MachineId: +8x3zREKLwO4iukEz7e8R8K4qcouPwCQmQCW1o9FUyI=
+      Version: u2019.2.17f1
+      Location: BN
+      Userid: 18966729125776
+      count: 3
+      SerialNumber: F4-9TVT-5Z7A-W9W6-AU9D-PPKN
+      LicenseType: F
+      ShortVer: u2019.2.17f1
+      group: 2
+      rows: 17
+      users: 4
+      machines: 6
+      F: 6
+      H: 0
+      Description: 
+      combinedGroup: _2
+    - IP: 202.152.71.78
+      LicenseHash: 152ab75a21b4a11210627a1442456237f74c9ce5
+      MachineId: oZiwoGFS2GCmvI7cRigUss6x8zKoC1uif9qOErZ3pfQ=
+      Version: u2019.3.4f1
+      Location: BN
+      Userid: 18966859151635
+      count: 5
+      SerialNumber: F4-MWR2-JY8U-MDT4-SDNY-CEJS
+      LicenseType: F
+      ShortVer: u2019.3.4f1
+      group: 2
+      rows: 17
+      users: 4
+      machines: 6
+      F: 6
+      H: 0
+      Description: 
+      combinedGroup: _2
+    - IP: 61.6.201.153
+      LicenseHash: 152ab75a21b4a11210627a1442456237f74c9ce5
+      MachineId: AmwVzMxWzj/lN7JpW+8TIJfca8n8/M6FmIA3Cs7Epv8=
+      Version: u2019.3.4f1
+      Location: BN
+      Userid: 18966859151635
+      count: 10
+      SerialNumber: F4-MWR2-JY8U-MDT4-SDNY-CEJS
+      LicenseType: F
+      ShortVer: u2019.3.4f1
+      group: 2
+      rows: 17
+      users: 4
+      machines: 6
+      F: 6
+      H: 0
+      Description: 
+      combinedGroup: _2
+    - IP: 61.6.201.153
+      LicenseHash: 152ab75a21b4a11210627a1442456237f74c9ce5
+      MachineId: AmwVzMxWzj/lN7JpW+8TIJfca8n8/M6FmIA3Cs7Epv8=
+      Version: u2019.3.5f1
+      Location: BN
+      Userid: 18966859151635
+      count: 3
+      SerialNumber: F4-MWR2-JY8U-MDT4-SDNY-CEJS
+      LicenseType: F
+      ShortVer: u2019.3.5f1
+      group: 2
+      rows: 17
+      users: 4
+      machines: 6
+      F: 6
+      H: 0
+      Description: 
+      combinedGroup: _2
+    - IP: 61.6.201.153
+      LicenseHash: 152ab75a21b4a11210627a1442456237f74c9ce5
+      MachineId: oZiwoGFS2GCmvI7cRigUss6x8zKoC1uif9qOErZ3pfQ=
+      Version: u2019.3.4f1
+      Location: BN
+      Userid: 18966859151635
+      count: 1
+      SerialNumber: F4-MWR2-JY8U-MDT4-SDNY-CEJS
+      LicenseType: F
+      ShortVer: u2019.3.4f1
+      group: 2
+      rows: 17
+      users: 4
+      machines: 6
+      F: 6
+      H: 0
+      Description: 
+      combinedGroup: _2
+    - IP: 61.6.233.91
+      LicenseHash: 4e3406bb6f4d46a238109d359cae3ae8a6c00d9e
+      MachineId: SLlLD9vXbfmLu6Mp0O5XaM34NlmQWWDS2Rhue61LY/4=
+      Version: u2019.2.17f1
+      Location: BN
+      Userid: 18966729125776
+      count: 1
+      SerialNumber: F4-9TVT-5Z7A-W9W6-AU9D-PPKN
+      LicenseType: F
+      ShortVer: u2019.2.17f1
+      group: 2
+      rows: 17
+      users: 4
+      machines: 6
+      F: 6
+      H: 0
+      Description: 
+      combinedGroup: _2
+    - IP: 61.6.233.91
+      LicenseHash: 4e3406bb6f4d46a238109d359cae3ae8a6c00d9e
+      MachineId: SLlLD9vXbfmLu6Mp0O5XaM34NlmQWWDS2Rhue61LY/4=
+      Version: u2019.1.6f1
+      Location: BN
+      Userid: 18966729125776
+      count: 1
+      SerialNumber: F4-9TVT-5Z7A-W9W6-AU9D-PPKN
+      LicenseType: F
+      ShortVer: u2019.1.6f1
+      group: 2
+      rows: 17
+      users: 4
+      machines: 6
+      F: 6
+      H: 0
+      Description: 
+      combinedGroup: _2
+    - IP: 61.6.233.202
+      LicenseHash: 4e3406bb6f4d46a238109d359cae3ae8a6c00d9e
+      MachineId: SLlLD9vXbfmLu6Mp0O5XaM34NlmQWWDS2Rhue61LY/4=
+      Version: u2019.1.6f1
+      Location: BN
+      Userid: 18966729125776
+      count: 1
+      SerialNumber: F4-9TVT-5Z7A-W9W6-AU9D-PPKN
+      LicenseType: F
+      ShortVer: u2019.1.6f1
+      group: 2
+      rows: 17
+      users: 4
+      machines: 6
+      F: 6
+      H: 0
+      Description: 
+      combinedGroup: _2
+    - IP: 61.6.233.202
+      LicenseHash: 4e3406bb6f4d46a238109d359cae3ae8a6c00d9e
+      MachineId: SLlLD9vXbfmLu6Mp0O5XaM34NlmQWWDS2Rhue61LY/4=
+      Version: u2019.2.17f1
+      Location: BN
+      Userid: 18966729125776
+      count: 1
+      SerialNumber: F4-9TVT-5Z7A-W9W6-AU9D-PPKN
+      LicenseType: F
+      ShortVer: u2019.2.17f1
+      group: 2
+      rows: 17
+      users: 4
+      machines: 6
+      F: 6
+      H: 0
+      Description: 
+      combinedGroup: _2
+    - IP: 61.6.232.8
+      LicenseHash: 876db752ef4608611b6e84025b2b8a16391f8a8b
+      MachineId: barqGpwm9mieU7xfnqgLwhAHJqmKfwUe8Dhe6obIw2s=
+      Version: u2019.3.4f1
+      Location: BN
+      Userid: 18966859247010
+      count: 1
+      SerialNumber: F4-NGW2-KJSB-NGWS-SRT7-B6RM
+      LicenseType: F
+      ShortVer: u2019.3.4f1
+      group: 2
+      rows: 17
+      users: 4
+      machines: 6
+      F: 6
+      H: 0
+      Description: 
+      combinedGroup: _2
+    - IP: 61.6.232.6
+      LicenseHash: 876db752ef4608611b6e84025b2b8a16391f8a8b
+      MachineId: barqGpwm9mieU7xfnqgLwhAHJqmKfwUe8Dhe6obIw2s=
+      Version: u2019.3.4f1
+      Location: BN
+      Userid: 18966859247010
+      count: 1
+      SerialNumber: F4-NGW2-KJSB-NGWS-SRT7-B6RM
+      LicenseType: F
+      ShortVer: u2019.3.4f1
+      group: 2
+      rows: 17
+      users: 4
+      machines: 6
+      F: 6
+      H: 0
+      Description: 
+      combinedGroup: _2
+    - IP: 202.152.86.64
+      LicenseHash: 4e3406bb6f4d46a238109d359cae3ae8a6c00d9e
+      MachineId: +8x3zREKLwO4iukEz7e8R8K4qcouPwCQmQCW1o9FUyI=
+      Version: u2019.2.17f1
+      Location: BN
+      Userid: 18966729125776
+      count: 1
+      SerialNumber: F4-9TVT-5Z7A-W9W6-AU9D-PPKN
+      LicenseType: F
+      ShortVer: u2019.2.17f1
+      group: 2
+      rows: 17
+      users: 4
+      machines: 6
+      F: 6
+      H: 0
+      Description: 
+      combinedGroup: _2
+    - IP: 202.160.38.9
+      LicenseHash: 26ca7b0abda5f707b6c1523e5ab4054915a756b1
+      MachineId: +ZFeRKoVkeAwwATe4QjRxxupjkj5NwdLJgSeM3mb/wU=
+      Version: u2018.3.14f1
+      Location: BN
+      Userid: 18966791492885
+      count: 3
+      SerialNumber: F4-ZRN8-FSTV-H2YU-TRH8-JZVR
+      LicenseType: F
+      ShortVer: u2018.3.14f1
+      group: 3
+      rows: 12
+      users: 3
+      machines: 3
+      F: 3
+      H: 0
+      Description: 
+      combinedGroup: _3
+    - IP: 202.160.38.9
+      LicenseHash: ac643378508070ce944d29908abd22bfaf6df428
+      MachineId: xiqJ8wF8eGfst5xgSBTW6hhiK7tFcM9rR7E1vMOTTMY=
+      Version: u2019.1.11f1
+      Location: BN
+      Userid: 18966734655646
+      count: 2
+      SerialNumber: F4-R2RP-YC3D-5XEP-SJXC-KDJ4
+      LicenseType: F
+      ShortVer: u2019.1.11f1
+      group: 3
+      rows: 12
+      users: 3
+      machines: 3
+      F: 3
+      H: 0
+      Description: 
+      combinedGroup: _3
+    - IP: 202.160.38.9
+      LicenseHash: 6ced6fc200926d8b00be8cb4313725d09a4de96f
+      MachineId: 0e3WQGFL8DMV3tqAntrHncS868hhmvyJ68cFPmG6hi4=
+      Version: u2019.3.1f1
+      Location: BN
+      Userid: 18966727326577
+      count: 2
+      SerialNumber: F4-GFKH-2UW9-SJ7C-M9U6-FKCD
+      LicenseType: F
+      ShortVer: u2019.3.1f1
+      group: 3
+      rows: 12
+      users: 3
+      machines: 3
+      F: 3
+      H: 0
+      Description: 
+      combinedGroup: _3
+    - IP: 61.6.239.248
+      LicenseHash: ac643378508070ce944d29908abd22bfaf6df428
+      MachineId: xiqJ8wF8eGfst5xgSBTW6hhiK7tFcM9rR7E1vMOTTMY=
+      Version: u2019.1.11f1
+      Location: BN
+      Userid: 18966734655646
+      count: 1
+      SerialNumber: F4-R2RP-YC3D-5XEP-SJXC-KDJ4
+      LicenseType: F
+      ShortVer: u2019.1.11f1
+      group: 3
+      rows: 12
+      users: 3
+      machines: 3
+      F: 3
+      H: 0
+      Description: 
+      combinedGroup: _3
+    - IP: 61.6.238.72
+      LicenseHash: ac643378508070ce944d29908abd22bfaf6df428
+      MachineId: xiqJ8wF8eGfst5xgSBTW6hhiK7tFcM9rR7E1vMOTTMY=
+      Version: u2019.1.11f1
+      Location: BN
+      Userid: 18966734655646
+      count: 1
+      SerialNumber: F4-R2RP-YC3D-5XEP-SJXC-KDJ4
+      LicenseType: F
+      ShortVer: u2019.1.11f1
+      group: 3
+      rows: 12
+      users: 3
+      machines: 3
+      F: 3
+      H: 0
+      Description: 
+      combinedGroup: _3
+    - IP: 61.6.237.8
+      LicenseHash: ac643378508070ce944d29908abd22bfaf6df428
+      MachineId: xiqJ8wF8eGfst5xgSBTW6hhiK7tFcM9rR7E1vMOTTMY=
+      Version: u2019.1.11f1
+      Location: BN
+      Userid: 18966734655646
+      count: 1
+      SerialNumber: F4-R2RP-YC3D-5XEP-SJXC-KDJ4
+      LicenseType: F
+      ShortVer: u2019.1.11f1
+      group: 3
+      rows: 12
+      users: 3
+      machines: 3
+      F: 3
+      H: 0
+      Description: 
+      combinedGroup: _3
+    - IP: 61.6.237.188
+      LicenseHash: ac643378508070ce944d29908abd22bfaf6df428
+      MachineId: xiqJ8wF8eGfst5xgSBTW6hhiK7tFcM9rR7E1vMOTTMY=
+      Version: u2019.1.11f1
+      Location: BN
+      Userid: 18966734655646
+      count: 1
+      SerialNumber: F4-R2RP-YC3D-5XEP-SJXC-KDJ4
+      LicenseType: F
+      ShortVer: u2019.1.11f1
+      group: 3
+      rows: 12
+      users: 3
+      machines: 3
+      F: 3
+      H: 0
+      Description: 
+      combinedGroup: _3
+    - IP: 61.6.236.94
+      LicenseHash: ac643378508070ce944d29908abd22bfaf6df428
+      MachineId: xiqJ8wF8eGfst5xgSBTW6hhiK7tFcM9rR7E1vMOTTMY=
+      Version: u2019.1.11f1
+      Location: BN
+      Userid: 18966734655646
+      count: 1
+      SerialNumber: F4-R2RP-YC3D-5XEP-SJXC-KDJ4
+      LicenseType: F
+      ShortVer: u2019.1.11f1
+      group: 3
+      rows: 12
+      users: 3
+      machines: 3
+      F: 3
+      H: 0
+      Description: 
+      combinedGroup: _3
+    - IP: 202.152.86.230
+      LicenseHash: ac643378508070ce944d29908abd22bfaf6df428
+      MachineId: xiqJ8wF8eGfst5xgSBTW6hhiK7tFcM9rR7E1vMOTTMY=
+      Version: u2019.1.11f1
+      Location: BN
+      Userid: 18966734655646
+      count: 1
+      SerialNumber: F4-R2RP-YC3D-5XEP-SJXC-KDJ4
+      LicenseType: F
+      ShortVer: u2019.1.11f1
+      group: 3
+      rows: 12
+      users: 3
+      machines: 3
+      F: 3
+      H: 0
+      Description: 
+      combinedGroup: _3
+    - IP: 202.152.72.76
+      LicenseHash: ac643378508070ce944d29908abd22bfaf6df428
+      MachineId: xiqJ8wF8eGfst5xgSBTW6hhiK7tFcM9rR7E1vMOTTMY=
+      Version: u2019.1.11f1
+      Location: BN
+      Userid: 18966734655646
+      count: 1
+      SerialNumber: F4-R2RP-YC3D-5XEP-SJXC-KDJ4
+      LicenseType: F
+      ShortVer: u2019.1.11f1
+      group: 3
+      rows: 12
+      users: 3
+      machines: 3
+      F: 3
+      H: 0
+      Description: 
+      combinedGroup: _3
+    - IP: 61.6.237.103
+      LicenseHash: 6ced6fc200926d8b00be8cb4313725d09a4de96f
+      MachineId: 0e3WQGFL8DMV3tqAntrHncS868hhmvyJ68cFPmG6hi4=
+      Version: u2019.3.1f1
+      Location: BN
+      Userid: 18966727326577
+      count: 1
+      SerialNumber: F4-GFKH-2UW9-SJ7C-M9U6-FKCD
+      LicenseType: F
+      ShortVer: u2019.3.1f1
+      group: 3
+      rows: 12
+      users: 3
+      machines: 3
+      F: 3
+      H: 0
+      Description: 
+      combinedGroup: _3
+    - IP: 61.6.236.255
+      LicenseHash: 6ced6fc200926d8b00be8cb4313725d09a4de96f
+      MachineId: 0e3WQGFL8DMV3tqAntrHncS868hhmvyJ68cFPmG6hi4=
+      Version: u2019.3.1f1
+      Location: BN
+      Userid: 18966727326577
+      count: 3
+      SerialNumber: F4-GFKH-2UW9-SJ7C-M9U6-FKCD
+      LicenseType: F
+      ShortVer: u2019.3.1f1
+      group: 3
+      rows: 12
+      users: 3
+      machines: 3
+      F: 3
+      H: 0
+      Description: 
+      combinedGroup: _3
+    - IP: 61.6.239.36
+      LicenseHash: 14573f7316c29fad248a0dfce985b7dd1f4eacc3
+      MachineId: +rAZEpeOfAgyM7bWmDl7HKCKu3XsuGlnNZddxz3FRfg=
+      Version: u2017.4.28f1
+      Location: BN
+      Userid: 18966687556966
+      count: 4
+      SerialNumber: F4-TY6J-C726-TAQS-3DHW-76WZ
+      LicenseType: F
+      ShortVer: u2017.4.28f1
+      group: 4
+      rows: 9
+      users: 2
+      machines: 2
+      F: 2
+      H: 0
+      Description: 
+      combinedGroup: _4
+    - IP: 61.6.239.36
+      LicenseHash: dea4c41de132ca1b9f939ec154727967f78335be
+      MachineId: tF4uFmzuzPq28PzEu+JLVQ2n+5wuqP7AlaTwhrIxuh8=
+      Version: u2018.4.15f1
+      Location: BN
+      Userid: 18966826251912
+      count: 1
+      SerialNumber: F4-2K9G-9NDH-6XC5-4CMA-3BBQ
+      LicenseType: F
+      ShortVer: u2018.4.15f1
+      group: 4
+      rows: 9
+      users: 2
+      machines: 2
+      F: 2
+      H: 0
+      Description: 
+      combinedGroup: _4
+    - IP: 61.6.239.12
+      LicenseHash: 14573f7316c29fad248a0dfce985b7dd1f4eacc3
+      MachineId: +rAZEpeOfAgyM7bWmDl7HKCKu3XsuGlnNZddxz3FRfg=
+      Version: u2017.4.28f1
+      Location: BN
+      Userid: 18966687556966
+      count: 1
+      SerialNumber: F4-TY6J-C726-TAQS-3DHW-76WZ
+      LicenseType: F
+      ShortVer: u2017.4.28f1
+      group: 4
+      rows: 9
+      users: 2
+      machines: 2
+      F: 2
+      H: 0
+      Description: 
+      combinedGroup: _4
+    - IP: 61.6.238.13
+      LicenseHash: 14573f7316c29fad248a0dfce985b7dd1f4eacc3
+      MachineId: +rAZEpeOfAgyM7bWmDl7HKCKu3XsuGlnNZddxz3FRfg=
+      Version: u2017.4.28f1
+      Location: BN
+      Userid: 18966687556966
+      count: 1
+      SerialNumber: F4-TY6J-C726-TAQS-3DHW-76WZ
+      LicenseType: F
+      ShortVer: u2017.4.28f1
+      group: 4
+      rows: 9
+      users: 2
+      machines: 2
+      F: 2
+      H: 0
+      Description: 
+      combinedGroup: _4
+    - IP: 61.6.238.125
+      LicenseHash: 14573f7316c29fad248a0dfce985b7dd1f4eacc3
+      MachineId: +rAZEpeOfAgyM7bWmDl7HKCKu3XsuGlnNZddxz3FRfg=
+      Version: u2017.4.28f1
+      Location: BN
+      Userid: 18966687556966
+      count: 1
+      SerialNumber: F4-TY6J-C726-TAQS-3DHW-76WZ
+      LicenseType: F
+      ShortVer: u2017.4.28f1
+      group: 4
+      rows: 9
+      users: 2
+      machines: 2
+      F: 2
+      H: 0
+      Description: 
+      combinedGroup: _4
+    - IP: 61.6.237.12
+      LicenseHash: 14573f7316c29fad248a0dfce985b7dd1f4eacc3
+      MachineId: +rAZEpeOfAgyM7bWmDl7HKCKu3XsuGlnNZddxz3FRfg=
+      Version: u2017.4.28f1
+      Location: BN
+      Userid: 18966687556966
+      count: 4
+      SerialNumber: F4-TY6J-C726-TAQS-3DHW-76WZ
+      LicenseType: F
+      ShortVer: u2017.4.28f1
+      group: 4
+      rows: 9
+      users: 2
+      machines: 2
+      F: 2
+      H: 0
+      Description: 
+      combinedGroup: _4
+    - IP: 61.6.236.191
+      LicenseHash: 14573f7316c29fad248a0dfce985b7dd1f4eacc3
+      MachineId: +rAZEpeOfAgyM7bWmDl7HKCKu3XsuGlnNZddxz3FRfg=
+      Version: u2017.4.28f1
+      Location: BN
+      Userid: 18966687556966
+      count: 2
+      SerialNumber: F4-TY6J-C726-TAQS-3DHW-76WZ
+      LicenseType: F
+      ShortVer: u2017.4.28f1
+      group: 4
+      rows: 9
+      users: 2
+      machines: 2
+      F: 2
+      H: 0
+      Description: 
+      combinedGroup: _4
+    - IP: 61.6.236.112
+      LicenseHash: 14573f7316c29fad248a0dfce985b7dd1f4eacc3
+      MachineId: +rAZEpeOfAgyM7bWmDl7HKCKu3XsuGlnNZddxz3FRfg=
+      Version: u2017.4.28f1
+      Location: BN
+      Userid: 18966687556966
+      count: 1
+      SerialNumber: F4-TY6J-C726-TAQS-3DHW-76WZ
+      LicenseType: F
+      ShortVer: u2017.4.28f1
+      group: 4
+      rows: 9
+      users: 2
+      machines: 2
+      F: 2
+      H: 0
+      Description: 
+      combinedGroup: _4
+    - IP: 61.6.236.170
+      LicenseHash: dea4c41de132ca1b9f939ec154727967f78335be
+      MachineId: tF4uFmzuzPq28PzEu+JLVQ2n+5wuqP7AlaTwhrIxuh8=
+      Version: u2018.4.15f1
+      Location: BN
+      Userid: 18966826251912
+      count: 2
+      SerialNumber: F4-2K9G-9NDH-6XC5-4CMA-3BBQ
+      LicenseType: F
+      ShortVer: u2018.4.15f1
+      group: 4
+      rows: 9
+      users: 2
+      machines: 2
+      F: 2
+      H: 0
+      Description: 
+      combinedGroup: _4
+    - IP: 61.6.232.207
+      LicenseHash: 4dacb14990fe0593f43c15d4518da0f030b1d511
+      MachineId: lxqcoAdB7Ap7CwRWrq3zxbS8OYmFh6VsOL6hYQirvA4=
+      Version: u2017.4.15f1
+      Location: BN
+      Userid: 18966735669186
+      count: 2
+      SerialNumber: F4-YSYD-28CF-W6CH-PREV-2TM2
+      LicenseType: F
+      ShortVer: u2017.4.15f1
+      group: 6
+      rows: 7
+      users: 2
+      machines: 2
+      F: 2
+      H: 0
+      Description: 
+      combinedGroup: _6
+    - IP: 61.6.232.207
+      LicenseHash: 9d0e18607429b3d9f9934ea942c5ffd41dc8005e
+      MachineId: p7ro4MS1X6l1kN+TDsVM3NPvMZfo7ZYqtpDSgjGPLjw=
+      Version: u2018.4.5f1
+      Location: BN
+      Userid: 18966791882247
+      count: 1
+      SerialNumber: F4-GV6X-8YWV-T3YN-WVBJ-WYBB
+      LicenseType: F
+      ShortVer: u2018.4.5f1
+      group: 6
+      rows: 7
+      users: 2
+      machines: 2
+      F: 2
+      H: 0
+      Description: 
+      combinedGroup: _6
+    - IP: 61.6.232.127
+      LicenseHash: 4dacb14990fe0593f43c15d4518da0f030b1d511
+      MachineId: lxqcoAdB7Ap7CwRWrq3zxbS8OYmFh6VsOL6hYQirvA4=
+      Version: u2017.4.15f1
+      Location: BN
+      Userid: 18966735669186
+      count: 5
+      SerialNumber: F4-YSYD-28CF-W6CH-PREV-2TM2
+      LicenseType: F
+      ShortVer: u2017.4.15f1
+      group: 6
+      rows: 7
+      users: 2
+      machines: 2
+      F: 2
+      H: 0
+      Description: 
+      combinedGroup: _6
+    - IP: 61.6.235.72
+      LicenseHash: 9d0e18607429b3d9f9934ea942c5ffd41dc8005e
+      MachineId: p7ro4MS1X6l1kN+TDsVM3NPvMZfo7ZYqtpDSgjGPLjw=
+      Version: u2018.4.5f1
+      Location: BN
+      Userid: 18966791882247
+      count: 2
+      SerialNumber: F4-GV6X-8YWV-T3YN-WVBJ-WYBB
+      LicenseType: F
+      ShortVer: u2018.4.5f1
+      group: 6
+      rows: 7
+      users: 2
+      machines: 2
+      F: 2
+      H: 0
+      Description: 
+      combinedGroup: _6
+    - IP: 61.6.233.35
+      LicenseHash: 9d0e18607429b3d9f9934ea942c5ffd41dc8005e
+      MachineId: p7ro4MS1X6l1kN+TDsVM3NPvMZfo7ZYqtpDSgjGPLjw=
+      Version: u2018.4.5f1
+      Location: BN
+      Userid: 18966791882247
+      count: 1
+      SerialNumber: F4-GV6X-8YWV-T3YN-WVBJ-WYBB
+      LicenseType: F
+      ShortVer: u2018.4.5f1
+      group: 6
+      rows: 7
+      users: 2
+      machines: 2
+      F: 2
+      H: 0
+      Description: 
+      combinedGroup: _6
+    - IP: 61.6.233.141
+      LicenseHash: 9d0e18607429b3d9f9934ea942c5ffd41dc8005e
+      MachineId: p7ro4MS1X6l1kN+TDsVM3NPvMZfo7ZYqtpDSgjGPLjw=
+      Version: u2018.4.5f1
+      Location: BN
+      Userid: 18966791882247
+      count: 1
+      SerialNumber: F4-GV6X-8YWV-T3YN-WVBJ-WYBB
+      LicenseType: F
+      ShortVer: u2018.4.5f1
+      group: 6
+      rows: 7
+      users: 2
+      machines: 2
+      F: 2
+      H: 0
+      Description: 
+      combinedGroup: _6
+    - IP: 61.6.230.233
+      LicenseHash: 9d0e18607429b3d9f9934ea942c5ffd41dc8005e
+      MachineId: p7ro4MS1X6l1kN+TDsVM3NPvMZfo7ZYqtpDSgjGPLjw=
+      Version: u2018.4.5f1
+      Location: BN
+      Userid: 18966791882247
+      count: 1
+      SerialNumber: F4-GV6X-8YWV-T3YN-WVBJ-WYBB
+      LicenseType: F
+      ShortVer: u2018.4.5f1
+      group: 6
+      rows: 7
+      users: 2
+      machines: 2
+      F: 2
+      H: 0
+      Description: 
+      combinedGroup: _6
+    - IP: 103.4.190.241
+      LicenseHash: 454dd93e26107473bb2cf6880ed4182f5a833fea
+      MachineId: uNuVukhZDh3p0vaVziVD44Tem1W4UBR0wLq8RLJWvLE=
+      Version: u2018.3.0f2
+      Location: BN
+      Userid: 18966777961374
+      count: 6
+      SerialNumber: F4-CXCS-ERUF-H4G2-USQG-WJM3
+      LicenseType: F
+      ShortVer: u2018.3.0f2
+      group: 7
+      rows: 4
+      users: 2
+      machines: 2
+      F: 2
+      H: 0
+      Description: 
+      combinedGroup: _7
+    - IP: 103.4.190.241
+      LicenseHash: 5e875f54adea3bc2600d7f3bfdf08f9c48906705
+      MachineId: vRNjALmo9cuf+xHScnl9bKhIZMnMzAvJyn9FaKJnt4o=
+      Version: u2020.1.0a25
+      Location: BN
+      Userid: 18966857486708
+      count: 3
+      SerialNumber: F4-5P9T-WWJ2-9AZ6-5B4T-GXE3
+      LicenseType: F
+      ShortVer: u2020.1.0a25
+      group: 7
+      rows: 4
+      users: 2
+      machines: 2
+      F: 2
+      H: 0
+      Description: 
+      combinedGroup: _7
+    - IP: 61.6.235.231
+      LicenseHash: 454dd93e26107473bb2cf6880ed4182f5a833fea
+      MachineId: uNuVukhZDh3p0vaVziVD44Tem1W4UBR0wLq8RLJWvLE=
+      Version: u2018.3.0f2
+      Location: BN
+      Userid: 18966777961374
+      count: 5
+      SerialNumber: F4-CXCS-ERUF-H4G2-USQG-WJM3
+      LicenseType: F
+      ShortVer: u2018.3.0f2
+      group: 7
+      rows: 4
+      users: 2
+      machines: 2
+      F: 2
+      H: 0
+      Description: 
+      combinedGroup: _7
+    - IP: 61.6.233.97
+      LicenseHash: 454dd93e26107473bb2cf6880ed4182f5a833fea
+      MachineId: uNuVukhZDh3p0vaVziVD44Tem1W4UBR0wLq8RLJWvLE=
+      Version: u2018.3.0f2
+      Location: BN
+      Userid: 18966777961374
+      count: 6
+      SerialNumber: F4-CXCS-ERUF-H4G2-USQG-WJM3
+      LicenseType: F
+      ShortVer: u2018.3.0f2
+      group: 7
+      rows: 4
+      users: 2
+      machines: 2
+      F: 2
+      H: 0
+      Description: 
+      combinedGroup: _7
+    - IP: 61.6.235.101
+      LicenseHash: 82ebc65cf737ece6b0c7cfb402a8cb20355e4de7
+      MachineId: /kcIxKJhVAGkHB7e0o8RF5pvkI56TVbCRdbsOX5r1FU=
+      Version: u2018.4.9f1
+      Location: BN
+      Userid: 4348781
+      count: 2
+      SerialNumber: F4-N9JZ-HAK4-WV9G-D6FA-AXBX
+      LicenseType: F
+      ShortVer: u2018.4.9f1
+      group: 24
+      rows: 7
+      users: 1
+      machines: 2
+      F: 2
+      H: 0
+      Description: 
+      combinedGroup: _24
+    - IP: 202.152.86.13
+      LicenseHash: 82ebc65cf737ece6b0c7cfb402a8cb20355e4de7
+      MachineId: /kcIxKJhVAGkHB7e0o8RF5pvkI56TVbCRdbsOX5r1FU=
+      Version: u2018.4.9f1
+      Location: BN
+      Userid: 4348781
+      count: 1
+      SerialNumber: F4-N9JZ-HAK4-WV9G-D6FA-AXBX
+      LicenseType: F
+      ShortVer: u2018.4.9f1
+      group: 24
+      rows: 7
+      users: 1
+      machines: 2
+      F: 2
+      H: 0
+      Description: 
+      combinedGroup: _24
+    - IP: 202.152.71.76
+      LicenseHash: 82ebc65cf737ece6b0c7cfb402a8cb20355e4de7
+      MachineId: E5q3KDTlNV4/BuHxSiKmol7tOPqyz6iCWDMm1oO9OlM=
+      Version: u2018.4.0f1
+      Location: BN
+      Userid: 4348781
+      count: 1
+      SerialNumber: F4-N9JZ-HAK4-WV9G-D6FA-AXBX
+      LicenseType: F
+      ShortVer: u2018.4.0f1
+      group: 24
+      rows: 7
+      users: 1
+      machines: 2
+      F: 2
+      H: 0
+      Description: 
+      combinedGroup: _24
+    - IP: 202.152.71.73
+      LicenseHash: 82ebc65cf737ece6b0c7cfb402a8cb20355e4de7
+      MachineId: /kcIxKJhVAGkHB7e0o8RF5pvkI56TVbCRdbsOX5r1FU=
+      Version: u2018.4.9f1
+      Location: BN
+      Userid: 4348781
+      count: 1
+      SerialNumber: F4-N9JZ-HAK4-WV9G-D6FA-AXBX
+      LicenseType: F
+      ShortVer: u2018.4.9f1
+      group: 24
+      rows: 7
+      users: 1
+      machines: 2
+      F: 2
+      H: 0
+      Description: 
+      combinedGroup: _24
+    - IP: 202.152.70.78
+      LicenseHash: 82ebc65cf737ece6b0c7cfb402a8cb20355e4de7
+      MachineId: E5q3KDTlNV4/BuHxSiKmol7tOPqyz6iCWDMm1oO9OlM=
+      Version: u2018.4.0f1
+      Location: BN
+      Userid: 4348781
+      count: 1
+      SerialNumber: F4-N9JZ-HAK4-WV9G-D6FA-AXBX
+      LicenseType: F
+      ShortVer: u2018.4.0f1
+      group: 24
+      rows: 7
+      users: 1
+      machines: 2
+      F: 2
+      H: 0
+      Description: 
+      combinedGroup: _24
+    - IP: 119.160.132.40
+      LicenseHash: 82ebc65cf737ece6b0c7cfb402a8cb20355e4de7
+      MachineId: /kcIxKJhVAGkHB7e0o8RF5pvkI56TVbCRdbsOX5r1FU=
+      Version: u2018.4.9f1
+      Location: BN
+      Userid: 4348781
+      count: 2
+      SerialNumber: F4-N9JZ-HAK4-WV9G-D6FA-AXBX
+      LicenseType: F
+      ShortVer: u2018.4.9f1
+      group: 24
+      rows: 7
+      users: 1
+      machines: 2
+      F: 2
+      H: 0
+      Description: 
+      combinedGroup: _24
+    - IP: 119.160.132.165
+      LicenseHash: 82ebc65cf737ece6b0c7cfb402a8cb20355e4de7
+      MachineId: /kcIxKJhVAGkHB7e0o8RF5pvkI56TVbCRdbsOX5r1FU=
+      Version: u2018.4.9f1
+      Location: BN
+      Userid: 4348781
+      count: 1
+      SerialNumber: F4-N9JZ-HAK4-WV9G-D6FA-AXBX
+      LicenseType: F
+      ShortVer: u2018.4.9f1
+      group: 24
+      rows: 7
+      users: 1
+      machines: 2
+      F: 2
+      H: 0
+      Description: 
+      combinedGroup: _24
+    - IP: 61.6.238.77
+      LicenseHash: 3f8d005ec8ce61dbb93f8b29acc8c9f61c3f3a63
+      MachineId: 3OMgi7tvM5A5jb/ztPYNdJ5J7EwE9XuZ6YKsrgL/Y44=
+      Version: u2019.3.2f1
+      Location: BN
+      Userid: 18966709088661
+      count: 1
+      SerialNumber: I3-36QR-YVXT-4VJN-MJTJ-JNFU
+      LicenseType: I
+      ShortVer: u2019.3.2f1
+      group: 5
+      rows: 9
+      users: 1
+      machines: 1
+      F: 0
+      H: 0
+      Description: 
+      combinedGroup: _5
+    - IP: 61.6.238.77
+      LicenseHash: 3f8d005ec8ce61dbb93f8b29acc8c9f61c3f3a63
+      MachineId: 3OMgi7tvM5A5jb/ztPYNdJ5J7EwE9XuZ6YKsrgL/Y44=
+      Version: u2019.2.17f1
+      Location: BN
+      Userid: 18966709088661
+      count: 1
+      SerialNumber: I3-36QR-YVXT-4VJN-MJTJ-JNFU
+      LicenseType: I
+      ShortVer: u2019.2.17f1
+      group: 5
+      rows: 9
+      users: 1
+      machines: 1
+      F: 0
+      H: 0
+      Description: 
+      combinedGroup: _5
+    - IP: 61.6.238.177
+      LicenseHash: 3f8d005ec8ce61dbb93f8b29acc8c9f61c3f3a63
+      MachineId: 3OMgi7tvM5A5jb/ztPYNdJ5J7EwE9XuZ6YKsrgL/Y44=
+      Version: u2019.3.2f1
+      Location: BN
+      Userid: 18966709088661
+      count: 2
+      SerialNumber: I3-36QR-YVXT-4VJN-MJTJ-JNFU
+      LicenseType: I
+      ShortVer: u2019.3.2f1
+      group: 5
+      rows: 9
+      users: 1
+      machines: 1
+      F: 0
+      H: 0
+      Description: 
+      combinedGroup: _5
+    - IP: 61.6.236.180
+      LicenseHash: 3f8d005ec8ce61dbb93f8b29acc8c9f61c3f3a63
+      MachineId: 3OMgi7tvM5A5jb/ztPYNdJ5J7EwE9XuZ6YKsrgL/Y44=
+      Version: u2019.3.2f1
+      Location: BN
+      Userid: 18966709088661
+      count: 2
+      SerialNumber: I3-36QR-YVXT-4VJN-MJTJ-JNFU
+      LicenseType: I
+      ShortVer: u2019.3.2f1
+      group: 5
+      rows: 9
+      users: 1
+      machines: 1
+      F: 0
+      H: 0
+      Description: 
+      combinedGroup: _5
+    - IP: 61.6.236.122
+      LicenseHash: 3f8d005ec8ce61dbb93f8b29acc8c9f61c3f3a63
+      MachineId: 3OMgi7tvM5A5jb/ztPYNdJ5J7EwE9XuZ6YKsrgL/Y44=
+      Version: u2019.3.2f1
+      Location: BN
+      Userid: 18966709088661
+      count: 4
+      SerialNumber: I3-36QR-YVXT-4VJN-MJTJ-JNFU
+      LicenseType: I
+      ShortVer: u2019.3.2f1
+      group: 5
+      rows: 9
+      users: 1
+      machines: 1
+      F: 0
+      H: 0
+      Description: 
+      combinedGroup: _5
+    - IP: 202.152.86.226
+      LicenseHash: 3f8d005ec8ce61dbb93f8b29acc8c9f61c3f3a63
+      MachineId: 3OMgi7tvM5A5jb/ztPYNdJ5J7EwE9XuZ6YKsrgL/Y44=
+      Version: u2019.3.2f1
+      Location: BN
+      Userid: 18966709088661
+      count: 2
+      SerialNumber: I3-36QR-YVXT-4VJN-MJTJ-JNFU
+      LicenseType: I
+      ShortVer: u2019.3.2f1
+      group: 5
+      rows: 9
+      users: 1
+      machines: 1
+      F: 0
+      H: 0
+      Description: 
+      combinedGroup: _5
+    - IP: 202.152.86.182
+      LicenseHash: 3f8d005ec8ce61dbb93f8b29acc8c9f61c3f3a63
+      MachineId: 3OMgi7tvM5A5jb/ztPYNdJ5J7EwE9XuZ6YKsrgL/Y44=
+      Version: u2019.3.2f1
+      Location: BN
+      Userid: 18966709088661
+      count: 1
+      SerialNumber: I3-36QR-YVXT-4VJN-MJTJ-JNFU
+      LicenseType: I
+      ShortVer: u2019.3.2f1
+      group: 5
+      rows: 9
+      users: 1
+      machines: 1
+      F: 0
+      H: 0
+      Description: 
+      combinedGroup: _5
+    - IP: 202.152.72.69
+      LicenseHash: 3f8d005ec8ce61dbb93f8b29acc8c9f61c3f3a63
+      MachineId: 3OMgi7tvM5A5jb/ztPYNdJ5J7EwE9XuZ6YKsrgL/Y44=
+      Version: u2019.3.2f1
+      Location: BN
+      Userid: 18966709088661
+      count: 2
+      SerialNumber: I3-36QR-YVXT-4VJN-MJTJ-JNFU
+      LicenseType: I
+      ShortVer: u2019.3.2f1
+      group: 5
+      rows: 9
+      users: 1
+      machines: 1
+      F: 0
+      H: 0
+      Description: 
+      combinedGroup: _5
+    - IP: 119.160.132.250
+      LicenseHash: 3f8d005ec8ce61dbb93f8b29acc8c9f61c3f3a63
+      MachineId: 3OMgi7tvM5A5jb/ztPYNdJ5J7EwE9XuZ6YKsrgL/Y44=
+      Version: u2019.3.2f1
+      Location: BN
+      Userid: 18966709088661
+      count: 1
+      SerialNumber: I3-36QR-YVXT-4VJN-MJTJ-JNFU
+      LicenseType: I
+      ShortVer: u2019.3.2f1
+      group: 5
+      rows: 9
+      users: 1
+      machines: 1
+      F: 0
+      H: 0
+      Description: 
+      combinedGroup: _5
+    - IP: 61.6.247.231
+      LicenseHash: 90c81972b289594b3057889af15f58d94a79bf90
+      MachineId: VNO/X9zxM/kNEisXQj2X7xv2m3Xaflm52SeJuGTHbrc=
+      Version: u2019.2.8f1
+      Location: BN
+      Userid: 3928750
+      count: 1
+      SerialNumber: F4-2U5R-WEKH-R2JA-VTU4-E6C4
+      LicenseType: F
+      ShortVer: u2019.2.8f1
+      group: 8
+      rows: 1
+      users: 1
+      machines: 1
+      F: 1
+      H: 0
+      Description: 
+      combinedGroup: _8
+    - IP: 61.6.243.9
+      LicenseHash: 4a3e3a4a3f56e873c57a4e6f1368fc203cbf489f
+      MachineId: DHXuVwQLgM6WYFYQnJs581DnLB0pqXLH078TclaODzQ=
+      Version: u2018.4.18f1
+      Location: BN
+      Userid: 3258172
+      count: 1
+      SerialNumber: F4-BMF2-T423-ZAM8-DPPN-79F5
+      LicenseType: F
+      ShortVer: u2018.4.18f1
+      group: 9
+      rows: 1
+      users: 1
+      machines: 1
+      F: 1
+      H: 0
+      Description: 
+      combinedGroup: _9
+    - IP: 61.6.239.71
+      LicenseHash: 46d384577a998ab255255ebe2aca5e1d5638010f
+      MachineId: UPFyoDeDfLn8F5C1M/55p5Qctg5BOjgPNpLSJLGcpOU=
+      Version: u2018.4.18f1
+      Location: BN
+      Userid: 18966857789732
+      count: 1
+      SerialNumber: F4-6T23-NU35-V9YP-5VEY-HAUR
+      LicenseType: F
+      ShortVer: u2018.4.18f1
+      group: 10
+      rows: 2
+      users: 1
+      machines: 1
+      F: 1
+      H: 0
+      Description: 
+      combinedGroup: _10
+    - IP: 61.6.239.37
+      LicenseHash: 46d384577a998ab255255ebe2aca5e1d5638010f
+      MachineId: UPFyoDeDfLn8F5C1M/55p5Qctg5BOjgPNpLSJLGcpOU=
+      Version: u2018.4.18f1
+      Location: BN
+      Userid: 18966857789732
+      count: 1
+      SerialNumber: F4-6T23-NU35-V9YP-5VEY-HAUR
+      LicenseType: F
+      ShortVer: u2018.4.18f1
+      group: 10
+      rows: 2
+      users: 1
+      machines: 1
+      F: 1
+      H: 0
+      Description: 
+      combinedGroup: _10
+    - IP: 61.6.239.55
+      LicenseHash: dead5412cf15c37fcfbb6d2d39bd833d46cc2284
+      MachineId: EKJZLbXnkpf3vV6uWKw3OPO/IlyO0E37DdzlwNcXh2M=
+      Version: u2018.4.17f1
+      Location: BN
+      Userid: 18966634332341
+      count: 2
+      SerialNumber: F4-UNRS-J5UH-Z8C2-Y96Q-STP2
+      LicenseType: F
+      ShortVer: u2018.4.17f1
+      group: 11
+      rows: 2
+      users: 1
+      machines: 1
+      F: 1
+      H: 0
+      Description: 
+      combinedGroup: _11
+    - IP: 61.6.236.35
+      LicenseHash: dead5412cf15c37fcfbb6d2d39bd833d46cc2284
+      MachineId: EKJZLbXnkpf3vV6uWKw3OPO/IlyO0E37DdzlwNcXh2M=
+      Version: u2018.4.17f1
+      Location: BN
+      Userid: 18966634332341
+      count: 11
+      SerialNumber: F4-UNRS-J5UH-Z8C2-Y96Q-STP2
+      LicenseType: F
+      ShortVer: u2018.4.17f1
+      group: 11
+      rows: 2
+      users: 1
+      machines: 1
+      F: 1
+      H: 0
+      Description: 
+      combinedGroup: _11
+    - IP: 61.6.239.224
+      LicenseHash: e83f05f451b97fc1b53ec54456e3144a90c03d5a
+      MachineId: kUyzdJKeTBxEbE717J1HDdw1OFAuYO2/XEJyvK8amAk=
+      Version: u2018.4.18f1
+      Location: BN
+      Userid: 18966857478733
+      count: 1
+      SerialNumber: F4-EZ98-CTAJ-T3PB-8JQG-8V7G
+      LicenseType: F
+      ShortVer: u2018.4.18f1
+      group: 12
+      rows: 1
+      users: 1
+      machines: 1
+      F: 1
+      H: 0
+      Description: 
+      combinedGroup: _12
+    - IP: 61.6.239.152
+      LicenseHash: 71218852dcf33b6f1c52057029b5ca7202b3c86d
+      MachineId: iB8RNjiinctXSFAsAiC9wVtpRBlX/UxICKAoJgLxJJQ=
+      Version: u2017.4.28f1
+      Location: BN
+      Userid: 18966866932507
+      count: 2
+      SerialNumber: F4-D6JA-PM9F-CTUG-T58Q-KH3H
+      LicenseType: F
+      ShortVer: u2017.4.28f1
+      group: 13
+      rows: 2
+      users: 1
+      machines: 1
+      F: 1
+      H: 0
+      Description: 
+      combinedGroup: _13
+    - IP: 61.6.237.181
+      LicenseHash: 71218852dcf33b6f1c52057029b5ca7202b3c86d
+      MachineId: iB8RNjiinctXSFAsAiC9wVtpRBlX/UxICKAoJgLxJJQ=
+      Version: u2017.4.28f1
+      Location: BN
+      Userid: 18966866932507
+      count: 5
+      SerialNumber: F4-D6JA-PM9F-CTUG-T58Q-KH3H
+      LicenseType: F
+      ShortVer: u2017.4.28f1
+      group: 13
+      rows: 2
+      users: 1
+      machines: 1
+      F: 1
+      H: 0
+      Description: 
+      combinedGroup: _13
+    - IP: 61.6.238.248
+      LicenseHash: 1b691f503f726ed8afe549cd0ae3646e1f30e887
+      MachineId: Dme2dHoLncLIC/sH2zvyea8a+FWJGZV1SVjIeemm43k=
+      Version: u2017.4.28f1
+      Location: BN
+      Userid: 18966726999898
+      count: 1
+      SerialNumber: F4-P4SU-KGM8-EQ5H-92R6-G3ZX
+      LicenseType: F
+      ShortVer: u2017.4.28f1
+      group: 14
+      rows: 1
+      users: 1
+      machines: 1
+      F: 1
+      H: 0
+      Description: 
+      combinedGroup: _14
+    - IP: 61.6.238.244
+      LicenseHash: 2bb4c5cc6a48f3aecd5aabcd312dbb74c5f5eff6
+      MachineId: vjYUnWhIasDXzTrta01Qdve2wBLBQXf0E/TZ+qmf0pM=
+      Version: u2017.4.36f1
+      Location: BN
+      Userid: 18966667294500
+      count: 2
+      SerialNumber: F4-695J-XNWD-35QY-NVTN-575R
+      LicenseType: F
+      ShortVer: u2017.4.36f1
+      group: 15
+      rows: 1
+      users: 1
+      machines: 1
+      F: 1
+      H: 0
+      Description: 
+      combinedGroup: _15
+    - IP: 61.6.238.156
+      LicenseHash: c78e1fd509462b7acdf1dae1806d56874c98625f
+      MachineId: mUK7anUGa77Ewz8vWUX/J2L7Qu1JcXRNhoZTfQcaQmU=
+      Version: u2017.4.28f1
+      Location: BN
+      Userid: 18966682594998
+      count: 1
+      SerialNumber: F4-SGR4-JFVQ-Q5J5-BYM9-5KJX
+      LicenseType: F
+      ShortVer: u2017.4.28f1
+      group: 16
+      rows: 1
+      users: 1
+      machines: 1
+      F: 1
+      H: 0
+      Description: 
+      combinedGroup: _16
+    - IP: 61.6.237.5
+      LicenseHash: 7a8b0eb64fea6edaad947a3c015a05967006eef8
+      MachineId: j1m4w1TM6balBY3LndQZhLDhCgLP+KNd4D506c6s7Fs=
+      Version: u2018.4.19f1
+      Location: BN
+      Userid: 18966866901590
+      count: 1
+      SerialNumber: F4-58M6-D5CM-E9NP-2BQB-67EM
+      LicenseType: F
+      ShortVer: u2018.4.19f1
+      group: 17
+      rows: 1
+      users: 1
+      machines: 1
+      F: 1
+      H: 0
+      Description: 
+      combinedGroup: _17
+    - IP: 61.6.237.140
+      LicenseHash: 2fc2459965ff1e9a3bb9100824dec8c15c046d23
+      MachineId: 6eY6lY7R5wJW07OJQYdNqyzuiM5K6PBe5EMniHFWnbg=
+      Version: u2017.4.35f1
+      Location: BN
+      Userid: 18966866814747
+      count: 1
+      SerialNumber: F4-28M9-BBSZ-THTN-D3H3-PA3R
+      LicenseType: F
+      ShortVer: u2017.4.35f1
+      group: 18
+      rows: 1
+      users: 1
+      machines: 1
+      F: 1
+      H: 0
+      Description: 
+      combinedGroup: _18
+    - IP: 61.6.236.92
+      LicenseHash: f720cfce7c8b055cbff230b82a80b5e1cd56cb8f
+      MachineId: +GVT7UqnBSdGbTWOfnaZir9TxttBl6FriSi2WbtlcaY=
+      Version: u2019.2.10f1
+      Location: BN
+      Userid: 18966739232371
+      count: 2
+      SerialNumber: F4-3E6C-PWUB-XZEV-26G7-GWHJ
+      LicenseType: F
+      ShortVer: u2019.2.10f1
+      group: 19
+      rows: 2
+      users: 1
+      machines: 1
+      F: 1
+      H: 0
+      Description: 
+      combinedGroup: _19
+    - IP: 61.6.236.9
+      LicenseHash: f720cfce7c8b055cbff230b82a80b5e1cd56cb8f
+      MachineId: +GVT7UqnBSdGbTWOfnaZir9TxttBl6FriSi2WbtlcaY=
+      Version: u2019.2.10f1
+      Location: BN
+      Userid: 18966739232371
+      count: 6
+      SerialNumber: F4-3E6C-PWUB-XZEV-26G7-GWHJ
+      LicenseType: F
+      ShortVer: u2019.2.10f1
+      group: 19
+      rows: 2
+      users: 1
+      machines: 1
+      F: 1
+      H: 0
+      Description: 
+      combinedGroup: _19
+    - IP: 61.6.236.81
+      LicenseHash: dacd53a49c4c99f8a9485f8a439a820cb20c6fd4
+      MachineId: fKUp0tzTqAnw6C+uxqfRcELM666W8tQuD374hG5KdNs=
+      Version: u2018.4.18f1
+      Location: BN
+      Userid: 18966866358595
+      count: 2
+      SerialNumber: F4-5PNK-4KRD-P72A-DVBY-Q349
+      LicenseType: F
+      ShortVer: u2018.4.18f1
+      group: 20
+      rows: 1
+      users: 1
+      machines: 1
+      F: 1
+      H: 0
+      Description: 
+      combinedGroup: _20
+    - IP: 61.6.236.30
+      LicenseHash: 7b9d94fed0897a7a9019daa3fa7557a99927234f
+      MachineId: r9k6+OvhSfOB4g912l5JBZgEsi8fMazcjy8iYQk28oU=
+      Version: u2018.4.19f1
+      Location: BN
+      Userid: 18966781478306
+      count: 2
+      SerialNumber: F4-4Q32-AYAN-E2UV-95MW-NCP2
+      LicenseType: F
+      ShortVer: u2018.4.19f1
+      group: 21
+      rows: 1
+      users: 1
+      machines: 1
+      F: 1
+      H: 0
+      Description: 
+      combinedGroup: _21
+    - IP: 61.6.235.48
+      LicenseHash: d6e37bd5d9136655769c2abdd4b0b70767fa524a
+      MachineId: NEhsCqGghIVxglkvQ2/XGp1AH8JGASiw7FZXdGOdSP8=
+      Version: u2019.2.11f1
+      Location: BN
+      Userid: 5556198
+      count: 3
+      SerialNumber: F4-93KS-TQ74-HX9A-V5AF-GA42
+      LicenseType: F
+      ShortVer: u2019.2.11f1
+      group: 22
+      rows: 2
+      users: 1
+      machines: 1
+      F: 1
+      H: 0
+      Description: 
+      combinedGroup: _22
+    - IP: 61.6.235.148
+      LicenseHash: d6e37bd5d9136655769c2abdd4b0b70767fa524a
+      MachineId: NEhsCqGghIVxglkvQ2/XGp1AH8JGASiw7FZXdGOdSP8=
+      Version: u2019.2.11f1
+      Location: BN
+      Userid: 5556198
+      count: 3
+      SerialNumber: F4-93KS-TQ74-HX9A-V5AF-GA42
+      LicenseType: F
+      ShortVer: u2019.2.11f1
+      group: 22
+      rows: 2
+      users: 1
+      machines: 1
+      F: 1
+      H: 0
+      Description: 
+      combinedGroup: _22
+    - IP: 61.6.235.208
+      LicenseHash: 687f848fbd5af742abf48f3eda5d0a1c26c69c60
+      MachineId: 5AowHaU1T3K/hAjdL5M/5GLqLsNCycOaJxQagsCYbTw=
+      Version: u2019.3.4f1
+      Location: BN
+      Userid: 18966753529613
+      count: 3
+      SerialNumber: F4-PYQ3-5EMQ-4Z32-YDTQ-TRU9
+      LicenseType: F
+      ShortVer: u2019.3.4f1
+      group: 23
+      rows: 2
+      users: 1
+      machines: 1
+      F: 1
+      H: 0
+      Description: 
+      combinedGroup: _23
+    - IP: 61.6.232.252
+      LicenseHash: 687f848fbd5af742abf48f3eda5d0a1c26c69c60
+      MachineId: 5AowHaU1T3K/hAjdL5M/5GLqLsNCycOaJxQagsCYbTw=
+      Version: u2019.3.4f1
+      Location: BN
+      Userid: 18966753529613
+      count: 1
+      SerialNumber: F4-PYQ3-5EMQ-4Z32-YDTQ-TRU9
+      LicenseType: F
+      ShortVer: u2019.3.4f1
+      group: 23
+      rows: 2
+      users: 1
+      machines: 1
+      F: 1
+      H: 0
+      Description: 
+      combinedGroup: _23
+    - IP: 61.6.233.48
+      LicenseHash: c02fd32dc4eb7878d739d51bc3a7eaee03eee585
+      MachineId: SjcrrOe9D2/CMEVDmrtr1FZ+GccTLIAxkvbsucER7KE=
+      Version: u2019.2.17f1
+      Location: BN
+      Userid: 4452586
+      count: 1
+      SerialNumber: F4-8XXG-RPF8-X4JP-DF7C-KK2B
+      LicenseType: F
+      ShortVer: u2019.2.17f1
+      group: 25
+      rows: 2
+      users: 1
+      machines: 1
+      F: 1
+      H: 0
+      Description: 
+      combinedGroup: _25
+    - IP: 61.6.232.121
+      LicenseHash: c02fd32dc4eb7878d739d51bc3a7eaee03eee585
+      MachineId: SjcrrOe9D2/CMEVDmrtr1FZ+GccTLIAxkvbsucER7KE=
+      Version: u2019.3.3f1
+      Location: BN
+      Userid: 4452586
+      count: 2
+      SerialNumber: F4-8XXG-RPF8-X4JP-DF7C-KK2B
+      LicenseType: F
+      ShortVer: u2019.3.3f1
+      group: 25
+      rows: 2
+      users: 1
+      machines: 1
+      F: 1
+      H: 0
+      Description: 
+      combinedGroup: _25
+    - IP: 61.6.233.228
+      LicenseHash: d2866ea041c4a56c85b3ee11c9d935b4e30849a3
+      MachineId: s2dathqytWLGpZG4H1Lnk+/kX7TM8fLntAueoHQDpCQ=
+      Version: u2018.4.18f1
+      Location: BN
+      Userid: 18966864959067
+      count: 1
+      SerialNumber: F4-D9XS-KEUQ-4FSK-EXCV-JE4T
+      LicenseType: F
+      ShortVer: u2018.4.18f1
+      group: 26
+      rows: 2
+      users: 1
+      machines: 1
+      F: 1
+      H: 0
+      Description: 
+      combinedGroup: _26
+    - IP: 202.152.70.67
+      LicenseHash: d2866ea041c4a56c85b3ee11c9d935b4e30849a3
+      MachineId: s2dathqytWLGpZG4H1Lnk+/kX7TM8fLntAueoHQDpCQ=
+      Version: u2018.4.18f1
+      Location: BN
+      Userid: 18966864959067
+      count: 2
+      SerialNumber: F4-D9XS-KEUQ-4FSK-EXCV-JE4T
+      LicenseType: F
+      ShortVer: u2018.4.18f1
+      group: 26
+      rows: 2
+      users: 1
+      machines: 1
+      F: 1
+      H: 0
+      Description: 
+      combinedGroup: _26
+    - IP: 61.6.233.194
+      LicenseHash: a652ad22819717386440bd41f2023ebcdd6b94c7
+      MachineId: xz7tHbebUF3lILC3q9jAPNmxUjh55DUZD82wA+hnhAs=
+      Version: u2019.3.5f1
+      Location: BN
+      Userid: 1855186
+      count: 1
+      SerialNumber: F4-AQVN-SNDW-7CAK-33JT-Q29Q
+      LicenseType: F
+      ShortVer: u2019.3.5f1
+      group: 27
+      rows: 1
+      users: 1
+      machines: 1
+      F: 1
+      H: 0
+      Description: 
+      combinedGroup: _27
+    - IP: 61.6.233.173
+      LicenseHash: 2b7e494c9724aa14496c8c51ef8c06754b9fdaad
+      MachineId: 5AwF8E5RFYZSEs5MXtQWsREZQlx+yJlJsweU6lAsGKA=
+      Version: u2018.3.14f1
+      Location: BN
+      Userid: 18966790589990
+      count: 1
+      SerialNumber: F4-3YJK-57CC-ZFHF-R5RR-8VYW
+      LicenseType: F
+      ShortVer: u2018.3.14f1
+      group: 28
+      rows: 2
+      users: 1
+      machines: 1
+      F: 1
+      H: 0
+      Description: 
+      combinedGroup: _28
+    - IP: 61.6.232.160
+      LicenseHash: 2b7e494c9724aa14496c8c51ef8c06754b9fdaad
+      MachineId: 5AwF8E5RFYZSEs5MXtQWsREZQlx+yJlJsweU6lAsGKA=
+      Version: u2018.3.14f1
+      Location: BN
+      Userid: 18966790589990
+      count: 3
+      SerialNumber: F4-3YJK-57CC-ZFHF-R5RR-8VYW
+      LicenseType: F
+      ShortVer: u2018.3.14f1
+      group: 28
+      rows: 2
+      users: 1
+      machines: 1
+      F: 1
+      H: 0
+      Description: 
+      combinedGroup: _28
+    - IP: 61.6.230.183
+      LicenseHash: 75fa69763c8bfd28f21321d44b95d88fa8247f25
+      MachineId: YumCLB/GQBNynILrjQuAnmfPDGzLebIqv6I/zVa3hJc=
+      Version: u2018.4.18f1
+      Location: BN
+      Userid: 18966864873824
+      count: 3
+      SerialNumber: F4-BBX3-QMH7-JHD8-KUPA-C5CQ
+      LicenseType: F
+      ShortVer: u2018.4.18f1
+      group: 29
+      rows: 1
+      users: 1
+      machines: 1
+      F: 1
+      H: 0
+      Description: 
+      combinedGroup: _29
+    - IP: 202.160.17.153
+      LicenseHash: 8067c05ef604c0d0acfea90fc20cbe01eb4ecec8
+      MachineId: xLFo1ZAmSsh+SccAt0JCcqezW98BTBa6X7S4YIfj56Q=
+      Version: u2017.4.15f1
+      Location: BN
+      Userid: 18966703941249
+      count: 3
+      SerialNumber: F4-5DDJ-WF7E-97M7-YDKZ-ER9J
+      LicenseType: F
+      ShortVer: u2017.4.15f1
+      group: 30
+      rows: 1
+      users: 1
+      machines: 1
+      F: 1
+      H: 0
+      Description: 
+      combinedGroup: _30
+    - IP: 202.152.86.68
+      LicenseHash: 31ae78c13825c541741495db07c6d865dde951fb
+      MachineId: vbNRN9iuMVzjXDuLPbUCLFzC6SoJako2MwURSR4Sz3s=
+      Version: u2019.1.14f1
+      Location: BN
+      Userid: 4184375
+      count: 1
+      SerialNumber: F4-CBVT-GQV5-GTNN-BTGN-EV56
+      LicenseType: F
+      ShortVer: u2019.1.14f1
+      group: 31
+      rows: 4
+      users: 1
+      machines: 1
+      F: 1
+      H: 0
+      Description: 
+      combinedGroup: _31
+    - IP: 202.152.86.5
+      LicenseHash: 31ae78c13825c541741495db07c6d865dde951fb
+      MachineId: vbNRN9iuMVzjXDuLPbUCLFzC6SoJako2MwURSR4Sz3s=
+      Version: u2019.1.14f1
+      Location: BN
+      Userid: 4184375
+      count: 1
+      SerialNumber: F4-CBVT-GQV5-GTNN-BTGN-EV56
+      LicenseType: F
+      ShortVer: u2019.1.14f1
+      group: 31
+      rows: 4
+      users: 1
+      machines: 1
+      F: 1
+      H: 0
+      Description: 
+      combinedGroup: _31
+    - IP: 202.152.70.10
+      LicenseHash: 31ae78c13825c541741495db07c6d865dde951fb
+      MachineId: vbNRN9iuMVzjXDuLPbUCLFzC6SoJako2MwURSR4Sz3s=
+      Version: u2019.1.14f1
+      Location: BN
+      Userid: 4184375
+      count: 2
+      SerialNumber: F4-CBVT-GQV5-GTNN-BTGN-EV56
+      LicenseType: F
+      ShortVer: u2019.1.14f1
+      group: 31
+      rows: 4
+      users: 1
+      machines: 1
+      F: 1
+      H: 0
+      Description: 
+      combinedGroup: _31
+    - IP: 202.152.70.0
+      LicenseHash: 31ae78c13825c541741495db07c6d865dde951fb
+      MachineId: vbNRN9iuMVzjXDuLPbUCLFzC6SoJako2MwURSR4Sz3s=
+      Version: u2019.1.14f1
+      Location: BN
+      Userid: 4184375
+      count: 2
+      SerialNumber: F4-CBVT-GQV5-GTNN-BTGN-EV56
+      LicenseType: F
+      ShortVer: u2019.1.14f1
+      group: 31
+      rows: 4
+      users: 1
+      machines: 1
+      F: 1
+      H: 0
+      Description: 
+      combinedGroup: _31
+    - IP: 202.152.70.90
+      LicenseHash: 9ed270382e03a9b36a2548e739d13ca34e3e1540
+      MachineId: L+RvKMeVk7ia+Nl9nWVAJQSp4fIolmbpLs2TCD+C598=
+      Version: u2019.3.0f6
+      Location: BN
+      Userid: 18966603667192
+      count: 1
+      SerialNumber: F4-BX69-DWFC-ANTM-6Z7V-3JYZ
+      LicenseType: F
+      ShortVer: u2019.3.0f6
+      group: 32
+      rows: 1
+      users: 1
+      machines: 1
+      F: 1
+      H: 0
+      Description: 
+      combinedGroup: _32
+    - IP: 202.152.70.69
+      LicenseHash: 0b822e56546808d3eed7f3852e24376da9659e32
+      MachineId: UFKej3VNrr9rXiRcHH+oqvCJ6NSr+1exTEeBoolzg54=
+      Version: u2019.3.3f1
+      Location: BN
+      Userid: 18966865491926
+      count: 1
+      SerialNumber: F4-BQHD-Z3PK-DCYK-E2TT-K4RA
+      LicenseType: F
+      ShortVer: u2019.3.3f1
+      group: 33
+      rows: 1
+      users: 1
+      machines: 1
+      F: 1
+      H: 0
+      Description: 
+      combinedGroup: _33
+    - IP: 202.152.70.29
+      LicenseHash: 00d916684a8bd778238ebc8b9fd496c6c5e487ca
+      MachineId: VHUc2eF7KVdUyY6iA0ULnpBEjrFypLKqy0IobN8nPNs=
+      Version: u2019.3.3f1
+      Location: BN
+      Userid: 18966865497011
+      count: 2
+      SerialNumber: F4-DZPU-KMDQ-SHFA-97FW-CAA5
+      LicenseType: F
+      ShortVer: u2019.3.3f1
+      group: 34
+      rows: 1
+      users: 1
+      machines: 1
+      F: 1
+      H: 0
+      Description: 
+      combinedGroup: _34
+    - IP: 119.160.150.229
+      LicenseHash: e23da174c4905ebd71159e9098e2f53aa22d0f73
+      MachineId: Ft52xeUPQ6m6nbMhttIaC5ZCdnEbVpmTIBnngVIkmXo=
+      Version: u2019.3.4f1
+      Location: BN
+      Userid: 18966865483923
+      count: 1
+      SerialNumber: F4-36YD-6HY4-YHSW-YCM3-BBN6
+      LicenseType: F
+      ShortVer: u2019.3.4f1
+      group: 35
+      rows: 1
+      users: 1
+      machines: 1
+      F: 1
+      H: 0
+      Description: 
+      combinedGroup: _35
+    - IP: 119.160.145.6
+      LicenseHash: 5c4015b43cfc04c2a073ac54977502e68086d7f4
+      MachineId: J2LwD+VGG2PVQwzPom+sJMIYg+zsyfJtz3NHSYbp+hI=
+      Version: u2017.4.28f1
+      Location: BN
+      Userid: 18966863111872
+      count: 1
+      SerialNumber: F4-Z73V-42QR-EPNC-7V3Y-32PU
+      LicenseType: F
+      ShortVer: u2017.4.28f1
+      group: 36
+      rows: 1
+      users: 1
+      machines: 1
+      F: 1
+      H: 0
+      Description: 
+      combinedGroup: _36
+  groups:
+  - name: 
+    description: 
+    rows:
+    - IP: 202.152.82.205
+      LicenseHash: 1b10be501529a0ff5cdbd766a261672e3827de6c
+      MachineId: 6yC1W77pFyVmTPyPnuM6ld4UkMloeMOTD15yeclUyQI=
+      Version: u2019.2.14f1
+      Location: BN
+      Userid: 18966748643744
+      count: 9
+      SerialNumber: F4-3Y6H-DECH-Y2GC-K5HP-5QCJ
+      LicenseType: F
+      ShortVer: u2019.2.14f1
+      group: 1
+      rows: 30
+      users: 15
+      machines: 15
+      F: 15
+      H: 0
+      Description: 
+      combinedGroup: _1
+    - IP: 202.152.82.205
+      LicenseHash: f3bc478f1e10997918ae1ffe441ef6cafb12bf4f
+      MachineId: Qt1PB+Bu9Q4sbrQIWgAk9GP9MEOTWEIQ+f6Azr8Jdn8=
+      Version: u2018.3.1f1
+      Location: BN
+      Userid: 18966753332883
+      count: 5
+      SerialNumber: F4-QNAA-W58Y-8PPV-VSK4-JBCC
+      LicenseType: F
+      ShortVer: u2018.3.1f1
+      group: 1
+      rows: 30
+      users: 15
+      machines: 15
+      F: 15
+      H: 0
+      Description: 
+      combinedGroup: _1
+    - IP: 202.152.82.205
+      LicenseHash: 30f0bed5f0312625819181e428c2846885b3dde6
+      MachineId: 5avl+jSIHDrVvsFSiGatY1p6/E/cFhnP9bgbOMwBmXw=
+      Version: u2019.3.4f1
+      Location: BN
+      Userid: 18966865466894
+      count: 3
+      SerialNumber: F4-QAUU-TW4D-6ASS-PT3V-8YMW
+      LicenseType: F
+      ShortVer: u2019.3.4f1
+      group: 1
+      rows: 30
+      users: 15
+      machines: 15
+      F: 15
+      H: 0
+      Description: 
+      combinedGroup: _1
+    - IP: 202.152.82.205
+      LicenseHash: 1b10be501529a0ff5cdbd766a261672e3827de6c
+      MachineId: 6yC1W77pFyVmTPyPnuM6ld4UkMloeMOTD15yeclUyQI=
+      Version: u2019.3.4f1
+      Location: BN
+      Userid: 18966748643744
+      count: 3
+      SerialNumber: F4-3Y6H-DECH-Y2GC-K5HP-5QCJ
+      LicenseType: F
+      ShortVer: u2019.3.4f1
+      group: 1
+      rows: 30
+      users: 15
+      machines: 15
+      F: 15
+      H: 0
+      Description: 
+      combinedGroup: _1
+    - IP: 202.152.82.205
+      LicenseHash: ecdc3ef8011ca45b2728c82351ea7694ab2d3c08
+      MachineId: SpQnVJlXgk17h/3y/nUjFPqhc4hjQKfzlilYM2jf4Gw=
+      Version: u2019.2.18f1
+      Location: BN
+      Userid: 18966750936642
+      count: 3
+      SerialNumber: F4-H3AC-55JS-J5DC-QRTC-PBZJ
+      LicenseType: F
+      ShortVer: u2019.2.18f1
+      group: 1
+      rows: 30
+      users: 15
+      machines: 15
+      F: 15
+      H: 0
+      Description: 
+      combinedGroup: _1
+    - IP: 202.152.82.205
+      LicenseHash: 7a4d7206bcb056ed819610a7630973fb3c98b818
+      MachineId: AnGcgUeQjB+ioe7zCfKdWMuUvS1TtNMBsk8Vpg1Mwk4=
+      Version: u2019.3.4f1
+      Location: BN
+      Userid: 476170
+      count: 2
+      SerialNumber: F4-8U7G-RZ83-CTH5-Q59K-2FM9
+      LicenseType: F
+      ShortVer: u2019.3.4f1
+      group: 1
+      rows: 30
+      users: 15
+      machines: 15
+      F: 15
+      H: 0
+      Description: 
+      combinedGroup: _1
+    - IP: 202.152.82.205
+      LicenseHash: 631cf44272c98d27a0132a8554488e715f410710
+      MachineId: Eoyjkl2ZNu6VktST3mwyPVRsqY/YCo2cPMWuFmJU8gg=
+      Version: u2019.2.17f1
+      Location: BN
+      Userid: 18966631949665
+      count: 2
+      SerialNumber: F4-48MA-ZT78-2TZF-GSMZ-2DXK
+      LicenseType: F
+      ShortVer: u2019.2.17f1
+      group: 1
+      rows: 30
+      users: 15
+      machines: 15
+      F: 15
+      H: 0
+      Description: 
+      combinedGroup: _1
+    - IP: 202.152.82.205
+      LicenseHash: a7fb80322268fa2451e6e4feb1f4f6dbe515d87d
+      MachineId: iuX846AgrjVdkplF3Vi8v6rjz2fNTK8vxktVlx1xqi8=
+      Version: u2018.4.18f1
+      Location: BN
+      Userid: 18966782542661
+      count: 2
+      SerialNumber: F4-NCYV-2M6E-RXVG-K6BK-NQ4S
+      LicenseType: F
+      ShortVer: u2018.4.18f1
+      group: 1
+      rows: 30
+      users: 15
+      machines: 15
+      F: 15
+      H: 0
+      Description: 
+      combinedGroup: _1
+    - IP: 202.152.82.205
+      LicenseHash: aca5603480304c90a8595982bf57963a83234f53
+      MachineId: kQ6noX1sCggnLziX8ChaKWTNw0q8XpoqfNngjtWyV0Q=
+      Version: u2019.3.0a3
+      Location: BN
+      Userid: 1836804
+      count: 2
+      SerialNumber: F4-QH3J-PW6F-AF46-TXMG-52SD
+      LicenseType: F
+      ShortVer: u2019.3.0a3
+      group: 1
+      rows: 30
+      users: 15
+      machines: 15
+      F: 15
+      H: 0
+      Description: 
+      combinedGroup: _1
+    - IP: 202.152.82.205
+      LicenseHash: 976b6acbc98d7af5dde5fdf1fd4f332a3ca065b0
+      MachineId: 9IIh6DATZKVPtOF4uyxhBSbuyW6RWlc4b5E4+uVw9uk=
+      Version: u2018.2.1f1
+      Location: BN
+      Userid: 18966724645885
+      count: 2
+      SerialNumber: F4-4NUN-5YRG-3DCV-777D-7Q9N
+      LicenseType: F
+      ShortVer: u2018.2.1f1
+      group: 1
+      rows: 30
+      users: 15
+      machines: 15
+      F: 15
+      H: 0
+      Description: 
+      combinedGroup: _1
+    - IP: 202.152.82.205
+      LicenseHash: 51827aa1ddef628b20e18966cc50a37c9fc3305d
+      MachineId: f7wjLVOLbjjFjexft1EytFL4nMJh30IPk08o9tC+9RU=
+      Version: u2019.3.3f1
+      Location: BN
+      Userid: 18966855264457
+      count: 1
+      SerialNumber: F4-6HEZ-VTEQ-D87K-XSB7-YSFH
+      LicenseType: F
+      ShortVer: u2019.3.3f1
+      group: 1
+      rows: 30
+      users: 15
+      machines: 15
+      F: 15
+      H: 0
+      Description: 
+      combinedGroup: _1
+    - IP: 202.152.82.205
+      LicenseHash: d0dab4a4973a9dfd312cc3e07282257257747b9d
+      MachineId: uh9j/6ZhHDklb4iR17LsBK+S6OR3wDR/02+YfVU0pMk=
+      Version: u2019.3.3f1
+      Location: BN
+      Userid: 18966860839457
+      count: 1
+      SerialNumber: F4-KWAA-EGTS-XPV4-3AAH-QSWP
+      LicenseType: F
+      ShortVer: u2019.3.3f1
+      group: 1
+      rows: 30
+      users: 15
+      machines: 15
+      F: 15
+      H: 0
+      Description: 
+      combinedGroup: _1
+    - IP: 202.152.82.205
+      LicenseHash: 08e7451e2ef4b71854dfa34c98618011604ba541
+      MachineId: L9jNDQZOQDlM1irG1GUJH/Xw1XMnTgbm48jglXoeBDE=
+      Version: u5.6.1f1
+      Location: BN
+      Userid: 18966631903316
+      count: 1
+      SerialNumber: F4-WYFA-A7WU-ZW83-WPZ9-7E7Y
+      LicenseType: F
+      ShortVer: u5.6.1f1
+      group: 1
+      rows: 30
+      users: 15
+      machines: 15
+      F: 15
+      H: 0
+      Description: 
+      combinedGroup: _1
+    - IP: 202.152.82.205
+      LicenseHash: 792944ad70839fe6caf6b8651e9fa52adf83ec03
+      MachineId: fws6n5k5uWznz7+sEyhZWfhr3Jgn26rNPdGd5T00dXY=
+      Version: u2018.4.18f1
+      Location: BN
+      Userid: 18966864977394
+      count: 1
+      SerialNumber: F4-JWF5-MZCW-5NP6-QZZW-YZED
+      LicenseType: F
+      ShortVer: u2018.4.18f1
+      group: 1
+      rows: 30
+      users: 15
+      machines: 15
+      F: 15
+      H: 0
+      Description: 
+      combinedGroup: _1
+    - IP: 202.152.82.205
+      LicenseHash: e2c09be8d311cba48a49e2cee06551e0911248c2
+      MachineId: g/e33njl0R//wBuXZnSD2frCU7xQPeU7L5sEU0HAKIk=
+      Version: u2019.3.4f1
+      Location: BN
+      Userid: 18966865150465
+      count: 1
+      SerialNumber: F4-RCKQ-R29R-66GV-QWVU-NSZM
+      LicenseType: F
+      ShortVer: u2019.3.4f1
+      group: 1
+      rows: 30
+      users: 15
+      machines: 15
+      F: 15
+      H: 0
+      Description: 
+      combinedGroup: _1
+    - IP: 202.152.82.205
+      LicenseHash: 9d11c1eccd4071fb4ea0edb8ff42c72b26907594
+      MachineId: xpKjkc7lp4I8q+jjvo8U2nd79sv9qMhz42sOOj/VGtg=
+      Version: u2019.3.0a5
+      Location: BN
+      Userid: 18966687290528
+      count: 1
+      SerialNumber: F4-AXD3-RJB3-RXCV-T6F4-MEZ7
+      LicenseType: F
+      ShortVer: u2019.3.0a5
+      group: 1
+      rows: 30
+      users: 15
+      machines: 15
+      F: 15
+      H: 0
+      Description: 
+      combinedGroup: _1
+    - IP: 61.6.230.135
+      LicenseHash: 7a4d7206bcb056ed819610a7630973fb3c98b818
+      MachineId: AnGcgUeQjB+ioe7zCfKdWMuUvS1TtNMBsk8Vpg1Mwk4=
+      Version: u2019.3.4f1
+      Location: BN
+      Userid: 476170
+      count: 4
+      SerialNumber: F4-8U7G-RZ83-CTH5-Q59K-2FM9
+      LicenseType: F
+      ShortVer: u2019.3.4f1
+      group: 1
+      rows: 30
+      users: 15
+      machines: 15
+      F: 15
+      H: 0
+      Description: 
+      combinedGroup: _1
+    - IP: 61.6.230.135
+      LicenseHash: 7a4d7206bcb056ed819610a7630973fb3c98b818
+      MachineId: AnGcgUeQjB+ioe7zCfKdWMuUvS1TtNMBsk8Vpg1Mwk4=
+      Version: u2019.2.15f1
+      Location: BN
+      Userid: 476170
+      count: 1
+      SerialNumber: F4-8U7G-RZ83-CTH5-Q59K-2FM9
+      LicenseType: F
+      ShortVer: u2019.2.15f1
+      group: 1
+      rows: 30
+      users: 15
+      machines: 15
+      F: 15
+      H: 0
+      Description: 
+      combinedGroup: _1
+    - IP: 61.6.232.5
+      LicenseHash: a7fb80322268fa2451e6e4feb1f4f6dbe515d87d
+      MachineId: iuX846AgrjVdkplF3Vi8v6rjz2fNTK8vxktVlx1xqi8=
+      Version: u2018.4.18f1
+      Location: BN
+      Userid: 18966782542661
+      count: 1
+      SerialNumber: F4-NCYV-2M6E-RXVG-K6BK-NQ4S
+      LicenseType: F
+      ShortVer: u2018.4.18f1
+      group: 1
+      rows: 30
+      users: 15
+      machines: 15
+      F: 15
+      H: 0
+      Description: 
+      combinedGroup: _1
+    - IP: 61.6.232.5
+      LicenseHash: a7fb80322268fa2451e6e4feb1f4f6dbe515d87d
+      MachineId: iuX846AgrjVdkplF3Vi8v6rjz2fNTK8vxktVlx1xqi8=
+      Version: u2018.3.9f1
+      Location: BN
+      Userid: 18966782542661
+      count: 1
+      SerialNumber: F4-NCYV-2M6E-RXVG-K6BK-NQ4S
+      LicenseType: F
+      ShortVer: u2018.3.9f1
+      group: 1
+      rows: 30
+      users: 15
+      machines: 15
+      F: 15
+      H: 0
+      Description: 
+      combinedGroup: _1
+    - IP: 61.6.232.125
+      LicenseHash: 7a4d7206bcb056ed819610a7630973fb3c98b818
+      MachineId: AnGcgUeQjB+ioe7zCfKdWMuUvS1TtNMBsk8Vpg1Mwk4=
+      Version: u2019.3.4f1
+      Location: BN
+      Userid: 476170
+      count: 2
+      SerialNumber: F4-8U7G-RZ83-CTH5-Q59K-2FM9
+      LicenseType: F
+      ShortVer: u2019.3.4f1
+      group: 1
+      rows: 30
+      users: 15
+      machines: 15
+      F: 15
+      H: 0
+      Description: 
+      combinedGroup: _1
+    - IP: 61.6.230.61
+      LicenseHash: a7fb80322268fa2451e6e4feb1f4f6dbe515d87d
+      MachineId: iuX846AgrjVdkplF3Vi8v6rjz2fNTK8vxktVlx1xqi8=
+      Version: u2018.4.18f1
+      Location: BN
+      Userid: 18966782542661
+      count: 1
+      SerialNumber: F4-NCYV-2M6E-RXVG-K6BK-NQ4S
+      LicenseType: F
+      ShortVer: u2018.4.18f1
+      group: 1
+      rows: 30
+      users: 15
+      machines: 15
+      F: 15
+      H: 0
+      Description: 
+      combinedGroup: _1
+    - IP: 202.152.86.180
+      LicenseHash: a7fb80322268fa2451e6e4feb1f4f6dbe515d87d
+      MachineId: iuX846AgrjVdkplF3Vi8v6rjz2fNTK8vxktVlx1xqi8=
+      Version: u2018.4.18f1
+      Location: BN
+      Userid: 18966782542661
+      count: 3
+      SerialNumber: F4-NCYV-2M6E-RXVG-K6BK-NQ4S
+      LicenseType: F
+      ShortVer: u2018.4.18f1
+      group: 1
+      rows: 30
+      users: 15
+      machines: 15
+      F: 15
+      H: 0
+      Description: 
+      combinedGroup: _1
+    - IP: 61.6.239.198
+      LicenseHash: 976b6acbc98d7af5dde5fdf1fd4f332a3ca065b0
+      MachineId: 9IIh6DATZKVPtOF4uyxhBSbuyW6RWlc4b5E4+uVw9uk=
+      Version: u2018.2.1f1
+      Location: BN
+      Userid: 18966724645885
+      count: 1
+      SerialNumber: F4-4NUN-5YRG-3DCV-777D-7Q9N
+      LicenseType: F
+      ShortVer: u2018.2.1f1
+      group: 1
+      rows: 30
+      users: 15
+      machines: 15
+      F: 15
+      H: 0
+      Description: 
+      combinedGroup: _1
+    - IP: 202.152.71.24
+      LicenseHash: 976b6acbc98d7af5dde5fdf1fd4f332a3ca065b0
+      MachineId: 9IIh6DATZKVPtOF4uyxhBSbuyW6RWlc4b5E4+uVw9uk=
+      Version: u2018.2.1f1
+      Location: BN
+      Userid: 18966724645885
+      count: 1
+      SerialNumber: F4-4NUN-5YRG-3DCV-777D-7Q9N
+      LicenseType: F
+      ShortVer: u2018.2.1f1
+      group: 1
+      rows: 30
+      users: 15
+      machines: 15
+      F: 15
+      H: 0
+      Description: 
+      combinedGroup: _1
+    - IP: 202.152.78.153
+      LicenseHash: d0dab4a4973a9dfd312cc3e07282257257747b9d
+      MachineId: uh9j/6ZhHDklb4iR17LsBK+S6OR3wDR/02+YfVU0pMk=
+      Version: u2019.3.3f1
+      Location: BN
+      Userid: 18966860839457
+      count: 3
+      SerialNumber: F4-KWAA-EGTS-XPV4-3AAH-QSWP
+      LicenseType: F
+      ShortVer: u2019.3.3f1
+      group: 1
+      rows: 30
+      users: 15
+      machines: 15
+      F: 15
+      H: 0
+      Description: 
+      combinedGroup: _1
+    - IP: 61.6.235.229
+      LicenseHash: 08e7451e2ef4b71854dfa34c98618011604ba541
+      MachineId: L9jNDQZOQDlM1irG1GUJH/Xw1XMnTgbm48jglXoeBDE=
+      Version: u5.6.1f1
+      Location: BN
+      Userid: 18966631903316
+      count: 1
+      SerialNumber: F4-WYFA-A7WU-ZW83-WPZ9-7E7Y
+      LicenseType: F
+      ShortVer: u5.6.1f1
+      group: 1
+      rows: 30
+      users: 15
+      machines: 15
+      F: 15
+      H: 0
+      Description: 
+      combinedGroup: _1
+    - IP: 61.6.230.30
+      LicenseHash: 08e7451e2ef4b71854dfa34c98618011604ba541
+      MachineId: L9jNDQZOQDlM1irG1GUJH/Xw1XMnTgbm48jglXoeBDE=
+      Version: u5.6.1f1
+      Location: BN
+      Userid: 18966631903316
+      count: 3
+      SerialNumber: F4-WYFA-A7WU-ZW83-WPZ9-7E7Y
+      LicenseType: F
+      ShortVer: u5.6.1f1
+      group: 1
+      rows: 30
+      users: 15
+      machines: 15
+      F: 15
+      H: 0
+      Description: 
+      combinedGroup: _1
+    - IP: 61.6.236.124
+      LicenseHash: 792944ad70839fe6caf6b8651e9fa52adf83ec03
+      MachineId: fws6n5k5uWznz7+sEyhZWfhr3Jgn26rNPdGd5T00dXY=
+      Version: u2018.4.18f1
+      Location: BN
+      Userid: 18966864977394
+      count: 1
+      SerialNumber: F4-JWF5-MZCW-5NP6-QZZW-YZED
+      LicenseType: F
+      ShortVer: u2018.4.18f1
+      group: 1
+      rows: 30
+      users: 15
+      machines: 15
+      F: 15
+      H: 0
+      Description: 
+      combinedGroup: _1
+    - IP: 202.152.86.241
+      LicenseHash: 792944ad70839fe6caf6b8651e9fa52adf83ec03
+      MachineId: fws6n5k5uWznz7+sEyhZWfhr3Jgn26rNPdGd5T00dXY=
+      Version: u2018.4.18f1
+      Location: BN
+      Userid: 18966864977394
+      count: 1
+      SerialNumber: F4-JWF5-MZCW-5NP6-QZZW-YZED
+      LicenseType: F
+      ShortVer: u2018.4.18f1
+      group: 1
+      rows: 30
+      users: 15
+      machines: 15
+      F: 15
+      H: 0
+      Description: 
+      combinedGroup: _1
+    users: 15
+    machines: 15
+    F: 15
+    H: 0
+  - name: 
+    description: 
+    rows:
+    - IP: 202.152.70.87
+      LicenseHash: 876db752ef4608611b6e84025b2b8a16391f8a8b
+      MachineId: barqGpwm9mieU7xfnqgLwhAHJqmKfwUe8Dhe6obIw2s=
+      Version: u2019.3.4f1
+      Location: BN
+      Userid: 18966859247010
+      count: 2
+      SerialNumber: F4-NGW2-KJSB-NGWS-SRT7-B6RM
+      LicenseType: F
+      ShortVer: u2019.3.4f1
+      group: 2
+      rows: 17
+      users: 4
+      machines: 6
+      F: 6
+      H: 0
+      Description: 
+      combinedGroup: _2
+    - IP: 202.152.70.87
+      LicenseHash: 4e3406bb6f4d46a238109d359cae3ae8a6c00d9e
+      MachineId: +8x3zREKLwO4iukEz7e8R8K4qcouPwCQmQCW1o9FUyI=
+      Version: u2019.2.17f1
+      Location: BN
+      Userid: 18966729125776
+      count: 2
+      SerialNumber: F4-9TVT-5Z7A-W9W6-AU9D-PPKN
+      LicenseType: F
+      ShortVer: u2019.2.17f1
+      group: 2
+      rows: 17
+      users: 4
+      machines: 6
+      F: 6
+      H: 0
+      Description: 
+      combinedGroup: _2
+    - IP: 202.152.70.87
+      LicenseHash: 136b62cc67c480f88de0d492eef9173307cb2d8c
+      MachineId: IjX+Kp7N2I42UOg6DEKksCYQAavCrtHZyLJjIuogQf8=
+      Version: u2019.2.17f1
+      Location: BN
+      Userid: 18966745574774
+      count: 1
+      SerialNumber: F4-H4BA-R2PB-ADZ6-P23K-474M
+      LicenseType: F
+      ShortVer: u2019.2.17f1
+      group: 2
+      rows: 17
+      users: 4
+      machines: 6
+      F: 6
+      H: 0
+      Description: 
+      combinedGroup: _2
+    - IP: 202.152.70.87
+      LicenseHash: 152ab75a21b4a11210627a1442456237f74c9ce5
+      MachineId: oZiwoGFS2GCmvI7cRigUss6x8zKoC1uif9qOErZ3pfQ=
+      Version: u2019.3.4f1
+      Location: BN
+      Userid: 18966859151635
+      count: 1
+      SerialNumber: F4-MWR2-JY8U-MDT4-SDNY-CEJS
+      LicenseType: F
+      ShortVer: u2019.3.4f1
+      group: 2
+      rows: 17
+      users: 4
+      machines: 6
+      F: 6
+      H: 0
+      Description: 
+      combinedGroup: _2
+    - IP: 202.152.71.78
+      LicenseHash: 876db752ef4608611b6e84025b2b8a16391f8a8b
+      MachineId: barqGpwm9mieU7xfnqgLwhAHJqmKfwUe8Dhe6obIw2s=
+      Version: u2019.3.4f1
+      Location: BN
+      Userid: 18966859247010
+      count: 1
+      SerialNumber: F4-NGW2-KJSB-NGWS-SRT7-B6RM
+      LicenseType: F
+      ShortVer: u2019.3.4f1
+      group: 2
+      rows: 17
+      users: 4
+      machines: 6
+      F: 6
+      H: 0
+      Description: 
+      combinedGroup: _2
+    - IP: 202.152.71.78
+      LicenseHash: 4e3406bb6f4d46a238109d359cae3ae8a6c00d9e
+      MachineId: +8x3zREKLwO4iukEz7e8R8K4qcouPwCQmQCW1o9FUyI=
+      Version: u2019.2.17f1
+      Location: BN
+      Userid: 18966729125776
+      count: 3
+      SerialNumber: F4-9TVT-5Z7A-W9W6-AU9D-PPKN
+      LicenseType: F
+      ShortVer: u2019.2.17f1
+      group: 2
+      rows: 17
+      users: 4
+      machines: 6
+      F: 6
+      H: 0
+      Description: 
+      combinedGroup: _2
+    - IP: 202.152.71.78
+      LicenseHash: 152ab75a21b4a11210627a1442456237f74c9ce5
+      MachineId: oZiwoGFS2GCmvI7cRigUss6x8zKoC1uif9qOErZ3pfQ=
+      Version: u2019.3.4f1
+      Location: BN
+      Userid: 18966859151635
+      count: 5
+      SerialNumber: F4-MWR2-JY8U-MDT4-SDNY-CEJS
+      LicenseType: F
+      ShortVer: u2019.3.4f1
+      group: 2
+      rows: 17
+      users: 4
+      machines: 6
+      F: 6
+      H: 0
+      Description: 
+      combinedGroup: _2
+    - IP: 61.6.201.153
+      LicenseHash: 152ab75a21b4a11210627a1442456237f74c9ce5
+      MachineId: AmwVzMxWzj/lN7JpW+8TIJfca8n8/M6FmIA3Cs7Epv8=
+      Version: u2019.3.4f1
+      Location: BN
+      Userid: 18966859151635
+      count: 10
+      SerialNumber: F4-MWR2-JY8U-MDT4-SDNY-CEJS
+      LicenseType: F
+      ShortVer: u2019.3.4f1
+      group: 2
+      rows: 17
+      users: 4
+      machines: 6
+      F: 6
+      H: 0
+      Description: 
+      combinedGroup: _2
+    - IP: 61.6.201.153
+      LicenseHash: 152ab75a21b4a11210627a1442456237f74c9ce5
+      MachineId: AmwVzMxWzj/lN7JpW+8TIJfca8n8/M6FmIA3Cs7Epv8=
+      Version: u2019.3.5f1
+      Location: BN
+      Userid: 18966859151635
+      count: 3
+      SerialNumber: F4-MWR2-JY8U-MDT4-SDNY-CEJS
+      LicenseType: F
+      ShortVer: u2019.3.5f1
+      group: 2
+      rows: 17
+      users: 4
+      machines: 6
+      F: 6
+      H: 0
+      Description: 
+      combinedGroup: _2
+    - IP: 61.6.201.153
+      LicenseHash: 152ab75a21b4a11210627a1442456237f74c9ce5
+      MachineId: oZiwoGFS2GCmvI7cRigUss6x8zKoC1uif9qOErZ3pfQ=
+      Version: u2019.3.4f1
+      Location: BN
+      Userid: 18966859151635
+      count: 1
+      SerialNumber: F4-MWR2-JY8U-MDT4-SDNY-CEJS
+      LicenseType: F
+      ShortVer: u2019.3.4f1
+      group: 2
+      rows: 17
+      users: 4
+      machines: 6
+      F: 6
+      H: 0
+      Description: 
+      combinedGroup: _2
+    - IP: 61.6.233.91
+      LicenseHash: 4e3406bb6f4d46a238109d359cae3ae8a6c00d9e
+      MachineId: SLlLD9vXbfmLu6Mp0O5XaM34NlmQWWDS2Rhue61LY/4=
+      Version: u2019.2.17f1
+      Location: BN
+      Userid: 18966729125776
+      count: 1
+      SerialNumber: F4-9TVT-5Z7A-W9W6-AU9D-PPKN
+      LicenseType: F
+      ShortVer: u2019.2.17f1
+      group: 2
+      rows: 17
+      users: 4
+      machines: 6
+      F: 6
+      H: 0
+      Description: 
+      combinedGroup: _2
+    - IP: 61.6.233.91
+      LicenseHash: 4e3406bb6f4d46a238109d359cae3ae8a6c00d9e
+      MachineId: SLlLD9vXbfmLu6Mp0O5XaM34NlmQWWDS2Rhue61LY/4=
+      Version: u2019.1.6f1
+      Location: BN
+      Userid: 18966729125776
+      count: 1
+      SerialNumber: F4-9TVT-5Z7A-W9W6-AU9D-PPKN
+      LicenseType: F
+      ShortVer: u2019.1.6f1
+      group: 2
+      rows: 17
+      users: 4
+      machines: 6
+      F: 6
+      H: 0
+      Description: 
+      combinedGroup: _2
+    - IP: 61.6.233.202
+      LicenseHash: 4e3406bb6f4d46a238109d359cae3ae8a6c00d9e
+      MachineId: SLlLD9vXbfmLu6Mp0O5XaM34NlmQWWDS2Rhue61LY/4=
+      Version: u2019.1.6f1
+      Location: BN
+      Userid: 18966729125776
+      count: 1
+      SerialNumber: F4-9TVT-5Z7A-W9W6-AU9D-PPKN
+      LicenseType: F
+      ShortVer: u2019.1.6f1
+      group: 2
+      rows: 17
+      users: 4
+      machines: 6
+      F: 6
+      H: 0
+      Description: 
+      combinedGroup: _2
+    - IP: 61.6.233.202
+      LicenseHash: 4e3406bb6f4d46a238109d359cae3ae8a6c00d9e
+      MachineId: SLlLD9vXbfmLu6Mp0O5XaM34NlmQWWDS2Rhue61LY/4=
+      Version: u2019.2.17f1
+      Location: BN
+      Userid: 18966729125776
+      count: 1
+      SerialNumber: F4-9TVT-5Z7A-W9W6-AU9D-PPKN
+      LicenseType: F
+      ShortVer: u2019.2.17f1
+      group: 2
+      rows: 17
+      users: 4
+      machines: 6
+      F: 6
+      H: 0
+      Description: 
+      combinedGroup: _2
+    - IP: 61.6.232.8
+      LicenseHash: 876db752ef4608611b6e84025b2b8a16391f8a8b
+      MachineId: barqGpwm9mieU7xfnqgLwhAHJqmKfwUe8Dhe6obIw2s=
+      Version: u2019.3.4f1
+      Location: BN
+      Userid: 18966859247010
+      count: 1
+      SerialNumber: F4-NGW2-KJSB-NGWS-SRT7-B6RM
+      LicenseType: F
+      ShortVer: u2019.3.4f1
+      group: 2
+      rows: 17
+      users: 4
+      machines: 6
+      F: 6
+      H: 0
+      Description: 
+      combinedGroup: _2
+    - IP: 61.6.232.6
+      LicenseHash: 876db752ef4608611b6e84025b2b8a16391f8a8b
+      MachineId: barqGpwm9mieU7xfnqgLwhAHJqmKfwUe8Dhe6obIw2s=
+      Version: u2019.3.4f1
+      Location: BN
+      Userid: 18966859247010
+      count: 1
+      SerialNumber: F4-NGW2-KJSB-NGWS-SRT7-B6RM
+      LicenseType: F
+      ShortVer: u2019.3.4f1
+      group: 2
+      rows: 17
+      users: 4
+      machines: 6
+      F: 6
+      H: 0
+      Description: 
+      combinedGroup: _2
+    - IP: 202.152.86.64
+      LicenseHash: 4e3406bb6f4d46a238109d359cae3ae8a6c00d9e
+      MachineId: +8x3zREKLwO4iukEz7e8R8K4qcouPwCQmQCW1o9FUyI=
+      Version: u2019.2.17f1
+      Location: BN
+      Userid: 18966729125776
+      count: 1
+      SerialNumber: F4-9TVT-5Z7A-W9W6-AU9D-PPKN
+      LicenseType: F
+      ShortVer: u2019.2.17f1
+      group: 2
+      rows: 17
+      users: 4
+      machines: 6
+      F: 6
+      H: 0
+      Description: 
+      combinedGroup: _2
+    users: 4
+    machines: 6
+    F: 6
+    H: 0
+  - name: 
+    description: 
+    rows:
+    - IP: 202.160.38.9
+      LicenseHash: 26ca7b0abda5f707b6c1523e5ab4054915a756b1
+      MachineId: +ZFeRKoVkeAwwATe4QjRxxupjkj5NwdLJgSeM3mb/wU=
+      Version: u2018.3.14f1
+      Location: BN
+      Userid: 18966791492885
+      count: 3
+      SerialNumber: F4-ZRN8-FSTV-H2YU-TRH8-JZVR
+      LicenseType: F
+      ShortVer: u2018.3.14f1
+      group: 3
+      rows: 12
+      users: 3
+      machines: 3
+      F: 3
+      H: 0
+      Description: 
+      combinedGroup: _3
+    - IP: 202.160.38.9
+      LicenseHash: ac643378508070ce944d29908abd22bfaf6df428
+      MachineId: xiqJ8wF8eGfst5xgSBTW6hhiK7tFcM9rR7E1vMOTTMY=
+      Version: u2019.1.11f1
+      Location: BN
+      Userid: 18966734655646
+      count: 2
+      SerialNumber: F4-R2RP-YC3D-5XEP-SJXC-KDJ4
+      LicenseType: F
+      ShortVer: u2019.1.11f1
+      group: 3
+      rows: 12
+      users: 3
+      machines: 3
+      F: 3
+      H: 0
+      Description: 
+      combinedGroup: _3
+    - IP: 202.160.38.9
+      LicenseHash: 6ced6fc200926d8b00be8cb4313725d09a4de96f
+      MachineId: 0e3WQGFL8DMV3tqAntrHncS868hhmvyJ68cFPmG6hi4=
+      Version: u2019.3.1f1
+      Location: BN
+      Userid: 18966727326577
+      count: 2
+      SerialNumber: F4-GFKH-2UW9-SJ7C-M9U6-FKCD
+      LicenseType: F
+      ShortVer: u2019.3.1f1
+      group: 3
+      rows: 12
+      users: 3
+      machines: 3
+      F: 3
+      H: 0
+      Description: 
+      combinedGroup: _3
+    - IP: 61.6.239.248
+      LicenseHash: ac643378508070ce944d29908abd22bfaf6df428
+      MachineId: xiqJ8wF8eGfst5xgSBTW6hhiK7tFcM9rR7E1vMOTTMY=
+      Version: u2019.1.11f1
+      Location: BN
+      Userid: 18966734655646
+      count: 1
+      SerialNumber: F4-R2RP-YC3D-5XEP-SJXC-KDJ4
+      LicenseType: F
+      ShortVer: u2019.1.11f1
+      group: 3
+      rows: 12
+      users: 3
+      machines: 3
+      F: 3
+      H: 0
+      Description: 
+      combinedGroup: _3
+    - IP: 61.6.238.72
+      LicenseHash: ac643378508070ce944d29908abd22bfaf6df428
+      MachineId: xiqJ8wF8eGfst5xgSBTW6hhiK7tFcM9rR7E1vMOTTMY=
+      Version: u2019.1.11f1
+      Location: BN
+      Userid: 18966734655646
+      count: 1
+      SerialNumber: F4-R2RP-YC3D-5XEP-SJXC-KDJ4
+      LicenseType: F
+      ShortVer: u2019.1.11f1
+      group: 3
+      rows: 12
+      users: 3
+      machines: 3
+      F: 3
+      H: 0
+      Description: 
+      combinedGroup: _3
+    - IP: 61.6.237.8
+      LicenseHash: ac643378508070ce944d29908abd22bfaf6df428
+      MachineId: xiqJ8wF8eGfst5xgSBTW6hhiK7tFcM9rR7E1vMOTTMY=
+      Version: u2019.1.11f1
+      Location: BN
+      Userid: 18966734655646
+      count: 1
+      SerialNumber: F4-R2RP-YC3D-5XEP-SJXC-KDJ4
+      LicenseType: F
+      ShortVer: u2019.1.11f1
+      group: 3
+      rows: 12
+      users: 3
+      machines: 3
+      F: 3
+      H: 0
+      Description: 
+      combinedGroup: _3
+    - IP: 61.6.237.188
+      LicenseHash: ac643378508070ce944d29908abd22bfaf6df428
+      MachineId: xiqJ8wF8eGfst5xgSBTW6hhiK7tFcM9rR7E1vMOTTMY=
+      Version: u2019.1.11f1
+      Location: BN
+      Userid: 18966734655646
+      count: 1
+      SerialNumber: F4-R2RP-YC3D-5XEP-SJXC-KDJ4
+      LicenseType: F
+      ShortVer: u2019.1.11f1
+      group: 3
+      rows: 12
+      users: 3
+      machines: 3
+      F: 3
+      H: 0
+      Description: 
+      combinedGroup: _3
+    - IP: 61.6.236.94
+      LicenseHash: ac643378508070ce944d29908abd22bfaf6df428
+      MachineId: xiqJ8wF8eGfst5xgSBTW6hhiK7tFcM9rR7E1vMOTTMY=
+      Version: u2019.1.11f1
+      Location: BN
+      Userid: 18966734655646
+      count: 1
+      SerialNumber: F4-R2RP-YC3D-5XEP-SJXC-KDJ4
+      LicenseType: F
+      ShortVer: u2019.1.11f1
+      group: 3
+      rows: 12
+      users: 3
+      machines: 3
+      F: 3
+      H: 0
+      Description: 
+      combinedGroup: _3
+    - IP: 202.152.86.230
+      LicenseHash: ac643378508070ce944d29908abd22bfaf6df428
+      MachineId: xiqJ8wF8eGfst5xgSBTW6hhiK7tFcM9rR7E1vMOTTMY=
+      Version: u2019.1.11f1
+      Location: BN
+      Userid: 18966734655646
+      count: 1
+      SerialNumber: F4-R2RP-YC3D-5XEP-SJXC-KDJ4
+      LicenseType: F
+      ShortVer: u2019.1.11f1
+      group: 3
+      rows: 12
+      users: 3
+      machines: 3
+      F: 3
+      H: 0
+      Description: 
+      combinedGroup: _3
+    - IP: 202.152.72.76
+      LicenseHash: ac643378508070ce944d29908abd22bfaf6df428
+      MachineId: xiqJ8wF8eGfst5xgSBTW6hhiK7tFcM9rR7E1vMOTTMY=
+      Version: u2019.1.11f1
+      Location: BN
+      Userid: 18966734655646
+      count: 1
+      SerialNumber: F4-R2RP-YC3D-5XEP-SJXC-KDJ4
+      LicenseType: F
+      ShortVer: u2019.1.11f1
+      group: 3
+      rows: 12
+      users: 3
+      machines: 3
+      F: 3
+      H: 0
+      Description: 
+      combinedGroup: _3
+    - IP: 61.6.237.103
+      LicenseHash: 6ced6fc200926d8b00be8cb4313725d09a4de96f
+      MachineId: 0e3WQGFL8DMV3tqAntrHncS868hhmvyJ68cFPmG6hi4=
+      Version: u2019.3.1f1
+      Location: BN
+      Userid: 18966727326577
+      count: 1
+      SerialNumber: F4-GFKH-2UW9-SJ7C-M9U6-FKCD
+      LicenseType: F
+      ShortVer: u2019.3.1f1
+      group: 3
+      rows: 12
+      users: 3
+      machines: 3
+      F: 3
+      H: 0
+      Description: 
+      combinedGroup: _3
+    - IP: 61.6.236.255
+      LicenseHash: 6ced6fc200926d8b00be8cb4313725d09a4de96f
+      MachineId: 0e3WQGFL8DMV3tqAntrHncS868hhmvyJ68cFPmG6hi4=
+      Version: u2019.3.1f1
+      Location: BN
+      Userid: 18966727326577
+      count: 3
+      SerialNumber: F4-GFKH-2UW9-SJ7C-M9U6-FKCD
+      LicenseType: F
+      ShortVer: u2019.3.1f1
+      group: 3
+      rows: 12
+      users: 3
+      machines: 3
+      F: 3
+      H: 0
+      Description: 
+      combinedGroup: _3
+    users: 3
+    machines: 3
+    F: 3
+    H: 0
+  - name: 
+    description: 
+    rows:
+    - IP: 61.6.239.36
+      LicenseHash: 14573f7316c29fad248a0dfce985b7dd1f4eacc3
+      MachineId: +rAZEpeOfAgyM7bWmDl7HKCKu3XsuGlnNZddxz3FRfg=
+      Version: u2017.4.28f1
+      Location: BN
+      Userid: 18966687556966
+      count: 4
+      SerialNumber: F4-TY6J-C726-TAQS-3DHW-76WZ
+      LicenseType: F
+      ShortVer: u2017.4.28f1
+      group: 4
+      rows: 9
+      users: 2
+      machines: 2
+      F: 2
+      H: 0
+      Description: 
+      combinedGroup: _4
+    - IP: 61.6.239.36
+      LicenseHash: dea4c41de132ca1b9f939ec154727967f78335be
+      MachineId: tF4uFmzuzPq28PzEu+JLVQ2n+5wuqP7AlaTwhrIxuh8=
+      Version: u2018.4.15f1
+      Location: BN
+      Userid: 18966826251912
+      count: 1
+      SerialNumber: F4-2K9G-9NDH-6XC5-4CMA-3BBQ
+      LicenseType: F
+      ShortVer: u2018.4.15f1
+      group: 4
+      rows: 9
+      users: 2
+      machines: 2
+      F: 2
+      H: 0
+      Description: 
+      combinedGroup: _4
+    - IP: 61.6.239.12
+      LicenseHash: 14573f7316c29fad248a0dfce985b7dd1f4eacc3
+      MachineId: +rAZEpeOfAgyM7bWmDl7HKCKu3XsuGlnNZddxz3FRfg=
+      Version: u2017.4.28f1
+      Location: BN
+      Userid: 18966687556966
+      count: 1
+      SerialNumber: F4-TY6J-C726-TAQS-3DHW-76WZ
+      LicenseType: F
+      ShortVer: u2017.4.28f1
+      group: 4
+      rows: 9
+      users: 2
+      machines: 2
+      F: 2
+      H: 0
+      Description: 
+      combinedGroup: _4
+    - IP: 61.6.238.13
+      LicenseHash: 14573f7316c29fad248a0dfce985b7dd1f4eacc3
+      MachineId: +rAZEpeOfAgyM7bWmDl7HKCKu3XsuGlnNZddxz3FRfg=
+      Version: u2017.4.28f1
+      Location: BN
+      Userid: 18966687556966
+      count: 1
+      SerialNumber: F4-TY6J-C726-TAQS-3DHW-76WZ
+      LicenseType: F
+      ShortVer: u2017.4.28f1
+      group: 4
+      rows: 9
+      users: 2
+      machines: 2
+      F: 2
+      H: 0
+      Description: 
+      combinedGroup: _4
+    - IP: 61.6.238.125
+      LicenseHash: 14573f7316c29fad248a0dfce985b7dd1f4eacc3
+      MachineId: +rAZEpeOfAgyM7bWmDl7HKCKu3XsuGlnNZddxz3FRfg=
+      Version: u2017.4.28f1
+      Location: BN
+      Userid: 18966687556966
+      count: 1
+      SerialNumber: F4-TY6J-C726-TAQS-3DHW-76WZ
+      LicenseType: F
+      ShortVer: u2017.4.28f1
+      group: 4
+      rows: 9
+      users: 2
+      machines: 2
+      F: 2
+      H: 0
+      Description: 
+      combinedGroup: _4
+    - IP: 61.6.237.12
+      LicenseHash: 14573f7316c29fad248a0dfce985b7dd1f4eacc3
+      MachineId: +rAZEpeOfAgyM7bWmDl7HKCKu3XsuGlnNZddxz3FRfg=
+      Version: u2017.4.28f1
+      Location: BN
+      Userid: 18966687556966
+      count: 4
+      SerialNumber: F4-TY6J-C726-TAQS-3DHW-76WZ
+      LicenseType: F
+      ShortVer: u2017.4.28f1
+      group: 4
+      rows: 9
+      users: 2
+      machines: 2
+      F: 2
+      H: 0
+      Description: 
+      combinedGroup: _4
+    - IP: 61.6.236.191
+      LicenseHash: 14573f7316c29fad248a0dfce985b7dd1f4eacc3
+      MachineId: +rAZEpeOfAgyM7bWmDl7HKCKu3XsuGlnNZddxz3FRfg=
+      Version: u2017.4.28f1
+      Location: BN
+      Userid: 18966687556966
+      count: 2
+      SerialNumber: F4-TY6J-C726-TAQS-3DHW-76WZ
+      LicenseType: F
+      ShortVer: u2017.4.28f1
+      group: 4
+      rows: 9
+      users: 2
+      machines: 2
+      F: 2
+      H: 0
+      Description: 
+      combinedGroup: _4
+    - IP: 61.6.236.112
+      LicenseHash: 14573f7316c29fad248a0dfce985b7dd1f4eacc3
+      MachineId: +rAZEpeOfAgyM7bWmDl7HKCKu3XsuGlnNZddxz3FRfg=
+      Version: u2017.4.28f1
+      Location: BN
+      Userid: 18966687556966
+      count: 1
+      SerialNumber: F4-TY6J-C726-TAQS-3DHW-76WZ
+      LicenseType: F
+      ShortVer: u2017.4.28f1
+      group: 4
+      rows: 9
+      users: 2
+      machines: 2
+      F: 2
+      H: 0
+      Description: 
+      combinedGroup: _4
+    - IP: 61.6.236.170
+      LicenseHash: dea4c41de132ca1b9f939ec154727967f78335be
+      MachineId: tF4uFmzuzPq28PzEu+JLVQ2n+5wuqP7AlaTwhrIxuh8=
+      Version: u2018.4.15f1
+      Location: BN
+      Userid: 18966826251912
+      count: 2
+      SerialNumber: F4-2K9G-9NDH-6XC5-4CMA-3BBQ
+      LicenseType: F
+      ShortVer: u2018.4.15f1
+      group: 4
+      rows: 9
+      users: 2
+      machines: 2
+      F: 2
+      H: 0
+      Description: 
+      combinedGroup: _4
+    users: 2
+    machines: 2
+    F: 2
+    H: 0
+  - name: 
+    description: 
+    rows:
+    - IP: 61.6.232.207
+      LicenseHash: 4dacb14990fe0593f43c15d4518da0f030b1d511
+      MachineId: lxqcoAdB7Ap7CwRWrq3zxbS8OYmFh6VsOL6hYQirvA4=
+      Version: u2017.4.15f1
+      Location: BN
+      Userid: 18966735669186
+      count: 2
+      SerialNumber: F4-YSYD-28CF-W6CH-PREV-2TM2
+      LicenseType: F
+      ShortVer: u2017.4.15f1
+      group: 6
+      rows: 7
+      users: 2
+      machines: 2
+      F: 2
+      H: 0
+      Description: 
+      combinedGroup: _6
+    - IP: 61.6.232.207
+      LicenseHash: 9d0e18607429b3d9f9934ea942c5ffd41dc8005e
+      MachineId: p7ro4MS1X6l1kN+TDsVM3NPvMZfo7ZYqtpDSgjGPLjw=
+      Version: u2018.4.5f1
+      Location: BN
+      Userid: 18966791882247
+      count: 1
+      SerialNumber: F4-GV6X-8YWV-T3YN-WVBJ-WYBB
+      LicenseType: F
+      ShortVer: u2018.4.5f1
+      group: 6
+      rows: 7
+      users: 2
+      machines: 2
+      F: 2
+      H: 0
+      Description: 
+      combinedGroup: _6
+    - IP: 61.6.232.127
+      LicenseHash: 4dacb14990fe0593f43c15d4518da0f030b1d511
+      MachineId: lxqcoAdB7Ap7CwRWrq3zxbS8OYmFh6VsOL6hYQirvA4=
+      Version: u2017.4.15f1
+      Location: BN
+      Userid: 18966735669186
+      count: 5
+      SerialNumber: F4-YSYD-28CF-W6CH-PREV-2TM2
+      LicenseType: F
+      ShortVer: u2017.4.15f1
+      group: 6
+      rows: 7
+      users: 2
+      machines: 2
+      F: 2
+      H: 0
+      Description: 
+      combinedGroup: _6
+    - IP: 61.6.235.72
+      LicenseHash: 9d0e18607429b3d9f9934ea942c5ffd41dc8005e
+      MachineId: p7ro4MS1X6l1kN+TDsVM3NPvMZfo7ZYqtpDSgjGPLjw=
+      Version: u2018.4.5f1
+      Location: BN
+      Userid: 18966791882247
+      count: 2
+      SerialNumber: F4-GV6X-8YWV-T3YN-WVBJ-WYBB
+      LicenseType: F
+      ShortVer: u2018.4.5f1
+      group: 6
+      rows: 7
+      users: 2
+      machines: 2
+      F: 2
+      H: 0
+      Description: 
+      combinedGroup: _6
+    - IP: 61.6.233.35
+      LicenseHash: 9d0e18607429b3d9f9934ea942c5ffd41dc8005e
+      MachineId: p7ro4MS1X6l1kN+TDsVM3NPvMZfo7ZYqtpDSgjGPLjw=
+      Version: u2018.4.5f1
+      Location: BN
+      Userid: 18966791882247
+      count: 1
+      SerialNumber: F4-GV6X-8YWV-T3YN-WVBJ-WYBB
+      LicenseType: F
+      ShortVer: u2018.4.5f1
+      group: 6
+      rows: 7
+      users: 2
+      machines: 2
+      F: 2
+      H: 0
+      Description: 
+      combinedGroup: _6
+    - IP: 61.6.233.141
+      LicenseHash: 9d0e18607429b3d9f9934ea942c5ffd41dc8005e
+      MachineId: p7ro4MS1X6l1kN+TDsVM3NPvMZfo7ZYqtpDSgjGPLjw=
+      Version: u2018.4.5f1
+      Location: BN
+      Userid: 18966791882247
+      count: 1
+      SerialNumber: F4-GV6X-8YWV-T3YN-WVBJ-WYBB
+      LicenseType: F
+      ShortVer: u2018.4.5f1
+      group: 6
+      rows: 7
+      users: 2
+      machines: 2
+      F: 2
+      H: 0
+      Description: 
+      combinedGroup: _6
+    - IP: 61.6.230.233
+      LicenseHash: 9d0e18607429b3d9f9934ea942c5ffd41dc8005e
+      MachineId: p7ro4MS1X6l1kN+TDsVM3NPvMZfo7ZYqtpDSgjGPLjw=
+      Version: u2018.4.5f1
+      Location: BN
+      Userid: 18966791882247
+      count: 1
+      SerialNumber: F4-GV6X-8YWV-T3YN-WVBJ-WYBB
+      LicenseType: F
+      ShortVer: u2018.4.5f1
+      group: 6
+      rows: 7
+      users: 2
+      machines: 2
+      F: 2
+      H: 0
+      Description: 
+      combinedGroup: _6
+    users: 2
+    machines: 2
+    F: 2
+    H: 0
+  - name: 
+    description: 
+    rows:
+    - IP: 103.4.190.241
+      LicenseHash: 454dd93e26107473bb2cf6880ed4182f5a833fea
+      MachineId: uNuVukhZDh3p0vaVziVD44Tem1W4UBR0wLq8RLJWvLE=
+      Version: u2018.3.0f2
+      Location: BN
+      Userid: 18966777961374
+      count: 6
+      SerialNumber: F4-CXCS-ERUF-H4G2-USQG-WJM3
+      LicenseType: F
+      ShortVer: u2018.3.0f2
+      group: 7
+      rows: 4
+      users: 2
+      machines: 2
+      F: 2
+      H: 0
+      Description: 
+      combinedGroup: _7
+    - IP: 103.4.190.241
+      LicenseHash: 5e875f54adea3bc2600d7f3bfdf08f9c48906705
+      MachineId: vRNjALmo9cuf+xHScnl9bKhIZMnMzAvJyn9FaKJnt4o=
+      Version: u2020.1.0a25
+      Location: BN
+      Userid: 18966857486708
+      count: 3
+      SerialNumber: F4-5P9T-WWJ2-9AZ6-5B4T-GXE3
+      LicenseType: F
+      ShortVer: u2020.1.0a25
+      group: 7
+      rows: 4
+      users: 2
+      machines: 2
+      F: 2
+      H: 0
+      Description: 
+      combinedGroup: _7
+    - IP: 61.6.235.231
+      LicenseHash: 454dd93e26107473bb2cf6880ed4182f5a833fea
+      MachineId: uNuVukhZDh3p0vaVziVD44Tem1W4UBR0wLq8RLJWvLE=
+      Version: u2018.3.0f2
+      Location: BN
+      Userid: 18966777961374
+      count: 5
+      SerialNumber: F4-CXCS-ERUF-H4G2-USQG-WJM3
+      LicenseType: F
+      ShortVer: u2018.3.0f2
+      group: 7
+      rows: 4
+      users: 2
+      machines: 2
+      F: 2
+      H: 0
+      Description: 
+      combinedGroup: _7
+    - IP: 61.6.233.97
+      LicenseHash: 454dd93e26107473bb2cf6880ed4182f5a833fea
+      MachineId: uNuVukhZDh3p0vaVziVD44Tem1W4UBR0wLq8RLJWvLE=
+      Version: u2018.3.0f2
+      Location: BN
+      Userid: 18966777961374
+      count: 6
+      SerialNumber: F4-CXCS-ERUF-H4G2-USQG-WJM3
+      LicenseType: F
+      ShortVer: u2018.3.0f2
+      group: 7
+      rows: 4
+      users: 2
+      machines: 2
+      F: 2
+      H: 0
+      Description: 
+      combinedGroup: _7
+    users: 2
+    machines: 2
+    F: 2
+    H: 0
+  - name: 
+    description: 
+    rows:
+    - IP: 61.6.235.101
+      LicenseHash: 82ebc65cf737ece6b0c7cfb402a8cb20355e4de7
+      MachineId: /kcIxKJhVAGkHB7e0o8RF5pvkI56TVbCRdbsOX5r1FU=
+      Version: u2018.4.9f1
+      Location: BN
+      Userid: 4348781
+      count: 2
+      SerialNumber: F4-N9JZ-HAK4-WV9G-D6FA-AXBX
+      LicenseType: F
+      ShortVer: u2018.4.9f1
+      group: 24
+      rows: 7
+      users: 1
+      machines: 2
+      F: 2
+      H: 0
+      Description: 
+      combinedGroup: _24
+    - IP: 202.152.86.13
+      LicenseHash: 82ebc65cf737ece6b0c7cfb402a8cb20355e4de7
+      MachineId: /kcIxKJhVAGkHB7e0o8RF5pvkI56TVbCRdbsOX5r1FU=
+      Version: u2018.4.9f1
+      Location: BN
+      Userid: 4348781
+      count: 1
+      SerialNumber: F4-N9JZ-HAK4-WV9G-D6FA-AXBX
+      LicenseType: F
+      ShortVer: u2018.4.9f1
+      group: 24
+      rows: 7
+      users: 1
+      machines: 2
+      F: 2
+      H: 0
+      Description: 
+      combinedGroup: _24
+    - IP: 202.152.71.76
+      LicenseHash: 82ebc65cf737ece6b0c7cfb402a8cb20355e4de7
+      MachineId: E5q3KDTlNV4/BuHxSiKmol7tOPqyz6iCWDMm1oO9OlM=
+      Version: u2018.4.0f1
+      Location: BN
+      Userid: 4348781
+      count: 1
+      SerialNumber: F4-N9JZ-HAK4-WV9G-D6FA-AXBX
+      LicenseType: F
+      ShortVer: u2018.4.0f1
+      group: 24
+      rows: 7
+      users: 1
+      machines: 2
+      F: 2
+      H: 0
+      Description: 
+      combinedGroup: _24
+    - IP: 202.152.71.73
+      LicenseHash: 82ebc65cf737ece6b0c7cfb402a8cb20355e4de7
+      MachineId: /kcIxKJhVAGkHB7e0o8RF5pvkI56TVbCRdbsOX5r1FU=
+      Version: u2018.4.9f1
+      Location: BN
+      Userid: 4348781
+      count: 1
+      SerialNumber: F4-N9JZ-HAK4-WV9G-D6FA-AXBX
+      LicenseType: F
+      ShortVer: u2018.4.9f1
+      group: 24
+      rows: 7
+      users: 1
+      machines: 2
+      F: 2
+      H: 0
+      Description: 
+      combinedGroup: _24
+    - IP: 202.152.70.78
+      LicenseHash: 82ebc65cf737ece6b0c7cfb402a8cb20355e4de7
+      MachineId: E5q3KDTlNV4/BuHxSiKmol7tOPqyz6iCWDMm1oO9OlM=
+      Version: u2018.4.0f1
+      Location: BN
+      Userid: 4348781
+      count: 1
+      SerialNumber: F4-N9JZ-HAK4-WV9G-D6FA-AXBX
+      LicenseType: F
+      ShortVer: u2018.4.0f1
+      group: 24
+      rows: 7
+      users: 1
+      machines: 2
+      F: 2
+      H: 0
+      Description: 
+      combinedGroup: _24
+    - IP: 119.160.132.40
+      LicenseHash: 82ebc65cf737ece6b0c7cfb402a8cb20355e4de7
+      MachineId: /kcIxKJhVAGkHB7e0o8RF5pvkI56TVbCRdbsOX5r1FU=
+      Version: u2018.4.9f1
+      Location: BN
+      Userid: 4348781
+      count: 2
+      SerialNumber: F4-N9JZ-HAK4-WV9G-D6FA-AXBX
+      LicenseType: F
+      ShortVer: u2018.4.9f1
+      group: 24
+      rows: 7
+      users: 1
+      machines: 2
+      F: 2
+      H: 0
+      Description: 
+      combinedGroup: _24
+    - IP: 119.160.132.165
+      LicenseHash: 82ebc65cf737ece6b0c7cfb402a8cb20355e4de7
+      MachineId: /kcIxKJhVAGkHB7e0o8RF5pvkI56TVbCRdbsOX5r1FU=
+      Version: u2018.4.9f1
+      Location: BN
+      Userid: 4348781
+      count: 1
+      SerialNumber: F4-N9JZ-HAK4-WV9G-D6FA-AXBX
+      LicenseType: F
+      ShortVer: u2018.4.9f1
+      group: 24
+      rows: 7
+      users: 1
+      machines: 2
+      F: 2
+      H: 0
+      Description: 
+      combinedGroup: _24
+    users: 1
+    machines: 2
+    F: 2
+    H: 0
+  - name: 
+    description: 
+    rows:
+    - IP: 61.6.238.77
+      LicenseHash: 3f8d005ec8ce61dbb93f8b29acc8c9f61c3f3a63
+      MachineId: 3OMgi7tvM5A5jb/ztPYNdJ5J7EwE9XuZ6YKsrgL/Y44=
+      Version: u2019.3.2f1
+      Location: BN
+      Userid: 18966709088661
+      count: 1
+      SerialNumber: I3-36QR-YVXT-4VJN-MJTJ-JNFU
+      LicenseType: I
+      ShortVer: u2019.3.2f1
+      group: 5
+      rows: 9
+      users: 1
+      machines: 1
+      F: 0
+      H: 0
+      Description: 
+      combinedGroup: _5
+    - IP: 61.6.238.77
+      LicenseHash: 3f8d005ec8ce61dbb93f8b29acc8c9f61c3f3a63
+      MachineId: 3OMgi7tvM5A5jb/ztPYNdJ5J7EwE9XuZ6YKsrgL/Y44=
+      Version: u2019.2.17f1
+      Location: BN
+      Userid: 18966709088661
+      count: 1
+      SerialNumber: I3-36QR-YVXT-4VJN-MJTJ-JNFU
+      LicenseType: I
+      ShortVer: u2019.2.17f1
+      group: 5
+      rows: 9
+      users: 1
+      machines: 1
+      F: 0
+      H: 0
+      Description: 
+      combinedGroup: _5
+    - IP: 61.6.238.177
+      LicenseHash: 3f8d005ec8ce61dbb93f8b29acc8c9f61c3f3a63
+      MachineId: 3OMgi7tvM5A5jb/ztPYNdJ5J7EwE9XuZ6YKsrgL/Y44=
+      Version: u2019.3.2f1
+      Location: BN
+      Userid: 18966709088661
+      count: 2
+      SerialNumber: I3-36QR-YVXT-4VJN-MJTJ-JNFU
+      LicenseType: I
+      ShortVer: u2019.3.2f1
+      group: 5
+      rows: 9
+      users: 1
+      machines: 1
+      F: 0
+      H: 0
+      Description: 
+      combinedGroup: _5
+    - IP: 61.6.236.180
+      LicenseHash: 3f8d005ec8ce61dbb93f8b29acc8c9f61c3f3a63
+      MachineId: 3OMgi7tvM5A5jb/ztPYNdJ5J7EwE9XuZ6YKsrgL/Y44=
+      Version: u2019.3.2f1
+      Location: BN
+      Userid: 18966709088661
+      count: 2
+      SerialNumber: I3-36QR-YVXT-4VJN-MJTJ-JNFU
+      LicenseType: I
+      ShortVer: u2019.3.2f1
+      group: 5
+      rows: 9
+      users: 1
+      machines: 1
+      F: 0
+      H: 0
+      Description: 
+      combinedGroup: _5
+    - IP: 61.6.236.122
+      LicenseHash: 3f8d005ec8ce61dbb93f8b29acc8c9f61c3f3a63
+      MachineId: 3OMgi7tvM5A5jb/ztPYNdJ5J7EwE9XuZ6YKsrgL/Y44=
+      Version: u2019.3.2f1
+      Location: BN
+      Userid: 18966709088661
+      count: 4
+      SerialNumber: I3-36QR-YVXT-4VJN-MJTJ-JNFU
+      LicenseType: I
+      ShortVer: u2019.3.2f1
+      group: 5
+      rows: 9
+      users: 1
+      machines: 1
+      F: 0
+      H: 0
+      Description: 
+      combinedGroup: _5
+    - IP: 202.152.86.226
+      LicenseHash: 3f8d005ec8ce61dbb93f8b29acc8c9f61c3f3a63
+      MachineId: 3OMgi7tvM5A5jb/ztPYNdJ5J7EwE9XuZ6YKsrgL/Y44=
+      Version: u2019.3.2f1
+      Location: BN
+      Userid: 18966709088661
+      count: 2
+      SerialNumber: I3-36QR-YVXT-4VJN-MJTJ-JNFU
+      LicenseType: I
+      ShortVer: u2019.3.2f1
+      group: 5
+      rows: 9
+      users: 1
+      machines: 1
+      F: 0
+      H: 0
+      Description: 
+      combinedGroup: _5
+    - IP: 202.152.86.182
+      LicenseHash: 3f8d005ec8ce61dbb93f8b29acc8c9f61c3f3a63
+      MachineId: 3OMgi7tvM5A5jb/ztPYNdJ5J7EwE9XuZ6YKsrgL/Y44=
+      Version: u2019.3.2f1
+      Location: BN
+      Userid: 18966709088661
+      count: 1
+      SerialNumber: I3-36QR-YVXT-4VJN-MJTJ-JNFU
+      LicenseType: I
+      ShortVer: u2019.3.2f1
+      group: 5
+      rows: 9
+      users: 1
+      machines: 1
+      F: 0
+      H: 0
+      Description: 
+      combinedGroup: _5
+    - IP: 202.152.72.69
+      LicenseHash: 3f8d005ec8ce61dbb93f8b29acc8c9f61c3f3a63
+      MachineId: 3OMgi7tvM5A5jb/ztPYNdJ5J7EwE9XuZ6YKsrgL/Y44=
+      Version: u2019.3.2f1
+      Location: BN
+      Userid: 18966709088661
+      count: 2
+      SerialNumber: I3-36QR-YVXT-4VJN-MJTJ-JNFU
+      LicenseType: I
+      ShortVer: u2019.3.2f1
+      group: 5
+      rows: 9
+      users: 1
+      machines: 1
+      F: 0
+      H: 0
+      Description: 
+      combinedGroup: _5
+    - IP: 119.160.132.250
+      LicenseHash: 3f8d005ec8ce61dbb93f8b29acc8c9f61c3f3a63
+      MachineId: 3OMgi7tvM5A5jb/ztPYNdJ5J7EwE9XuZ6YKsrgL/Y44=
+      Version: u2019.3.2f1
+      Location: BN
+      Userid: 18966709088661
+      count: 1
+      SerialNumber: I3-36QR-YVXT-4VJN-MJTJ-JNFU
+      LicenseType: I
+      ShortVer: u2019.3.2f1
+      group: 5
+      rows: 9
+      users: 1
+      machines: 1
+      F: 0
+      H: 0
+      Description: 
+      combinedGroup: _5
+    users: 1
+    machines: 1
+    F: 0
+    H: 0
+  - name: 
+    description: 
+    rows:
+    - IP: 61.6.247.231
+      LicenseHash: 90c81972b289594b3057889af15f58d94a79bf90
+      MachineId: VNO/X9zxM/kNEisXQj2X7xv2m3Xaflm52SeJuGTHbrc=
+      Version: u2019.2.8f1
+      Location: BN
+      Userid: 3928750
+      count: 1
+      SerialNumber: F4-2U5R-WEKH-R2JA-VTU4-E6C4
+      LicenseType: F
+      ShortVer: u2019.2.8f1
+      group: 8
+      rows: 1
+      users: 1
+      machines: 1
+      F: 1
+      H: 0
+      Description: 
+      combinedGroup: _8
+    users: 1
+    machines: 1
+    F: 1
+    H: 0
+  - name: 
+    description: 
+    rows:
+    - IP: 61.6.243.9
+      LicenseHash: 4a3e3a4a3f56e873c57a4e6f1368fc203cbf489f
+      MachineId: DHXuVwQLgM6WYFYQnJs581DnLB0pqXLH078TclaODzQ=
+      Version: u2018.4.18f1
+      Location: BN
+      Userid: 3258172
+      count: 1
+      SerialNumber: F4-BMF2-T423-ZAM8-DPPN-79F5
+      LicenseType: F
+      ShortVer: u2018.4.18f1
+      group: 9
+      rows: 1
+      users: 1
+      machines: 1
+      F: 1
+      H: 0
+      Description: 
+      combinedGroup: _9
+    users: 1
+    machines: 1
+    F: 1
+    H: 0
+  - name: 
+    description: 
+    rows:
+    - IP: 61.6.239.71
+      LicenseHash: 46d384577a998ab255255ebe2aca5e1d5638010f
+      MachineId: UPFyoDeDfLn8F5C1M/55p5Qctg5BOjgPNpLSJLGcpOU=
+      Version: u2018.4.18f1
+      Location: BN
+      Userid: 18966857789732
+      count: 1
+      SerialNumber: F4-6T23-NU35-V9YP-5VEY-HAUR
+      LicenseType: F
+      ShortVer: u2018.4.18f1
+      group: 10
+      rows: 2
+      users: 1
+      machines: 1
+      F: 1
+      H: 0
+      Description: 
+      combinedGroup: _10
+    - IP: 61.6.239.37
+      LicenseHash: 46d384577a998ab255255ebe2aca5e1d5638010f
+      MachineId: UPFyoDeDfLn8F5C1M/55p5Qctg5BOjgPNpLSJLGcpOU=
+      Version: u2018.4.18f1
+      Location: BN
+      Userid: 18966857789732
+      count: 1
+      SerialNumber: F4-6T23-NU35-V9YP-5VEY-HAUR
+      LicenseType: F
+      ShortVer: u2018.4.18f1
+      group: 10
+      rows: 2
+      users: 1
+      machines: 1
+      F: 1
+      H: 0
+      Description: 
+      combinedGroup: _10
+    users: 1
+    machines: 1
+    F: 1
+    H: 0
+  - name: 
+    description: 
+    rows:
+    - IP: 61.6.239.55
+      LicenseHash: dead5412cf15c37fcfbb6d2d39bd833d46cc2284
+      MachineId: EKJZLbXnkpf3vV6uWKw3OPO/IlyO0E37DdzlwNcXh2M=
+      Version: u2018.4.17f1
+      Location: BN
+      Userid: 18966634332341
+      count: 2
+      SerialNumber: F4-UNRS-J5UH-Z8C2-Y96Q-STP2
+      LicenseType: F
+      ShortVer: u2018.4.17f1
+      group: 11
+      rows: 2
+      users: 1
+      machines: 1
+      F: 1
+      H: 0
+      Description: 
+      combinedGroup: _11
+    - IP: 61.6.236.35
+      LicenseHash: dead5412cf15c37fcfbb6d2d39bd833d46cc2284
+      MachineId: EKJZLbXnkpf3vV6uWKw3OPO/IlyO0E37DdzlwNcXh2M=
+      Version: u2018.4.17f1
+      Location: BN
+      Userid: 18966634332341
+      count: 11
+      SerialNumber: F4-UNRS-J5UH-Z8C2-Y96Q-STP2
+      LicenseType: F
+      ShortVer: u2018.4.17f1
+      group: 11
+      rows: 2
+      users: 1
+      machines: 1
+      F: 1
+      H: 0
+      Description: 
+      combinedGroup: _11
+    users: 1
+    machines: 1
+    F: 1
+    H: 0
+  - name: 
+    description: 
+    rows:
+    - IP: 61.6.239.224
+      LicenseHash: e83f05f451b97fc1b53ec54456e3144a90c03d5a
+      MachineId: kUyzdJKeTBxEbE717J1HDdw1OFAuYO2/XEJyvK8amAk=
+      Version: u2018.4.18f1
+      Location: BN
+      Userid: 18966857478733
+      count: 1
+      SerialNumber: F4-EZ98-CTAJ-T3PB-8JQG-8V7G
+      LicenseType: F
+      ShortVer: u2018.4.18f1
+      group: 12
+      rows: 1
+      users: 1
+      machines: 1
+      F: 1
+      H: 0
+      Description: 
+      combinedGroup: _12
+    users: 1
+    machines: 1
+    F: 1
+    H: 0
+  - name: 
+    description: 
+    rows:
+    - IP: 61.6.239.152
+      LicenseHash: 71218852dcf33b6f1c52057029b5ca7202b3c86d
+      MachineId: iB8RNjiinctXSFAsAiC9wVtpRBlX/UxICKAoJgLxJJQ=
+      Version: u2017.4.28f1
+      Location: BN
+      Userid: 18966866932507
+      count: 2
+      SerialNumber: F4-D6JA-PM9F-CTUG-T58Q-KH3H
+      LicenseType: F
+      ShortVer: u2017.4.28f1
+      group: 13
+      rows: 2
+      users: 1
+      machines: 1
+      F: 1
+      H: 0
+      Description: 
+      combinedGroup: _13
+    - IP: 61.6.237.181
+      LicenseHash: 71218852dcf33b6f1c52057029b5ca7202b3c86d
+      MachineId: iB8RNjiinctXSFAsAiC9wVtpRBlX/UxICKAoJgLxJJQ=
+      Version: u2017.4.28f1
+      Location: BN
+      Userid: 18966866932507
+      count: 5
+      SerialNumber: F4-D6JA-PM9F-CTUG-T58Q-KH3H
+      LicenseType: F
+      ShortVer: u2017.4.28f1
+      group: 13
+      rows: 2
+      users: 1
+      machines: 1
+      F: 1
+      H: 0
+      Description: 
+      combinedGroup: _13
+    users: 1
+    machines: 1
+    F: 1
+    H: 0
+  - name: 
+    description: 
+    rows:
+    - IP: 61.6.238.248
+      LicenseHash: 1b691f503f726ed8afe549cd0ae3646e1f30e887
+      MachineId: Dme2dHoLncLIC/sH2zvyea8a+FWJGZV1SVjIeemm43k=
+      Version: u2017.4.28f1
+      Location: BN
+      Userid: 18966726999898
+      count: 1
+      SerialNumber: F4-P4SU-KGM8-EQ5H-92R6-G3ZX
+      LicenseType: F
+      ShortVer: u2017.4.28f1
+      group: 14
+      rows: 1
+      users: 1
+      machines: 1
+      F: 1
+      H: 0
+      Description: 
+      combinedGroup: _14
+    users: 1
+    machines: 1
+    F: 1
+    H: 0
+  - name: 
+    description: 
+    rows:
+    - IP: 61.6.238.244
+      LicenseHash: 2bb4c5cc6a48f3aecd5aabcd312dbb74c5f5eff6
+      MachineId: vjYUnWhIasDXzTrta01Qdve2wBLBQXf0E/TZ+qmf0pM=
+      Version: u2017.4.36f1
+      Location: BN
+      Userid: 18966667294500
+      count: 2
+      SerialNumber: F4-695J-XNWD-35QY-NVTN-575R
+      LicenseType: F
+      ShortVer: u2017.4.36f1
+      group: 15
+      rows: 1
+      users: 1
+      machines: 1
+      F: 1
+      H: 0
+      Description: 
+      combinedGroup: _15
+    users: 1
+    machines: 1
+    F: 1
+    H: 0
+  - name: 
+    description: 
+    rows:
+    - IP: 61.6.238.156
+      LicenseHash: c78e1fd509462b7acdf1dae1806d56874c98625f
+      MachineId: mUK7anUGa77Ewz8vWUX/J2L7Qu1JcXRNhoZTfQcaQmU=
+      Version: u2017.4.28f1
+      Location: BN
+      Userid: 18966682594998
+      count: 1
+      SerialNumber: F4-SGR4-JFVQ-Q5J5-BYM9-5KJX
+      LicenseType: F
+      ShortVer: u2017.4.28f1
+      group: 16
+      rows: 1
+      users: 1
+      machines: 1
+      F: 1
+      H: 0
+      Description: 
+      combinedGroup: _16
+    users: 1
+    machines: 1
+    F: 1
+    H: 0
+  - name: 
+    description: 
+    rows:
+    - IP: 61.6.237.5
+      LicenseHash: 7a8b0eb64fea6edaad947a3c015a05967006eef8
+      MachineId: j1m4w1TM6balBY3LndQZhLDhCgLP+KNd4D506c6s7Fs=
+      Version: u2018.4.19f1
+      Location: BN
+      Userid: 18966866901590
+      count: 1
+      SerialNumber: F4-58M6-D5CM-E9NP-2BQB-67EM
+      LicenseType: F
+      ShortVer: u2018.4.19f1
+      group: 17
+      rows: 1
+      users: 1
+      machines: 1
+      F: 1
+      H: 0
+      Description: 
+      combinedGroup: _17
+    users: 1
+    machines: 1
+    F: 1
+    H: 0
+  - name: 
+    description: 
+    rows:
+    - IP: 61.6.237.140
+      LicenseHash: 2fc2459965ff1e9a3bb9100824dec8c15c046d23
+      MachineId: 6eY6lY7R5wJW07OJQYdNqyzuiM5K6PBe5EMniHFWnbg=
+      Version: u2017.4.35f1
+      Location: BN
+      Userid: 18966866814747
+      count: 1
+      SerialNumber: F4-28M9-BBSZ-THTN-D3H3-PA3R
+      LicenseType: F
+      ShortVer: u2017.4.35f1
+      group: 18
+      rows: 1
+      users: 1
+      machines: 1
+      F: 1
+      H: 0
+      Description: 
+      combinedGroup: _18
+    users: 1
+    machines: 1
+    F: 1
+    H: 0
+  - name: 
+    description: 
+    rows:
+    - IP: 61.6.236.92
+      LicenseHash: f720cfce7c8b055cbff230b82a80b5e1cd56cb8f
+      MachineId: +GVT7UqnBSdGbTWOfnaZir9TxttBl6FriSi2WbtlcaY=
+      Version: u2019.2.10f1
+      Location: BN
+      Userid: 18966739232371
+      count: 2
+      SerialNumber: F4-3E6C-PWUB-XZEV-26G7-GWHJ
+      LicenseType: F
+      ShortVer: u2019.2.10f1
+      group: 19
+      rows: 2
+      users: 1
+      machines: 1
+      F: 1
+      H: 0
+      Description: 
+      combinedGroup: _19
+    - IP: 61.6.236.9
+      LicenseHash: f720cfce7c8b055cbff230b82a80b5e1cd56cb8f
+      MachineId: +GVT7UqnBSdGbTWOfnaZir9TxttBl6FriSi2WbtlcaY=
+      Version: u2019.2.10f1
+      Location: BN
+      Userid: 18966739232371
+      count: 6
+      SerialNumber: F4-3E6C-PWUB-XZEV-26G7-GWHJ
+      LicenseType: F
+      ShortVer: u2019.2.10f1
+      group: 19
+      rows: 2
+      users: 1
+      machines: 1
+      F: 1
+      H: 0
+      Description: 
+      combinedGroup: _19
+    users: 1
+    machines: 1
+    F: 1
+    H: 0
+  - name: 
+    description: 
+    rows:
+    - IP: 61.6.236.81
+      LicenseHash: dacd53a49c4c99f8a9485f8a439a820cb20c6fd4
+      MachineId: fKUp0tzTqAnw6C+uxqfRcELM666W8tQuD374hG5KdNs=
+      Version: u2018.4.18f1
+      Location: BN
+      Userid: 18966866358595
+      count: 2
+      SerialNumber: F4-5PNK-4KRD-P72A-DVBY-Q349
+      LicenseType: F
+      ShortVer: u2018.4.18f1
+      group: 20
+      rows: 1
+      users: 1
+      machines: 1
+      F: 1
+      H: 0
+      Description: 
+      combinedGroup: _20
+    users: 1
+    machines: 1
+    F: 1
+    H: 0
+  - name: 
+    description: 
+    rows:
+    - IP: 61.6.236.30
+      LicenseHash: 7b9d94fed0897a7a9019daa3fa7557a99927234f
+      MachineId: r9k6+OvhSfOB4g912l5JBZgEsi8fMazcjy8iYQk28oU=
+      Version: u2018.4.19f1
+      Location: BN
+      Userid: 18966781478306
+      count: 2
+      SerialNumber: F4-4Q32-AYAN-E2UV-95MW-NCP2
+      LicenseType: F
+      ShortVer: u2018.4.19f1
+      group: 21
+      rows: 1
+      users: 1
+      machines: 1
+      F: 1
+      H: 0
+      Description: 
+      combinedGroup: _21
+    users: 1
+    machines: 1
+    F: 1
+    H: 0
+  - name: 
+    description: 
+    rows:
+    - IP: 61.6.235.48
+      LicenseHash: d6e37bd5d9136655769c2abdd4b0b70767fa524a
+      MachineId: NEhsCqGghIVxglkvQ2/XGp1AH8JGASiw7FZXdGOdSP8=
+      Version: u2019.2.11f1
+      Location: BN
+      Userid: 5556198
+      count: 3
+      SerialNumber: F4-93KS-TQ74-HX9A-V5AF-GA42
+      LicenseType: F
+      ShortVer: u2019.2.11f1
+      group: 22
+      rows: 2
+      users: 1
+      machines: 1
+      F: 1
+      H: 0
+      Description: 
+      combinedGroup: _22
+    - IP: 61.6.235.148
+      LicenseHash: d6e37bd5d9136655769c2abdd4b0b70767fa524a
+      MachineId: NEhsCqGghIVxglkvQ2/XGp1AH8JGASiw7FZXdGOdSP8=
+      Version: u2019.2.11f1
+      Location: BN
+      Userid: 5556198
+      count: 3
+      SerialNumber: F4-93KS-TQ74-HX9A-V5AF-GA42
+      LicenseType: F
+      ShortVer: u2019.2.11f1
+      group: 22
+      rows: 2
+      users: 1
+      machines: 1
+      F: 1
+      H: 0
+      Description: 
+      combinedGroup: _22
+    users: 1
+    machines: 1
+    F: 1
+    H: 0
+  - name: 
+    description: 
+    rows:
+    - IP: 61.6.235.208
+      LicenseHash: 687f848fbd5af742abf48f3eda5d0a1c26c69c60
+      MachineId: 5AowHaU1T3K/hAjdL5M/5GLqLsNCycOaJxQagsCYbTw=
+      Version: u2019.3.4f1
+      Location: BN
+      Userid: 18966753529613
+      count: 3
+      SerialNumber: F4-PYQ3-5EMQ-4Z32-YDTQ-TRU9
+      LicenseType: F
+      ShortVer: u2019.3.4f1
+      group: 23
+      rows: 2
+      users: 1
+      machines: 1
+      F: 1
+      H: 0
+      Description: 
+      combinedGroup: _23
+    - IP: 61.6.232.252
+      LicenseHash: 687f848fbd5af742abf48f3eda5d0a1c26c69c60
+      MachineId: 5AowHaU1T3K/hAjdL5M/5GLqLsNCycOaJxQagsCYbTw=
+      Version: u2019.3.4f1
+      Location: BN
+      Userid: 18966753529613
+      count: 1
+      SerialNumber: F4-PYQ3-5EMQ-4Z32-YDTQ-TRU9
+      LicenseType: F
+      ShortVer: u2019.3.4f1
+      group: 23
+      rows: 2
+      users: 1
+      machines: 1
+      F: 1
+      H: 0
+      Description: 
+      combinedGroup: _23
+    users: 1
+    machines: 1
+    F: 1
+    H: 0
+  - name: 
+    description: 
+    rows:
+    - IP: 61.6.233.48
+      LicenseHash: c02fd32dc4eb7878d739d51bc3a7eaee03eee585
+      MachineId: SjcrrOe9D2/CMEVDmrtr1FZ+GccTLIAxkvbsucER7KE=
+      Version: u2019.2.17f1
+      Location: BN
+      Userid: 4452586
+      count: 1
+      SerialNumber: F4-8XXG-RPF8-X4JP-DF7C-KK2B
+      LicenseType: F
+      ShortVer: u2019.2.17f1
+      group: 25
+      rows: 2
+      users: 1
+      machines: 1
+      F: 1
+      H: 0
+      Description: 
+      combinedGroup: _25
+    - IP: 61.6.232.121
+      LicenseHash: c02fd32dc4eb7878d739d51bc3a7eaee03eee585
+      MachineId: SjcrrOe9D2/CMEVDmrtr1FZ+GccTLIAxkvbsucER7KE=
+      Version: u2019.3.3f1
+      Location: BN
+      Userid: 4452586
+      count: 2
+      SerialNumber: F4-8XXG-RPF8-X4JP-DF7C-KK2B
+      LicenseType: F
+      ShortVer: u2019.3.3f1
+      group: 25
+      rows: 2
+      users: 1
+      machines: 1
+      F: 1
+      H: 0
+      Description: 
+      combinedGroup: _25
+    users: 1
+    machines: 1
+    F: 1
+    H: 0
+  - name: 
+    description: 
+    rows:
+    - IP: 61.6.233.228
+      LicenseHash: d2866ea041c4a56c85b3ee11c9d935b4e30849a3
+      MachineId: s2dathqytWLGpZG4H1Lnk+/kX7TM8fLntAueoHQDpCQ=
+      Version: u2018.4.18f1
+      Location: BN
+      Userid: 18966864959067
+      count: 1
+      SerialNumber: F4-D9XS-KEUQ-4FSK-EXCV-JE4T
+      LicenseType: F
+      ShortVer: u2018.4.18f1
+      group: 26
+      rows: 2
+      users: 1
+      machines: 1
+      F: 1
+      H: 0
+      Description: 
+      combinedGroup: _26
+    - IP: 202.152.70.67
+      LicenseHash: d2866ea041c4a56c85b3ee11c9d935b4e30849a3
+      MachineId: s2dathqytWLGpZG4H1Lnk+/kX7TM8fLntAueoHQDpCQ=
+      Version: u2018.4.18f1
+      Location: BN
+      Userid: 18966864959067
+      count: 2
+      SerialNumber: F4-D9XS-KEUQ-4FSK-EXCV-JE4T
+      LicenseType: F
+      ShortVer: u2018.4.18f1
+      group: 26
+      rows: 2
+      users: 1
+      machines: 1
+      F: 1
+      H: 0
+      Description: 
+      combinedGroup: _26
+    users: 1
+    machines: 1
+    F: 1
+    H: 0
+  - name: 
+    description: 
+    rows:
+    - IP: 61.6.233.194
+      LicenseHash: a652ad22819717386440bd41f2023ebcdd6b94c7
+      MachineId: xz7tHbebUF3lILC3q9jAPNmxUjh55DUZD82wA+hnhAs=
+      Version: u2019.3.5f1
+      Location: BN
+      Userid: 1855186
+      count: 1
+      SerialNumber: F4-AQVN-SNDW-7CAK-33JT-Q29Q
+      LicenseType: F
+      ShortVer: u2019.3.5f1
+      group: 27
+      rows: 1
+      users: 1
+      machines: 1
+      F: 1
+      H: 0
+      Description: 
+      combinedGroup: _27
+    users: 1
+    machines: 1
+    F: 1
+    H: 0
+  - name: 
+    description: 
+    rows:
+    - IP: 61.6.233.173
+      LicenseHash: 2b7e494c9724aa14496c8c51ef8c06754b9fdaad
+      MachineId: 5AwF8E5RFYZSEs5MXtQWsREZQlx+yJlJsweU6lAsGKA=
+      Version: u2018.3.14f1
+      Location: BN
+      Userid: 18966790589990
+      count: 1
+      SerialNumber: F4-3YJK-57CC-ZFHF-R5RR-8VYW
+      LicenseType: F
+      ShortVer: u2018.3.14f1
+      group: 28
+      rows: 2
+      users: 1
+      machines: 1
+      F: 1
+      H: 0
+      Description: 
+      combinedGroup: _28
+    - IP: 61.6.232.160
+      LicenseHash: 2b7e494c9724aa14496c8c51ef8c06754b9fdaad
+      MachineId: 5AwF8E5RFYZSEs5MXtQWsREZQlx+yJlJsweU6lAsGKA=
+      Version: u2018.3.14f1
+      Location: BN
+      Userid: 18966790589990
+      count: 3
+      SerialNumber: F4-3YJK-57CC-ZFHF-R5RR-8VYW
+      LicenseType: F
+      ShortVer: u2018.3.14f1
+      group: 28
+      rows: 2
+      users: 1
+      machines: 1
+      F: 1
+      H: 0
+      Description: 
+      combinedGroup: _28
+    users: 1
+    machines: 1
+    F: 1
+    H: 0
+  - name: 
+    description: 
+    rows:
+    - IP: 61.6.230.183
+      LicenseHash: 75fa69763c8bfd28f21321d44b95d88fa8247f25
+      MachineId: YumCLB/GQBNynILrjQuAnmfPDGzLebIqv6I/zVa3hJc=
+      Version: u2018.4.18f1
+      Location: BN
+      Userid: 18966864873824
+      count: 3
+      SerialNumber: F4-BBX3-QMH7-JHD8-KUPA-C5CQ
+      LicenseType: F
+      ShortVer: u2018.4.18f1
+      group: 29
+      rows: 1
+      users: 1
+      machines: 1
+      F: 1
+      H: 0
+      Description: 
+      combinedGroup: _29
+    users: 1
+    machines: 1
+    F: 1
+    H: 0
+  - name: 
+    description: 
+    rows:
+    - IP: 202.160.17.153
+      LicenseHash: 8067c05ef604c0d0acfea90fc20cbe01eb4ecec8
+      MachineId: xLFo1ZAmSsh+SccAt0JCcqezW98BTBa6X7S4YIfj56Q=
+      Version: u2017.4.15f1
+      Location: BN
+      Userid: 18966703941249
+      count: 3
+      SerialNumber: F4-5DDJ-WF7E-97M7-YDKZ-ER9J
+      LicenseType: F
+      ShortVer: u2017.4.15f1
+      group: 30
+      rows: 1
+      users: 1
+      machines: 1
+      F: 1
+      H: 0
+      Description: 
+      combinedGroup: _30
+    users: 1
+    machines: 1
+    F: 1
+    H: 0
+  - name: 
+    description: 
+    rows:
+    - IP: 202.152.86.68
+      LicenseHash: 31ae78c13825c541741495db07c6d865dde951fb
+      MachineId: vbNRN9iuMVzjXDuLPbUCLFzC6SoJako2MwURSR4Sz3s=
+      Version: u2019.1.14f1
+      Location: BN
+      Userid: 4184375
+      count: 1
+      SerialNumber: F4-CBVT-GQV5-GTNN-BTGN-EV56
+      LicenseType: F
+      ShortVer: u2019.1.14f1
+      group: 31
+      rows: 4
+      users: 1
+      machines: 1
+      F: 1
+      H: 0
+      Description: 
+      combinedGroup: _31
+    - IP: 202.152.86.5
+      LicenseHash: 31ae78c13825c541741495db07c6d865dde951fb
+      MachineId: vbNRN9iuMVzjXDuLPbUCLFzC6SoJako2MwURSR4Sz3s=
+      Version: u2019.1.14f1
+      Location: BN
+      Userid: 4184375
+      count: 1
+      SerialNumber: F4-CBVT-GQV5-GTNN-BTGN-EV56
+      LicenseType: F
+      ShortVer: u2019.1.14f1
+      group: 31
+      rows: 4
+      users: 1
+      machines: 1
+      F: 1
+      H: 0
+      Description: 
+      combinedGroup: _31
+    - IP: 202.152.70.10
+      LicenseHash: 31ae78c13825c541741495db07c6d865dde951fb
+      MachineId: vbNRN9iuMVzjXDuLPbUCLFzC6SoJako2MwURSR4Sz3s=
+      Version: u2019.1.14f1
+      Location: BN
+      Userid: 4184375
+      count: 2
+      SerialNumber: F4-CBVT-GQV5-GTNN-BTGN-EV56
+      LicenseType: F
+      ShortVer: u2019.1.14f1
+      group: 31
+      rows: 4
+      users: 1
+      machines: 1
+      F: 1
+      H: 0
+      Description: 
+      combinedGroup: _31
+    - IP: 202.152.70.0
+      LicenseHash: 31ae78c13825c541741495db07c6d865dde951fb
+      MachineId: vbNRN9iuMVzjXDuLPbUCLFzC6SoJako2MwURSR4Sz3s=
+      Version: u2019.1.14f1
+      Location: BN
+      Userid: 4184375
+      count: 2
+      SerialNumber: F4-CBVT-GQV5-GTNN-BTGN-EV56
+      LicenseType: F
+      ShortVer: u2019.1.14f1
+      group: 31
+      rows: 4
+      users: 1
+      machines: 1
+      F: 1
+      H: 0
+      Description: 
+      combinedGroup: _31
+    users: 1
+    machines: 1
+    F: 1
+    H: 0
+  - name: 
+    description: 
+    rows:
+    - IP: 202.152.70.90
+      LicenseHash: 9ed270382e03a9b36a2548e739d13ca34e3e1540
+      MachineId: L+RvKMeVk7ia+Nl9nWVAJQSp4fIolmbpLs2TCD+C598=
+      Version: u2019.3.0f6
+      Location: BN
+      Userid: 18966603667192
+      count: 1
+      SerialNumber: F4-BX69-DWFC-ANTM-6Z7V-3JYZ
+      LicenseType: F
+      ShortVer: u2019.3.0f6
+      group: 32
+      rows: 1
+      users: 1
+      machines: 1
+      F: 1
+      H: 0
+      Description: 
+      combinedGroup: _32
+    users: 1
+    machines: 1
+    F: 1
+    H: 0
+  - name: 
+    description: 
+    rows:
+    - IP: 202.152.70.69
+      LicenseHash: 0b822e56546808d3eed7f3852e24376da9659e32
+      MachineId: UFKej3VNrr9rXiRcHH+oqvCJ6NSr+1exTEeBoolzg54=
+      Version: u2019.3.3f1
+      Location: BN
+      Userid: 18966865491926
+      count: 1
+      SerialNumber: F4-BQHD-Z3PK-DCYK-E2TT-K4RA
+      LicenseType: F
+      ShortVer: u2019.3.3f1
+      group: 33
+      rows: 1
+      users: 1
+      machines: 1
+      F: 1
+      H: 0
+      Description: 
+      combinedGroup: _33
+    users: 1
+    machines: 1
+    F: 1
+    H: 0
+  - name: 
+    description: 
+    rows:
+    - IP: 202.152.70.29
+      LicenseHash: 00d916684a8bd778238ebc8b9fd496c6c5e487ca
+      MachineId: VHUc2eF7KVdUyY6iA0ULnpBEjrFypLKqy0IobN8nPNs=
+      Version: u2019.3.3f1
+      Location: BN
+      Userid: 18966865497011
+      count: 2
+      SerialNumber: F4-DZPU-KMDQ-SHFA-97FW-CAA5
+      LicenseType: F
+      ShortVer: u2019.3.3f1
+      group: 34
+      rows: 1
+      users: 1
+      machines: 1
+      F: 1
+      H: 0
+      Description: 
+      combinedGroup: _34
+    users: 1
+    machines: 1
+    F: 1
+    H: 0
+  - name: 
+    description: 
+    rows:
+    - IP: 119.160.150.229
+      LicenseHash: e23da174c4905ebd71159e9098e2f53aa22d0f73
+      MachineId: Ft52xeUPQ6m6nbMhttIaC5ZCdnEbVpmTIBnngVIkmXo=
+      Version: u2019.3.4f1
+      Location: BN
+      Userid: 18966865483923
+      count: 1
+      SerialNumber: F4-36YD-6HY4-YHSW-YCM3-BBN6
+      LicenseType: F
+      ShortVer: u2019.3.4f1
+      group: 35
+      rows: 1
+      users: 1
+      machines: 1
+      F: 1
+      H: 0
+      Description: 
+      combinedGroup: _35
+    users: 1
+    machines: 1
+    F: 1
+    H: 0
+  - name: 
+    description: 
+    rows:
+    - IP: 119.160.145.6
+      LicenseHash: 5c4015b43cfc04c2a073ac54977502e68086d7f4
+      MachineId: J2LwD+VGG2PVQwzPom+sJMIYg+zsyfJtz3NHSYbp+hI=
+      Version: u2017.4.28f1
+      Location: BN
+      Userid: 18966863111872
+      count: 1
+      SerialNumber: F4-Z73V-42QR-EPNC-7V3Y-32PU
+      LicenseType: F
+      ShortVer: u2017.4.28f1
+      group: 36
+      rows: 1
+      users: 1
+      machines: 1
+      F: 1
+      H: 0
+      Description: 
+      combinedGroup: _36
+    users: 1
+    machines: 1
+    F: 1
+    H: 0
+  output_GroupToCSV: /Hoang/Projects/EULA_IP/Assets/Data/week20200309/_Output
+  output_GroupStatisticToCSV: /Hoang/Projects/EULA_IP/Assets/Data/week20200309/_Output
+  referenceData: {fileID: 0}

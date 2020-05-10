@@ -1,0 +1,79 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 84ec51ff01b4e49a4b797577a29f61d2, type: 3}
+  m_Name: Manipulate EULA Sheet
+  m_EditorClassIdentifier: 
+  dataWeeks:
+  - weekData: Assets/Data/week20200309/week20200309.xlsx
+    outputFolder: /Hoang/Projects/EULA_IP/Assets/Data/week20200309/_Output
+    shouldProcessThis: 1
+  - weekData: Assets/Data/week20200316/week20200316.xlsx
+    outputFolder: /Hoang/Projects/EULA_IP/Assets/Data/week20200316/_Output
+    shouldProcessThis: 1
+  - weekData: Assets/Data/week20200323/week20200323.xlsx
+    outputFolder: /Hoang/Projects/EULA_IP/Assets/Data/week20200323/_Output
+    shouldProcessThis: 1
+  - weekData: Assets/Data/week20200330/week20200330.xlsx
+    outputFolder: /Hoang/Projects/EULA_IP/Assets/Data/week20200330/_Output
+    shouldProcessThis: 1
+  - weekData: Assets/Data/week20200406/week20200406.xlsx
+    outputFolder: /Hoang/Projects/EULA_IP/Assets/Data/week20200406/_Output
+    shouldProcessThis: 1
+  - weekData: Assets/Data/week20200413/week20200413.xlsx
+    outputFolder: /Hoang/Projects/EULA_IP/Assets/Data/week20200413/_Output
+    shouldProcessThis: 1
+  - weekData: Assets/Data/week20200420/week20200420.xlsx
+    outputFolder: /Hoang/Projects/EULA_IP/Assets/Data/week20200420/_Output
+    shouldProcessThis: 1
+  - weekData: Assets/Data/week20200427/week20200427.xlsx
+    outputFolder: /Hoang/Projects/EULA_IP/Assets/Data/week20200427/_Output
+    shouldProcessThis: 1
+  countries:
+  - country: SG
+    referenceData: {fileID: 0}
+    shouldProcessThis: 0
+  - country: MY
+    referenceData: {fileID: 0}
+    shouldProcessThis: 0
+  - country: PH
+    referenceData: {fileID: 0}
+    shouldProcessThis: 0
+  - country: VN
+    referenceData: {fileID: 11400000, guid: 957936e5777fa44c0bb664a959aee5b9, type: 2}
+    shouldProcessThis: 0
+  - country: AU
+    referenceData: {fileID: 0}
+    shouldProcessThis: 0
+  - country: NZ
+    referenceData: {fileID: 0}
+    shouldProcessThis: 0
+  - country: IN
+    referenceData: {fileID: 0}
+    shouldProcessThis: 0
+  - country: ID
+    referenceData: {fileID: 0}
+    shouldProcessThis: 0
+  - country: TH
+    referenceData: {fileID: 0}
+    shouldProcessThis: 0
+  - country: KH
+    referenceData: {fileID: 0}
+    shouldProcessThis: 0
+  - country: MM
+    referenceData: {fileID: 0}
+    shouldProcessThis: 0
+  - country: LA
+    referenceData: {fileID: 0}
+    shouldProcessThis: 0
+  - country: BN
+    referenceData: {fileID: 0}
+    shouldProcessThis: 1
