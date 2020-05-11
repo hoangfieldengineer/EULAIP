@@ -184,8 +184,9 @@ public class Entity_sheet_Modified : ScriptableObject
 	
 	[InfoBox("Step 4")]
 	[Button] 
-	public void MatchingNamedGroupsBetweenSheets(Entity_sheet_Modified other, float matchingThreshold = 0.2f, bool applyLabeling = false)
+	public int MatchingNamedGroupsBetweenSheets(/*Entity_sheet_Modified other,*/ float matchingThreshold = 0.2f, bool applyLabeling = false)
 	{
+		Entity_sheet_Modified other = referenceData;
 		List<Group> namedGroups1 = groups.Where(x => !string.IsNullOrEmpty(x.name) || !string.IsNullOrEmpty(x.description)).ToList();
 		List<Group> namedGroups2 = other.groups.Where(x => !string.IsNullOrEmpty(x.name) || !string.IsNullOrEmpty(x.description)).ToList();
 		
@@ -193,14 +194,15 @@ public class Entity_sheet_Modified : ScriptableObject
 		CrossCheck(namedGroups2, other.name, groups, this.name, matchingThreshold, applyLabeling);
 		
 		MergeDuplicatedGroupsByName();
-		other.MergeDuplicatedGroupsByName();
+		return other.MergeDuplicatedGroupsByName();
 	}
 	
 	[HorizontalGroup("Group 7")]
 	[InfoBox("Step 5")]
 	[Button]
-	public void MergeDuplicatedGroupsByName()
+	public int MergeDuplicatedGroupsByName()
 	{
+		int retVal = 0;
 		Debug.Log($"====================Merging {name}=====================\n\n\n");
 		List<Group> namedGroups = groups.Where(x => !string.IsNullOrEmpty(x.name)).ToList();
 		for (int i = 0; i < namedGroups.Count - 1; i++)
@@ -225,7 +227,8 @@ public class Entity_sheet_Modified : ScriptableObject
 					Debug.Log($"Merge [{groupToCheck.name}]\n{b}\ninto\n{a}\n=> {groupToCheck}");
 					
 					groups.Remove(groupToBeMerge);
-					
+
+					++retVal;
 				}
 			}
 		}
@@ -234,6 +237,8 @@ public class Entity_sheet_Modified : ScriptableObject
 		AssignCombinedGroupColumn();
 		CalculateGroupStatistic();
 		GroupToSheet();
+
+		return retVal;
 	}
 	
 	[HorizontalGroup("Group 7")]
@@ -455,7 +460,7 @@ public class Entity_sheet_Modified : ScriptableObject
 		SheetToGroup();
 		if (referenceData != null)
 		{
-			MatchingNamedGroupsBetweenSheets(referenceData, 0.2f, true);
+			MatchingNamedGroupsBetweenSheets(0.2f, true);
 		}
 		MergeDuplicatedGroupsByName();
 		ExportGroupToCSV();
