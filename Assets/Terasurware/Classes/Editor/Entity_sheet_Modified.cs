@@ -463,7 +463,7 @@ public class Entity_sheet_Modified : ScriptableObject
 			MatchingNamedGroupsBetweenSheets(0.2f, true);
 		}
 		MergeDuplicatedGroupsByName();
-		ExportGroupToCSV();
-		ExportGroupStatisticToCSV();
+		// ExportGroupToCSV();
+		// ExportGroupStatisticToCSV();
 	}
 }

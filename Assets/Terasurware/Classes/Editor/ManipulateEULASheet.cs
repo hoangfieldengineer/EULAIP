@@ -20,6 +20,7 @@ public class CountryAndReference
 	public string country;
 	public Entity_sheet_Modified referenceData;
 	public bool shouldProcessThis = true;
+	public MatchingWeeks matchWeeks;
 }
 
 [Serializable]
@@ -518,8 +519,25 @@ public class ManipulateEULASheet : /*OdinEditorWindow*/ ScriptableObject
 
         Entity_sheet_Modified dataModified = CreateSheetModifed(dataExtra, filePath);
         dataModified.output_GroupToCSV = dataModified.output_GroupStatisticToCSV = outputFolder;
-        dataModified.referenceData = filterCountry.referenceData;
+        // dataModified.referenceData = filterCountry.referenceData;
         dataModified.AutomateAllStep();
+
+        if (filterCountry.matchWeeks != null)
+        {
+	        if (!filterCountry.matchWeeks.weeks.Contains(dataModified))
+	        {
+		        filterCountry.matchWeeks.weeks.Add(dataModified);
+	        }
+	        filterCountry.referenceData = filterCountry.referenceData;
+	        filterCountry.matchWeeks.CompareAndMatchWeeks();
+	        filterCountry.matchWeeks.ExportData();
+        }
+        else
+        {
+	        dataModified.ExportGroupToCSV();
+	        dataModified.ExportGroupStatisticToCSV();
+        }
+        
         // ExportSheetExtra(dataExtra, outputFolder);
         // ExportSheetModified(dataModified, outputFolder);
 
