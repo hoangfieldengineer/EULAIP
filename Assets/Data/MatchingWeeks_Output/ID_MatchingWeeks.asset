@@ -10,7 +10,16 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 71efe805d66f990498fbcfadd162dcc7, type: 3}
-  m_Name: New Matching Weeks
+  m_Name: ID_MatchingWeeks
   m_EditorClassIdentifier: 
-  referenceData: {fileID: 0}
-  weeks: []
+  iterationCount: 6
+  outputPath: C:/Unity_Work/_EULA/EULAIP/Assets/Data/MatchingWeeks_Output/ID
+  referenceData: {fileID: 11400000, guid: 023aee54a53f8434f8a15332bed207a3, type: 2}
+  weeks:
+  - {fileID: 11400000, guid: 5d504c4684fff483e946161a15213ac9, type: 2}
+  - {fileID: 11400000, guid: 6ebcc444659ac431aa96562a2226385d, type: 2}
+  - {fileID: 11400000, guid: be8ad198a21274e0691933ad6d5ec55a, type: 2}
+  - {fileID: 11400000, guid: 7aacf73862c57423692509228c7ad7eb, type: 2}
+  - {fileID: 11400000, guid: b27530b92f2ba4351a5310ba62c7f5da, type: 2}
+  - {fileID: 11400000, guid: babd44d70a5324efeb18bf20e965e1b8, type: 2}
+  - {fileID: 11400000, guid: bca66e823376c4cfebf425f9bdd62945, type: 2}

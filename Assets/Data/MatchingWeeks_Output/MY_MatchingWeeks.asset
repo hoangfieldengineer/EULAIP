@@ -12,7 +12,14 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 71efe805d66f990498fbcfadd162dcc7, type: 3}
   m_Name: MY_MatchingWeeks
   m_EditorClassIdentifier: 
-  iterationCount: 3
-  outputPath: 
-  referenceData: {fileID: 0}
-  weeks: []
+  iterationCount: 6
+  outputPath: C:/Unity_Work/_EULA/EULAIP/Assets/Data/MatchingWeeks_Output/MY
+  referenceData: {fileID: 11400000, guid: 02c771a0215eb46d4b07306aaa579e8e, type: 2}
+  weeks:
+  - {fileID: 11400000, guid: cc2a82f833b3345ff895e1bd29dc5972, type: 2}
+  - {fileID: 11400000, guid: 2088d8d29f83046f5aa0fa403a4bcd5d, type: 2}
+  - {fileID: 11400000, guid: 57c3269d1ae8d43d2a627bfb6a1efc29, type: 2}
+  - {fileID: 11400000, guid: fdfec035953b945138295dc257160993, type: 2}
+  - {fileID: 11400000, guid: 643729867393549d2998dcda9c5b8d89, type: 2}
+  - {fileID: 11400000, guid: 2612900c591b54670a1a4c9408b8dd1f, type: 2}
+  - {fileID: 11400000, guid: 2f5051611f1834f60a211fe9a7b30708, type: 2}
