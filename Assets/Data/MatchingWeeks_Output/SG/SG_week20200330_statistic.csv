@@ -24,16 +24,16 @@ NUS,"",_64,15,11,11,0,11
 ,"",_14,15,15,7,1,8
 Koei Tecmo,"",_28,14,14,2,0,2
 Tendays Studio / Ignite VR,"",_35,12,9,8,0,8
+Singapore Poly / Chesterfield,"http://chesterfield.sg/
+Singapore Polytechnic
+",_108,12,7,11,0,11
 Singapore Poly,"",_44,12,7,12,0,12
 IGG,"",_40,12,12,1,0,1
 89trillion.com,"",_27,12,12,11,0,11
 ,"",_30,12,11,10,2,12
-Singapore Poly / Chesterfield,"http://chesterfield.sg/
-Singapore Polytechnic
-",_108,11,6,11,0,11
+SUTD,"",_41,11,9,10,0,10
 ,"",_19,11,13,7,2,9
 ,"",_37,11,10,9,0,9
-,"",_41,11,9,10,0,10
 Aviation Virtual,"",_50,10,8,9,0,9
 SIT,"",_71,9,8,9,0,9
 ,"",_20,9,11,5,1,6
@@ -59,9 +59,9 @@ Yoozoo games,"https://global.yoozoo.com/news/7000056.html
 EON Reality,"",_110,5,4,0,0,0
 DSO HEDP,"",_103,5,3,5,0,5
 ,"",_49,5,4,4,0,4
-,"",_72,5,5,3,0,3
 ,"ST Engineering
 ",_70,5,3,4,0,4
+,"",_72,5,5,3,0,3
 Revez Digital,"http://revezdigital.com/
 Plus license
 ",_54,4,4,4,0,4
@@ -73,6 +73,7 @@ hazel77744@gmail.com
 ",_390,4,4,2,0,2
 Exousia Studios,"",_237,4,3,4,0,4
 Electricsquare,"",_99,4,4,0,0,0
+Chariots Gaming,"",_153,4,3,0,0,0
 Aviationlearn.com,"",_57,4,3,3,0,3
 ,"",_48,4,3,4,0,4
 ,"",_65,4,3,4,0,4
@@ -80,7 +81,6 @@ Aviationlearn.com,"",_57,4,3,3,0,3
 ,"",_94,4,3,3,0,3
 ,"",_98,4,4,4,0,4
 ,"",_119,4,3,3,0,3
-,"",_153,4,3,0,0,0
 VR Collab,"",_106,3,3,0,0,0
 Trinax,"",_34,3,2,0,0,0
 Silversea Media,"https://www.silversea-media.com/
@@ -865,7 +865,6 @@ Plus license
 ,"",_894,1,1,1,0,1
 ,"",_895,1,1,1,0,1
 ,"",_896,1,1,1,0,1
-,"",_897,1,1,0,0,0
 ,"",_898,1,1,1,0,1
 ,"",_899,1,1,1,0,1
 ,"",_900,1,1,1,0,1

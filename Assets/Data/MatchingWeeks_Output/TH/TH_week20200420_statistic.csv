@@ -1,12 +1,15 @@
 Name,Description,Combined Group,Unique Machines,Unique UserID, Count F,Count H,EULA Machines
-Ubon Ratchathani University,"",_1,20,16,17,0,17
-Sirindhorn International Institute of Technology,"",_131,18,17,17,0,17
+Ubon Ratchathani University,"",_1,21,17,18,0,18
+Sirindhorn International Institute of Technology,"",_131,19,18,17,0,17
 EXZY Co Ltd / Electronics Extreme (EXE),"",_1181,16,12,16,0,16
 SIIT Thailand,"",_417,15,15,15,0,15
 DEC Media,"",_4,15,10,13,0,13
-Workpoint Entertainment Co Ltd,"",_148,12,10,10,0,10
+Workpoint Entertainment Co Ltd,"",_148,14,12,12,0,12
 Silpakorn University,"",_136,11,10,11,0,11
 KMUTT / Field robotics - HCI Lab,"",_450,9,9,7,0,7
+Heavenhell Studio,"x10studio.com
+
+",_338,9,9,7,1,8
 yod@unity3d.com        :),"",_572,8,8,8,0,8
 True Axion Games,"",_85,8,8,8,0,8
 TechnoBrave Asia,"",_8,8,4,8,0,8
@@ -14,9 +17,6 @@ Chiang Mai University,"",_734,8,8,8,0,8
 Blue Ocean Technology Co., Ltd.,"",_114,8,7,6,0,6
 ,"",_3,8,8,5,0,5
 Rangsit University,"",_368,7,7,4,0,4
-Heavenhell Studio,"x10studio.com
-
-",_338,7,7,6,0,6
 Digitopolis Studio / Crossfire Studio,"",_6,6,6,3,0,3
 Debuz Thailand,"",_72,6,6,5,1,6
 ,"",_2,6,6,6,0,6
@@ -173,7 +173,6 @@ AB Wing,"https://www.abwing.com/
 ,"",_354,2,1,2,0,2
 ,"",_357,2,1,2,0,2
 ,"",_358,2,2,2,0,2
-,"",_369,2,1,2,0,2
 ,"",_373,2,1,2,0,2
 ,"",_375,2,1,2,0,2
 ,"",_376,2,2,1,0,1
@@ -1043,7 +1042,6 @@ A Good Plus Company,"http://agoodplus.com/
 ,"",_1020,1,1,1,0,1
 ,"",_1021,1,1,1,0,1
 ,"",_1022,1,1,1,0,1
-,"",_1023,1,1,1,0,1
 ,"",_1024,1,1,1,0,1
 ,"",_1025,1,1,1,0,1
 ,"",_1026,1,1,1,0,1
@@ -1393,7 +1391,6 @@ A Good Plus Company,"http://agoodplus.com/
 ,"",_1395,1,1,1,0,1
 ,"",_1396,1,1,1,0,1
 ,"",_1397,1,1,1,0,1
-,"",_1398,1,1,0,1,1
 ,"",_1399,1,1,1,0,1
 ,"",_1400,1,1,1,0,1
 ,"",_1401,1,1,1,0,1
@@ -1925,7 +1922,6 @@ A Good Plus Company,"http://agoodplus.com/
 ,"",_1962,1,1,1,0,1
 ,"",_1963,1,1,1,0,1
 ,"",_1964,1,1,1,0,1
-,"",_1965,1,1,1,0,1
 ,"",_1966,1,1,1,0,1
 ,"",_1967,1,1,1,0,1
 ,"",_1968,1,1,1,0,1
@@ -2949,7 +2945,6 @@ https://focalsolution.com/
 ,"",_3039,1,1,1,0,1
 ,"",_3040,1,1,1,0,1
 ,"",_3041,1,1,1,0,1
-,"",_3042,1,1,0,0,0
 ,"",_3043,1,1,1,0,1
 ,"",_3044,1,1,1,0,1
 ,"",_3045,1,1,1,0,1
@@ -2980,7 +2975,6 @@ https://focalsolution.com/
 ,"",_3070,1,1,1,0,1
 ,"",_3071,1,1,1,0,1
 ,"",_3072,1,1,1,0,1
-,"",_3073,1,1,1,0,1
 ,"",_3074,1,1,1,0,1
 ,"",_3075,1,1,1,0,1
 ,"",_3076,1,1,1,0,1

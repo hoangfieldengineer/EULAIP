@@ -40,9 +40,9 @@ White Label Studio,"https://whitelabelstudio.global/
 Tendays Studio / Ignite VR,"",_98,5,4,1,0,1
 Mighty Bear,"",_366,5,5,1,0,1
 ,"",_25,5,4,5,0,5
-,"",_36,5,5,4,1,5
 ,"ST Engineering
 ",_31,5,2,3,0,3
+,"",_36,5,5,4,1,5
 Swagsoft,"",_128,4,4,3,0,3
 SideFX Studios,"https://genesis.hq.unity3d.com/organizations/1374436136701/
 ",_50,4,4,0,0,0
@@ -60,6 +60,9 @@ Yoozoo games,"https://global.yoozoo.com/news/7000056.html
 ",_1214,3,3,3,0,3
 VR Collab,"",_217,3,3,0,0,0
 Vincent Goh,"",_218,3,3,3,0,3
+Singapore Poly / Chesterfield,"http://chesterfield.sg/
+Singapore Polytechnic
+",_220,3,3,2,0,2
 Singapore Poly,"",_908,3,3,3,0,3
 Presence Pictures VR,"https://app.presencepictures.com.sg/storePages/presenceImages/PresencePicturesAboutUs.pdf#toolbar=0&navpanes=0&scrollbar=0
 ",_225,3,2,2,0,2
@@ -91,9 +94,6 @@ The Carrot Studio,"",_95,2,2,1,0,1
 Terresqual,"",_203,2,1,2,0,2
 Taggle Health,"",_1312,2,1,1,0,1
 ST Engineering Land Systems,"",_778,2,1,1,0,1
-Singapore Poly / Chesterfield,"http://chesterfield.sg/
-Singapore Polytechnic
-",_220,2,2,2,0,2
 Royce Media,"",_449,2,2,2,0,2
 PlayTech Studio,"",_653,2,1,2,0,2
 Mersiva LLP / Iceberg Design,"",_120,2,2,2,0,2
@@ -226,6 +226,7 @@ hazel77744@gmail.com
 ",_633,1,1,0,0,0
 DSO HEDP,"",_1058,1,1,1,0,1
 Cybervision,"",_512,1,1,1,0,1
+Chariots Gaming,"",_1035,1,1,1,0,1
 Brandon Gui,"",_69,1,1,0,0,0
 AAT Training Hub,"",_168,1,1,0,0,0
 ,"",_42,1,1,1,0,1
@@ -1007,7 +1008,6 @@ AAT Training Hub,"",_168,1,1,0,0,0
 ,"",_1032,1,1,1,0,1
 ,"",_1033,1,1,1,0,1
 ,"",_1034,1,1,1,0,1
-,"",_1035,1,1,1,0,1
 ,"",_1036,1,1,1,0,1
 ,"",_1037,1,1,1,0,1
 ,"",_1038,1,1,1,0,1
@@ -1269,7 +1269,6 @@ AAT Training Hub,"",_168,1,1,0,0,0
 ,"",_1317,1,1,1,0,1
 ,"",_1318,1,1,1,0,1
 ,"",_1319,1,1,1,0,1
-,"",_1320,1,1,0,0,0
 ,"",_1321,1,1,1,0,1
 ,"",_1323,1,1,1,0,1
 ,"",_1324,1,1,1,0,1

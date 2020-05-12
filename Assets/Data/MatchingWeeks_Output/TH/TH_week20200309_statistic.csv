@@ -3,21 +3,24 @@ Name,Description,Combined Group,Unique Machines,Unique UserID, Count F,Count H,E
 ,"",_2,62,52,62,0,62
 Mahasarakham University Thailand,"",_10,37,25,37,0,37
 Mahasarakham University,"",_14,31,24,31,0,31
-Sirindhorn International Institute of Technology,"",_5,29,26,29,0,29
+Sirindhorn International Institute of Technology,"",_5,30,27,29,0,29
 SIIT Thailand,"",_3,29,26,29,0,29
+Ubon Ratchathani University,"",_8,28,23,26,0,26
 True Axion Games,"",_7,28,24,26,0,26
 Rangsit University,"",_17,28,26,23,0,23
-Ubon Ratchathani University,"",_8,25,20,23,0,23
 Silpakorn University,"",_15,24,21,24,0,24
 ,"",_4,23,22,22,1,23
 ,"",_18,23,12,22,0,22
 Chiang Mai University,"",_6,22,15,22,0,22
 Kanchanaburi Rajabhat University,"",_19,21,19,19,2,21
-Workpoint Entertainment Co Ltd,"",_9,17,11,15,0,15
+Workpoint Entertainment Co Ltd,"",_9,19,12,17,0,17
 EXZY Co Ltd / Electronics Extreme (EXE),"",_13,17,13,17,0,17
 DEC Media,"",_11,17,10,14,0,14
 Thaksin University,"",_12,16,14,16,0,16
 KMUTT / Field robotics - HCI Lab,"",_31,15,11,12,0,12
+Heavenhell Studio,"x10studio.com
+
+",_70,13,12,11,1,12
 Blue Ocean Technology Co., Ltd.,"",_57,13,8,11,1,12
 ,"",_25,13,9,13,0,13
 Sakon Nakhon Rajabhat University,"",_16,12,13,12,0,12
@@ -25,9 +28,6 @@ yod@unity3d.com        :),"",_63,11,10,11,0,11
 Cyberrex Design,"",_24,11,3,9,0,9
 ,"",_22,11,9,11,0,11
 ,"",_35,11,9,11,0,11
-Heavenhell Studio,"x10studio.com
-
-",_70,10,9,9,0,9
 ,"",_28,10,10,10,0,10
 ,"",_34,10,8,10,0,10
 Varisoft Game Studio,"",_27,9,7,9,0,9
@@ -138,7 +138,6 @@ Ascript.co ltd,"",_181,3,1,2,0,2
 ,"",_81,3,3,2,0,2
 ,"",_93,3,3,3,0,3
 ,"",_96,3,3,3,0,3
-,"",_98,3,3,2,1,3
 ,"",_105,3,3,3,0,3
 ,"",_115,3,1,3,0,3
 ,"",_118,3,3,3,0,3
@@ -355,7 +354,6 @@ https://focalsolution.com/
 ,"",_1069,2,1,2,0,2
 ,"",_1074,2,1,2,0,2
 ,"",_1082,2,1,1,0,1
-,"",_1094,2,1,2,0,2
 ,"",_1106,2,1,2,0,2
 ,"",_1112,2,1,2,0,2
 ,"",_1137,2,1,2,0,2
@@ -437,7 +435,6 @@ https://focalsolution.com/
 ,"",_241,1,2,1,0,1
 ,"",_242,1,1,1,0,1
 ,"",_244,1,1,1,0,1
-,"",_247,1,1,1,0,1
 ,"",_248,1,1,1,0,1
 ,"",_250,1,1,1,0,1
 ,"",_252,1,1,1,0,1
@@ -572,7 +569,6 @@ https://focalsolution.com/
 ,"",_445,1,1,1,0,1
 ,"",_446,1,1,1,0,1
 ,"",_448,1,1,1,0,1
-,"",_449,1,1,0,0,0
 ,"",_450,1,1,1,0,1
 ,"",_453,1,1,1,0,1
 ,"",_454,1,1,1,0,1
@@ -716,7 +712,6 @@ https://focalsolution.com/
 ,"",_642,1,1,1,0,1
 ,"",_643,1,1,1,0,1
 ,"",_644,1,1,1,0,1
-,"",_645,1,1,1,0,1
 ,"",_646,1,1,1,0,1
 ,"",_652,1,1,1,0,1
 ,"",_653,1,1,1,0,1
@@ -2571,7 +2566,6 @@ https://focalsolution.com/
 ,"",_2592,1,1,1,0,1
 ,"",_2593,1,1,1,0,1
 ,"",_2594,1,1,1,0,1
-,"",_2596,1,1,1,0,1
 ,"",_2597,1,1,1,0,1
 ,"",_2598,1,1,1,0,1
 ,"",_2599,1,1,1,0,1

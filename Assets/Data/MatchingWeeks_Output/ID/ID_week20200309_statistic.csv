@@ -1,8 +1,10 @@
 Name,Description,Combined Group,Unique Machines,Unique UserID, Count F,Count H,EULA Machines
-,"",_1,161,160,160,1,161
-Budi Luhur University,"",_3,86,78,85,0,85
-Universitas Islam Indonesia,"",_6,70,66,69,0,69
-Agate Studio,"",_13,54,46,41,5,46
+Game5mobile,"https://genesis.hq.unity3d.com/users/18966812194079/
+https://www.game5mobile.com/about
+",_1,171,166,168,1,169
+Budi Luhur University,"",_3,87,79,86,0,86
+Universitas Islam Indonesia,"",_6,71,67,69,1,70
+Agate Studio,"",_13,57,49,44,5,49
 Universitas Pendidikan Indonesia,"",_5,53,41,53,0,53
 Universitas Multimedia Nusantara,"",_8,53,45,50,3,53
 Cabulers,"",_2,51,43,48,0,48
@@ -41,6 +43,9 @@ Tanpanama Studio
 Ganbri-ya Production
 Festivo 360
 ",_29,13,12,9,0,9
+Joy Leap Studio,"https://joyleap.net/
+https://genesis.hq.unity3d.com/users/3201775/
+",_48,13,8,12,0,12
 ,"",_18,13,13,13,0,13
 ,"",_27,13,12,13,0,13
 ,"",_33,13,12,12,0,12
@@ -55,13 +60,7 @@ Assemblr World,"https://assemblrworld.com/
 ,"",_41,12,12,12,0,12
 Octagon Studio,"https://genesis.hq.unity3d.com/organizations/834022/
 ",_49,11,8,7,0,7
-Joy Leap Studio,"https://joyleap.net/
-https://genesis.hq.unity3d.com/users/3201775/
-",_48,11,7,10,0,10
 Untar - Universitas Tarumanagara,"",_53,10,7,9,1,10
-Game5mobile,"https://genesis.hq.unity3d.com/users/18966812194079/
-https://www.game5mobile.com/about
-",_76,10,6,8,0,8
 ,"",_43,10,10,10,0,10
 Toge Productions,"https://genesis.hq.unity3d.com/users/2523249/
 ",_111,9,7,5,0,5
@@ -432,7 +431,6 @@ Anoman Studio,"https://anomanstudio.com/
 ,"",_661,2,2,2,0,2
 ,"",_664,2,2,2,0,2
 ,"",_665,2,2,2,0,2
-,"",_667,2,2,2,0,2
 ,"",_668,2,2,2,0,2
 ,"",_675,2,2,2,0,2
 ,"",_680,2,2,2,0,2
@@ -496,7 +494,6 @@ Anoman Studio,"https://anomanstudio.com/
 ,"",_1458,2,1,2,0,2
 ,"",_1524,2,1,2,0,2
 ,"",_1576,2,1,2,0,2
-,"",_1601,2,1,2,0,2
 ,"",_1614,2,1,2,0,2
 ,"",_1638,2,1,2,0,2
 ,"",_1667,2,1,2,0,2
@@ -860,7 +857,6 @@ Mintsphere,"",_2350,1,1,0,0,0
 ,"",_801,1,1,1,0,1
 ,"",_802,1,1,1,0,1
 ,"",_803,1,1,1,0,1
-,"",_805,1,1,1,0,1
 ,"",_806,1,1,1,0,1
 ,"",_807,1,1,1,0,1
 ,"",_808,1,1,1,0,1
@@ -1159,7 +1155,6 @@ Mintsphere,"",_2350,1,1,0,0,0
 ,"",_1117,1,1,1,0,1
 ,"",_1118,1,1,1,0,1
 ,"",_1119,1,1,1,0,1
-,"",_1120,1,1,1,0,1
 ,"",_1122,1,1,1,0,1
 ,"",_1123,1,1,1,0,1
 ,"",_1124,1,1,1,0,1
@@ -1196,7 +1191,6 @@ Mintsphere,"",_2350,1,1,0,0,0
 ,"",_1159,1,1,1,0,1
 ,"",_1160,1,1,1,0,1
 ,"",_1161,1,1,1,0,1
-,"",_1162,1,1,0,1,1
 ,"",_1163,1,1,1,0,1
 ,"",_1164,1,1,1,0,1
 ,"",_1165,1,1,1,0,1

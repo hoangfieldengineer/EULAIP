@@ -8,3 +8,6 @@
 *.sln
 EULA_IP.sln.DotSettings.user
 Unity-Excel-Importer-Maker.sln.DotSettings.user
+Assets/Data/_Results
+Assets/Data/_Results.meta
+Logs
