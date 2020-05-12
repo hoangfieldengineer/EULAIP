@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: PH_MatchingWeeks
   m_EditorClassIdentifier: 
   iterationCount: 8
-  outputPath: C:/Unity_Work/_EULA/EULAIP/Assets/Data/MatchingWeeks_Output/PH
+  outputPath: /Hoang/Projects/EULA_IP/Assets/Data/MatchingWeeks_Output/PH
   referenceData: {fileID: 11400000, guid: c83f5c004e0ea448d9dc14b252119556, type: 2}
   weeks:
   - {fileID: 11400000, guid: a5e81116f2655411b8fd8d9d61c4ea2f, type: 2}

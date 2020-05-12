@@ -10,9 +10,16 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 71efe805d66f990498fbcfadd162dcc7, type: 3}
-  m_Name: NZ_MatchingWeeks
+  m_Name: IN_MatchingWeeks
   m_EditorClassIdentifier: 
-  iterationCount: 3
-  outputPath: 
-  referenceData: {fileID: 0}
-  weeks: []
+  iterationCount: 8
+  outputPath: /Hoang/Projects/EULA_IP/Assets/Data/MatchingWeeks_Output/IN
+  referenceData: {fileID: 11400000, guid: 09d8a026d8215409db5e4a0cdddfabf1, type: 2}
+  weeks:
+  - {fileID: 11400000, guid: 1c05e71ef282648a1966f9bae6f59ee2, type: 2}
+  - {fileID: 11400000, guid: ece7bd96801614e24ab0d1a030199524, type: 2}
+  - {fileID: 11400000, guid: 7f5a05926a51849acad9df92f140b895, type: 2}
+  - {fileID: 11400000, guid: f6984feef5ec14596a045ac71dc6b5e4, type: 2}
+  - {fileID: 11400000, guid: 95a80acb280ca47f8865bd69ad4a574d, type: 2}
+  - {fileID: 11400000, guid: a9ccf301be63c41a2b928fd455d1da29, type: 2}
+  - {fileID: 11400000, guid: 87177da201bee4034931a1437d8976c0, type: 2}

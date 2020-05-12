@@ -12,7 +12,14 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 71efe805d66f990498fbcfadd162dcc7, type: 3}
   m_Name: TH_MatchingWeeks
   m_EditorClassIdentifier: 
-  iterationCount: 3
-  outputPath: 
-  referenceData: {fileID: 0}
-  weeks: []
+  iterationCount: 8
+  outputPath: /Hoang/Projects/EULA_IP/Assets/Data/MatchingWeeks_Output/TH
+  referenceData: {fileID: 11400000, guid: 6ff8ed93f0a4e4c7c8729211bff7ee4e, type: 2}
+  weeks:
+  - {fileID: 11400000, guid: 76a9329a4b0c34d7e8f74eb492d7fcae, type: 2}
+  - {fileID: 11400000, guid: f022ebd06a1004c789737f52debec838, type: 2}
+  - {fileID: 11400000, guid: 0305822cb00cd4d7cb9504ca372a1921, type: 2}
+  - {fileID: 11400000, guid: f87815f4473a94409be04f3c4c866154, type: 2}
+  - {fileID: 11400000, guid: b7d8bac3923e0457f8265e6797c25ecb, type: 2}
+  - {fileID: 11400000, guid: b29174b3094cf4a64867883ecba7f235, type: 2}
+  - {fileID: 11400000, guid: dc975cbe8bab347608a48ca473e0f553, type: 2}

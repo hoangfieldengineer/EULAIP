@@ -12,8 +12,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 71efe805d66f990498fbcfadd162dcc7, type: 3}
   m_Name: ID_MatchingWeeks
   m_EditorClassIdentifier: 
-  iterationCount: 6
-  outputPath: C:/Unity_Work/_EULA/EULAIP/Assets/Data/MatchingWeeks_Output/ID
+  iterationCount: 8
+  outputPath: /Hoang/Projects/EULA_IP/Assets/Data/MatchingWeeks_Output/ID
   referenceData: {fileID: 11400000, guid: 023aee54a53f8434f8a15332bed207a3, type: 2}
   weeks:
   - {fileID: 11400000, guid: 5d504c4684fff483e946161a15213ac9, type: 2}
