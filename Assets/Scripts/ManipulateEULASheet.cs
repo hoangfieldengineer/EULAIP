@@ -528,7 +528,7 @@ public class ManipulateEULASheet : /*OdinEditorWindow*/ ScriptableObject
 	        {
 		        filterCountry.matchWeeks.weeks.Add(dataModified);
 	        }
-	        filterCountry.referenceData = filterCountry.referenceData;
+	        filterCountry.matchWeeks.referenceData = filterCountry.referenceData;
 	        filterCountry.matchWeeks.CompareAndMatchWeeks();
 	        filterCountry.matchWeeks.ExportData();
         }

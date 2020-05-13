@@ -13,42 +13,7 @@ using System.Text;
 using NPOI.HSSF.UserModel;
 using NPOI.XSSF.UserModel;
 using NPOI.SS.UserModel;
-using NUnit.Framework;
 
-
-[System.SerializableAttribute]
-public class ParamModified : Param_Extra
-{
-
-	[PropertyOrder(-3)]
-	public string Description;
-	[PropertyOrder(-2)]
-	public string combinedGroup;
-
-	public ParamModified(){
-	}
-
-	public ParamModified(Param_Extra extra) : base(extra)
-	{
-		
-	}
-	
-	public ParamModified(ParamModified param) : base(param)
-	{
-		this.Description = param.Description;
-		this.combinedGroup = param.combinedGroup;
-	}
-		
-	public override string ToString()
-	{
-		return $"{Description},{combinedGroup},{base.ToString()}";
-	}
-	
-	public override object Clone()
-	{
-		return new ParamModified(this);
-	}
-}
 
 [CreateAssetMenu(menuName = "ScriptableObjects/Entity Sheet Modified")]
 public class Entity_sheet_Modified : ScriptableObject
@@ -306,6 +271,98 @@ public class Entity_sheet_Modified : ScriptableObject
 			}
 		}
 	}
+
+	public void SortGroups()
+	{
+		groups = groups.OrderByDescending(x => x.machines).ThenByDescending(x => x.name).ToList();
+		GroupToSheet();
+	}
+	
+	public void FillStatisticIntoExcelSheet(HSSFSheet sheet)
+	{
+		AssignCombinedGroupColumn();
+		CalculateGroupStatistic();
+
+		List<Group> list = groups;
+		HSSFRow row = (HSSFRow) sheet.CreateRow(0);
+		int i = 0;
+		HSSFCell cell = (HSSFCell) row.CreateCell((short) i);
+		cell.SetCellValue("Name");
+		cell = (HSSFCell) row.CreateCell((short) ++i);
+		cell.SetCellValue("Description");
+		cell = (HSSFCell) row.CreateCell((short) ++i);
+		cell.SetCellValue("Combined Group");
+		cell = (HSSFCell) row.CreateCell((short) ++i);
+		cell.SetCellValue("Unique Machines");
+		cell = (HSSFCell) row.CreateCell((short) ++i);
+		cell.SetCellValue("Unique UserID");
+		cell = (HSSFCell) row.CreateCell((short) ++i);
+		cell.SetCellValue("Count F");
+		cell = (HSSFCell) row.CreateCell((short) ++i);
+		cell.SetCellValue("Count H");
+		cell = (HSSFCell) row.CreateCell((short) ++i);
+		cell.SetCellValue("EULA Machines");
+		
+		for (int j= 0; j < list.Count; j++)
+		{
+			Group param = list[j];
+			HSSFRow r = (HSSFRow) sheet.CreateRow(j + 1);
+			param.FillDataIntoRow(r);
+		}
+	}
+	
+	public void FillDataIntoExcelSheet(HSSFSheet sheet)
+	{
+		AssignCombinedGroupColumn();
+		CalculateGroupStatistic();
+		
+		List<ParamModified> list = sheets[0].list;
+		HSSFRow row = (HSSFRow) sheet.CreateRow(0);
+		int i = 0;
+		HSSFCell cell = (HSSFCell) row.CreateCell((short) i);
+		cell.SetCellValue("Description");
+		cell = (HSSFCell) row.CreateCell((short) ++i);
+		cell.SetCellValue("Combined Group");
+		cell = (HSSFCell) row.CreateCell((short) ++i);
+		cell.SetCellValue("Group");
+		cell = (HSSFCell) row.CreateCell((short) ++i);
+		cell.SetCellValue("Data Rows Count");
+		cell = (HSSFCell) row.CreateCell((short) ++i);
+		cell.SetCellValue("Count Unique UserID");
+		cell = (HSSFCell) row.CreateCell((short) ++i);
+		cell.SetCellValue("Count Unique MachineID");
+		cell = (HSSFCell) row.CreateCell((short) ++i);
+		cell.SetCellValue("Count License F");
+		cell = (HSSFCell) row.CreateCell((short) ++i);
+		cell.SetCellValue("Count License H");
+		cell = (HSSFCell) row.CreateCell((short) ++i);
+		cell.SetCellValue("IP");
+		cell = (HSSFCell) row.CreateCell((short) ++i);
+		cell.SetCellValue("LicenseHash");
+		cell = (HSSFCell) row.CreateCell((short) ++i);
+		cell.SetCellValue("MachineId");
+		cell = (HSSFCell) row.CreateCell((short) ++i);
+		cell.SetCellValue("Version");
+		cell = (HSSFCell) row.CreateCell((short) ++i);
+		cell.SetCellValue("Location");
+		cell = (HSSFCell) row.CreateCell((short) ++i);
+		cell.SetCellValue("Userid");
+		cell = (HSSFCell) row.CreateCell((short) ++i);
+		cell.SetCellValue("count");
+		cell = (HSSFCell) row.CreateCell((short) ++i);
+		cell.SetCellValue("SerialNumber");
+		cell = (HSSFCell) row.CreateCell((short) ++i);
+		cell.SetCellValue("LicenseType");
+		cell = (HSSFCell) row.CreateCell((short) ++i);
+		cell.SetCellValue("ShortVer");
+		
+		for (int j= 0; j < list.Count; j++)
+		{
+			ParamModified param = list[j];
+			HSSFRow r = (HSSFRow) sheet.CreateRow( j + 1);
+			param.FillDataIntoRow(r);
+		}
+	}
 	
 	[HorizontalGroup("Group 9")]
 	[PropertyOrder(9)] 
@@ -327,13 +384,14 @@ public class Entity_sheet_Modified : ScriptableObject
 		
 		AssignCombinedGroupColumn();
 		CalculateGroupStatistic();
+		SortGroups();
 		
 		StringBuilder sb = new StringBuilder();
 		sb.AppendLine("Description,Combined Group,Group,Data Rows Count,Count Unique UserID,Count Unique MachineID,Count License F," +
 		              "Count License H,IP,LicenseHash,MachineId,Version,Location,Userid,count,SerialNumber,LicenseType," +
 		              "ShortVer");
 
-		List<Group> orderedGroup = groups.OrderByDescending(x => x.machines).ThenByDescending(x => x.name).ToList();
+		List<Group> orderedGroup = groups;
 
 		foreach (Group group in orderedGroup)
 		{
@@ -394,11 +452,12 @@ public class Entity_sheet_Modified : ScriptableObject
 		
 		AssignCombinedGroupColumn();
 		CalculateGroupStatistic();
+		SortGroups();
 		
 		StringBuilder sb = new StringBuilder();
 		sb.AppendLine("Name,Description,Combined Group,Unique Machines,Unique UserID, Count F,Count H,EULA Machines");
 
-		List<Group> orderedGroup = groups.OrderByDescending(x => x.machines).ThenByDescending(x => x.name).ToList();
+		List<Group> orderedGroup = groups;
 		foreach (Group group in orderedGroup)
 		{
 			sb.AppendLine($"{group.name},\"{group.description}\",{group.rows[0].combinedGroup},{group.machines},{group.users},{group.F},{group.H},{group.F + group.H}");
@@ -412,6 +471,8 @@ public class Entity_sheet_Modified : ScriptableObject
 		}
 		Debug.Log($"Final output: {finalFileName}");
 	}
+
+	
 
 	void CrossCheck(List<Group> namedGroups1, string sheet1, List<Group> allGroupFromOtherSheet, string sheet2, float matchingThreshold = 0.2f, bool applyLabeling = false)
 	{

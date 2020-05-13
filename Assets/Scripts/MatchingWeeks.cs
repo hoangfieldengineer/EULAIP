@@ -1,5 +1,7 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
+using System.IO;
+using NPOI.HSSF.UserModel;
 using UnityEngine;
 using Sirenix.OdinInspector;
 using Sirenix.OdinInspector.Editor;
@@ -41,22 +43,59 @@ public class MatchingWeeks : ScriptableObject
 
     [Button]
     public void ExportData() {
-        string temp, temp1;
-
         List<Entity_sheet_Modified> list = new List<Entity_sheet_Modified>();
         list.Add(referenceData);
         list.AddRange(weeks);
 
+        string finalPath = outputPath.EndsWith($"{Path.DirectorySeparatorChar}") ? outputPath : $"{outputPath}{Path.DirectorySeparatorChar}";
+        string fileNameStatistic = $"{finalPath}{this.name}_statistic.xls";
+        string fileNameData = $"{finalPath}{this.name}_data.xls";
+
+        if (File.Exists(fileNameData))
+        {
+            File.Delete(fileNameData);
+        }
+        
+        if (File.Exists(fileNameStatistic))
+        {
+            File.Delete(fileNameStatistic);
+        }
+        
+        FileStream fileData = new FileStream(fileNameData, FileMode.OpenOrCreate, FileAccess.ReadWrite, FileShare.ReadWrite);
+        FileStream fileDStat = new FileStream(fileNameStatistic, FileMode.OpenOrCreate, FileAccess.ReadWrite, FileShare.ReadWrite);
+        
+        HSSFWorkbook bookStat = new HSSFWorkbook();
+        HSSFWorkbook bookData = new HSSFWorkbook();
+        
+        
         for (int i = 0; i < list.Count; i++)
         {
-            temp = list[i].output_GroupStatisticToCSV;
+            HSSFSheet sheetStat = (HSSFSheet)bookStat.CreateSheet(list[i].name);
+            HSSFSheet sheetData = (HSSFSheet)bookData.CreateSheet(list[i].name);
+            
+            list[i].SortGroups();
+            list[i].FillDataIntoExcelSheet(sheetData);
+            list[i].FillStatisticIntoExcelSheet(sheetStat);
+            
+            /*temp = list[i].output_GroupStatisticToCSV;
             temp1 = list[i].output_GroupToCSV;
             list[i].output_GroupStatisticToCSV = outputPath;
             list[i].output_GroupToCSV = outputPath;
             list[i].ExportGroupStatisticToCSV();
             list[i].ExportGroupToCSV();
             list[i].output_GroupStatisticToCSV = temp;
-            list[i].output_GroupToCSV = temp1;
+            list[i].output_GroupToCSV = temp1;*/
         }
+        
+        bookData.Write(fileData);
+        bookData.Close();
+        fileData.Close();
+        Debug.Log($"{fileNameData}");
+        
+        bookStat.Write(fileDStat);
+        bookStat.Close();
+        fileDStat.Close();
+        Debug.Log($"{fileNameStatistic}");
+        
     }
 }

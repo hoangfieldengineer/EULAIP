@@ -3,6 +3,7 @@ using Sirenix.OdinInspector;
 using UnityEngine;
 using System.Linq;
 using System.Text;
+using NPOI.HSSF.UserModel;
 using UnityEngine.Serialization;
 
 
@@ -40,10 +41,8 @@ public class Group
 
     public float Compare(Group other, string sheet1, string sheet2, StringBuilder log, float loggingThreshold = 0.3f)
     {
-        float retVal = 0f;
-
-        List<string> machines1 = rows.Select(x => x.MachineId).Distinct().ToList();
-        List<string> machines2 = other.rows.Select(x => x.MachineId).Distinct().ToList();
+        List<string> machines1 = rows.Select(x => x.MachineId).Where(x => !"#ERROR!".Equals(x)).Distinct().ToList();
+        List<string> machines2 = other.rows.Select(x => x.MachineId).Where(x => !"#ERROR!".Equals(x)).Distinct().ToList();
 
         List<string> intersect = machines1.Intersect(machines2).ToList();
 
@@ -105,5 +104,26 @@ public class Group
             }
         }
 
+    }
+
+    public void FillDataIntoRow(HSSFRow row)
+    {
+        int i = 0;
+        HSSFCell cell = (HSSFCell) row.CreateCell((short) i);
+        cell.SetCellValue(name);
+        cell = (HSSFCell) row.CreateCell((short) ++i);
+        cell.SetCellValue(description);
+        cell = (HSSFCell) row.CreateCell((short) ++i);
+        cell.SetCellValue(rows[0].combinedGroup);
+        cell = (HSSFCell) row.CreateCell((short) ++i);
+        cell.SetCellValue(machines);
+        cell = (HSSFCell) row.CreateCell((short) ++i);
+        cell.SetCellValue(users);
+        cell = (HSSFCell) row.CreateCell((short) ++i);
+        cell.SetCellValue(F);
+        cell = (HSSFCell) row.CreateCell((short) ++i);
+        cell.SetCellValue(H);
+        cell = (HSSFCell) row.CreateCell((short) ++i);
+        cell.SetCellValue(F + H);
     }
 }

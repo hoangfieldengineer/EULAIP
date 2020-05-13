@@ -4,11 +4,10 @@ using System.IO;
 using UnityEditor;
 using System.Xml.Serialization;
 using NPOI.HSSF.UserModel;
-using NPOI.XSSF.UserModel;
 using NPOI.SS.UserModel;
 
 public class week20200413_importer : AssetPostprocessor {
-	private static readonly string filePath = "Assets/Data/week20200316_.xlsx";
+	/*private static readonly string filePath = "Assets/Data/week20200316_.xlsx";
 	private static readonly string exportPath = "Assets/Data/week20200316_.asset";
 	private static readonly string[] sheetNames = { "sheet1", };
 	
@@ -70,5 +69,5 @@ public class week20200413_importer : AssetPostprocessor {
 			ScriptableObject obj = AssetDatabase.LoadAssetAtPath (exportPath, typeof(ScriptableObject)) as ScriptableObject;
 			EditorUtility.SetDirty (obj);
 		}
-	}
+	}*/
 }
