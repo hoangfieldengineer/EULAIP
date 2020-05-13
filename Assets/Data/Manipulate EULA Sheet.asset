@@ -15,7 +15,7 @@ MonoBehaviour:
   dataWeeks:
   - weekData: Assets/Data/week20200309/week20200309.xlsx
     outputFolder: /Hoang/Projects/EULA_IP/Assets/Data/week20200309/_Output
-    shouldProcessThis: 0
+    shouldProcessThis: 1
   - weekData: Assets/Data/week20200316/week20200316.xlsx
     outputFolder: /Hoang/Projects/EULA_IP/Assets/Data/week20200316/_Output
     shouldProcessThis: 0
@@ -39,57 +39,57 @@ MonoBehaviour:
     shouldProcessThis: 0
   - weekData: Assets/Data/week20200504/week20200504.xlsx
     outputFolder: /Hoang/Projects/EULA_IP/Assets/Data/week20200504/_Output
-    shouldProcessThis: 1
+    shouldProcessThis: 0
   countries:
   - country: SG
     referenceData: {fileID: 11400000, guid: f42b733d3d7644775afdbe94a6ab2381, type: 2}
     shouldProcessThis: 1
-    matchWeeks: {fileID: 11400000, guid: e2c56e0128eabbb4ca8677aab1d41f40, type: 2}
+    matchWeeks: {fileID: 0}
   - country: MY
     referenceData: {fileID: 11400000, guid: 02c771a0215eb46d4b07306aaa579e8e, type: 2}
-    shouldProcessThis: 1
+    shouldProcessThis: 0
     matchWeeks: {fileID: 11400000, guid: 26c013ff4672827409a32554c5c7aab7, type: 2}
   - country: PH
     referenceData: {fileID: 11400000, guid: c83f5c004e0ea448d9dc14b252119556, type: 2}
-    shouldProcessThis: 1
+    shouldProcessThis: 0
     matchWeeks: {fileID: 11400000, guid: 9b64e90033ee7594bb0e0a4593f5a245, type: 2}
   - country: VN
     referenceData: {fileID: 11400000, guid: 957936e5777fa44c0bb664a959aee5b9, type: 2}
-    shouldProcessThis: 1
+    shouldProcessThis: 0
     matchWeeks: {fileID: 11400000, guid: a5651e49bfd914a099dabf62b1652ea6, type: 2}
   - country: AU
     referenceData: {fileID: 11400000, guid: 75a44fea777e94b1982abc3d8897728b, type: 2}
-    shouldProcessThis: 1
+    shouldProcessThis: 0
     matchWeeks: {fileID: 11400000, guid: 9a4000c6bf3b54596a120d8806547511, type: 2}
   - country: NZ
     referenceData: {fileID: 11400000, guid: 35d04b5e210ac4164a8a6bb4d8c72df7, type: 2}
-    shouldProcessThis: 1
+    shouldProcessThis: 0
     matchWeeks: {fileID: 11400000, guid: a69d8557ed3bc45519e7cc755a3f638f, type: 2}
   - country: IN
     referenceData: {fileID: 11400000, guid: 09d8a026d8215409db5e4a0cdddfabf1, type: 2}
-    shouldProcessThis: 1
+    shouldProcessThis: 0
     matchWeeks: {fileID: 11400000, guid: 79a63656f0fe8485fbdf44c6305b7ead, type: 2}
   - country: ID
     referenceData: {fileID: 11400000, guid: 023aee54a53f8434f8a15332bed207a3, type: 2}
-    shouldProcessThis: 1
+    shouldProcessThis: 0
     matchWeeks: {fileID: 11400000, guid: 0ef564f587626a648bd6d95214798639, type: 2}
   - country: TH
     referenceData: {fileID: 11400000, guid: 6ff8ed93f0a4e4c7c8729211bff7ee4e, type: 2}
-    shouldProcessThis: 1
+    shouldProcessThis: 0
     matchWeeks: {fileID: 11400000, guid: 083bd8b74da774e08bc93677ad09e6f3, type: 2}
   - country: KH
     referenceData: {fileID: 0}
-    shouldProcessThis: 1
+    shouldProcessThis: 0
     matchWeeks: {fileID: 0}
   - country: MM
     referenceData: {fileID: 0}
-    shouldProcessThis: 1
+    shouldProcessThis: 0
     matchWeeks: {fileID: 0}
   - country: LA
     referenceData: {fileID: 0}
-    shouldProcessThis: 1
+    shouldProcessThis: 0
     matchWeeks: {fileID: 0}
   - country: BN
     referenceData: {fileID: 0}
-    shouldProcessThis: 1
+    shouldProcessThis: 0
     matchWeeks: {fileID: 0}

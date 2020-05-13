@@ -1,72 +1,113 @@
 Name,Description,Combined Group,Unique Machines,Unique UserID, Count F,Count H,EULA Machines
-,"",_1,126,117,87,22,109
-,"",_2,47,17,47,0,47
-,"",_3,37,25,37,0,37
-,"",_5,16,16,16,0,16
-,"",_8,16,9,12,4,16
-,"",_10,16,12,16,0,16
-,"",_6,14,13,12,0,12
-,"",_9,14,12,4,0,4
-,"",_16,11,7,11,0,11
-,"",_7,10,6,7,0,7
-,"",_11,9,9,9,0,9
-,"",_12,9,8,9,0,9
-,"",_14,9,5,9,0,9
-,"",_15,9,7,9,0,9
-,"",_25,9,6,9,0,9
-,"",_21,7,6,7,0,7
-,"",_46,7,5,5,0,5
-,"",_13,6,6,6,0,6
-,"",_17,6,6,5,1,6
-,"",_18,6,5,6,0,6
-,"",_20,6,2,4,2,6
-,"",_22,6,6,6,0,6
-,"",_30,6,6,5,0,5
-,"",_32,6,6,6,0,6
-,"",_44,6,2,6,0,6
-,"",_75,6,4,6,0,6
-,"",_19,5,2,1,4,5
+CN user group 1,"http://www.c4games.com/index.html
+https://babeltime.com/
+",_1,126,117,87,22,109
+PH user group 1,"",_2,47,17,47,0,47
+PH user group 2,"",_3,38,26,38,0,38
+Anino.co,"",_9,21,19,8,3,11
+US user group 1,"",_5,16,16,16,0,16
+PH user group (probably university),"",_10,16,12,16,0,16
+CN user group 2,"",_8,16,9,12,4,16
+iAcademy,"",_11,15,15,15,0,15
+kooapps.com,"",_6,14,13,12,0,12
+US / PH user group 1,"",_16,11,7,11,0,11
+Vobling,"",_7,10,6,7,0,7
+Seaversity,"https://seaversity.com.ph/
+",_12,9,8,9,0,9
+Polywick Studio,"https://www.polywickstudio.com/company
+ Outsourcing firm
+ Member of GDAP
+",_14,9,5,9,0,9
+PH user group 4 (probably students),"",_25,9,6,9,0,9
+PH user group 3,"",_15,9,8,9,0,9
+Imagine Realities Inc,"http://imagine-ar.com/
+",_18,8,7,8,0,8
+Benilde College,"",_32,8,7,8,0,8
+PH user group 5,"",_21,7,6,7,0,7
+Gamechump,"https://gamechump.itch.io/castlechaos
+",_13,7,7,7,0,7
+Bitplanet Games,"https://bitplanetgames.com/
+",_46,7,5,5,0,5
+Tic Toc Games,"GM Johny Chuaquico
+ US Game Studio on Pro licenses
+",_63,6,6,2,0,2
+Ranida Games,"https://www.ranidagames.com/
+ https://www.gdap.org.ph/gdap-member/ranida-games/
+Linked to Gonzo Games
+",_27,6,3,6,0,6
+Popsicle Games,"http://popsiclegames.com/games/
+",_44,6,3,6,0,6
+Figurama3D,"https://www.figurama3d.com/
+",_30,6,6,5,0,5
+Fandom,"https://www.gdap.org.ph/gdap-member/fandom-inc/
+",_75,6,4,6,0,6
+CN user group 3,"",_17,6,6,5,1,6
+Bille Lagarde,"CIIT College of Arts and Technology
+ https://www.techfactors.com/
+",_20,6,2,4,2,6
+Western Visayas High School,"",_47,5,5,5,0,5
+Monstronauts,"https://monstronauts.com/
+",_72,5,1,4,0,4
+Kongan Studios,"http://konganstudios.com/
+",_58,5,4,5,0,5
+CN user group 4,"",_59,5,2,5,0,5
+Bubble Gum Interactive,"Australia - Philippines
+",_19,5,2,1,4,5
+Accenture Philippines,"Cheska M. Princena
+ Meris Soneja
+ patricia.c.cabacang@gmail.com
+gian.k.l.legaspi@gmail.com 
+ alfredo.i.r.mercado@gmail.com
+",_43,5,5,3,0,3
 ,"",_23,5,5,5,0,5
 ,"",_26,5,5,5,0,5
-,"",_27,5,2,5,0,5
 ,"",_33,5,5,5,0,5
 ,"",_39,5,5,5,0,5
-,"",_43,5,5,3,0,3
-,"",_47,5,5,5,0,5
-,"",_58,5,3,5,0,5
-,"",_59,5,2,5,0,5
 ,"",_68,5,4,5,0,5
-,"",_72,5,1,4,0,4
+YangYang Mobile,"https://www.gdap.org.ph/gdap-member/yangyang-mobile/
+",_31,4,3,3,0,3
+Technological University of the Philippines,"",_50,4,3,4,0,4
+PH / CN user group,"",_36,4,4,3,1,4
+Jinxter Games,"http://www.jinxtergames.com/
+",_54,4,4,4,0,4
+Haraya Labs,"",_28,4,1,4,0,4
+Global Mobility,"http://www.globalmobility.net/
+ HQ in Singapore
+ Serious games for healthcare
+ 3D Vision Technology
+ https://3dvisiontechnologies.com/
+homespace360.com
+",_38,4,4,1,0,1
+Frecre.com,"https://www.frecre.com/
+",_57,4,4,2,0,2
+CN user group 5,"",_60,4,4,1,3,4
+AV Reality,"https://avreality.co/
+",_64,4,4,3,0,3
 ,"",_4,4,3,4,0,4
-,"",_28,4,1,4,0,4
-,"",_31,4,3,3,0,3
-,"",_36,4,4,3,1,4
-,"",_38,4,4,1,0,1
 ,"",_42,4,2,4,0,4
-,"",_50,4,3,4,0,4
-,"",_54,4,4,4,0,4
 ,"",_55,4,4,4,0,4
-,"",_60,4,4,1,3,4
 ,"",_62,4,4,4,0,4
-,"",_63,4,4,2,0,2
-,"",_64,4,4,3,0,3
 ,"",_65,4,4,4,0,4
-,"",_70,4,4,1,3,4
 ,"",_77,4,4,4,0,4
 ,"",_107,4,3,4,0,4
 ,"",_139,4,2,4,0,4
-,"",_35,3,3,2,0,2
-,"",_37,3,2,3,0,3
-,"",_48,3,3,1,0,1
+Sprobe Inc,"Should be on Pro
+",_37,3,2,3,0,3
+Secret 6,"https://secret6.com/about/
+ Part of SF based Studio
+ Should be on Pro
+",_35,3,3,2,0,2
+HTech Corp,"IT Outsourcing firm
+ https://www.htechcorp.net/
+",_79,3,1,3,0,3
+CN user group 6,"",_102,3,3,2,1,3
+CIIT Edu,"",_48,3,3,1,0,1
+Breddas Inc,"",_86,3,3,2,0,2
 ,"",_56,3,3,2,0,2
-,"",_57,3,3,1,0,1
 ,"",_66,3,3,3,0,3
-,"",_79,3,1,3,0,3
 ,"",_80,3,2,3,0,3
 ,"",_84,3,2,3,0,3
 ,"",_85,3,3,2,0,2
-,"",_86,3,3,2,0,2
-,"",_102,3,3,2,1,3
 ,"",_103,3,2,2,1,3
 ,"",_105,3,2,1,0,1
 ,"",_106,3,2,3,0,3
@@ -128,7 +169,6 @@ Name,Description,Combined Group,Unique Machines,Unique UserID, Count F,Count H,E
 ,"",_145,2,3,1,0,1
 ,"",_146,2,2,1,0,1
 ,"",_148,2,1,2,0,2
-,"",_155,2,2,2,0,2
 ,"",_158,2,1,1,0,1
 ,"",_159,2,2,2,0,2
 ,"",_167,2,2,2,0,2
@@ -161,7 +201,6 @@ Name,Description,Combined Group,Unique Machines,Unique UserID, Count F,Count H,E
 ,"",_236,2,2,2,0,2
 ,"",_247,2,2,2,0,2
 ,"",_249,2,2,2,0,2
-,"",_250,2,2,0,0,0
 ,"",_251,2,2,0,0,0
 ,"",_254,2,2,2,0,2
 ,"",_263,2,2,1,0,1
@@ -235,13 +274,11 @@ Name,Description,Combined Group,Unique Machines,Unique UserID, Count F,Count H,E
 ,"",_1308,2,1,2,0,2
 ,"",_1320,2,1,2,0,2
 ,"",_1481,2,1,2,0,2
-,"",_1620,2,1,2,0,2
 ,"",_1635,2,1,2,0,2
 ,"",_1655,2,1,2,0,2
 ,"",_1841,2,1,2,0,2
 ,"",_1877,2,1,2,0,2
 ,"",_2034,2,1,2,0,2
-,"",_34,1,1,1,0,1
 ,"",_67,1,1,1,0,1
 ,"",_69,1,1,1,0,1
 ,"",_76,1,1,1,0,1
@@ -253,7 +290,6 @@ Name,Description,Combined Group,Unique Machines,Unique UserID, Count F,Count H,E
 ,"",_89,1,1,1,0,1
 ,"",_90,1,1,1,0,1
 ,"",_91,1,1,1,0,1
-,"",_92,1,1,1,0,1
 ,"",_93,1,1,1,0,1
 ,"",_94,1,1,1,0,1
 ,"",_95,1,1,1,0,1
@@ -266,10 +302,8 @@ Name,Description,Combined Group,Unique Machines,Unique UserID, Count F,Count H,E
 ,"",_112,1,1,1,0,1
 ,"",_114,1,1,1,0,1
 ,"",_116,1,1,1,0,1
-,"",_117,1,1,1,0,1
 ,"",_118,1,1,1,0,1
 ,"",_120,1,1,1,0,1
-,"",_123,1,1,1,0,1
 ,"",_128,1,1,1,0,1
 ,"",_129,1,1,1,0,1
 ,"",_130,1,1,1,0,1
@@ -375,7 +409,6 @@ Name,Description,Combined Group,Unique Machines,Unique UserID, Count F,Count H,E
 ,"",_300,1,1,1,0,1
 ,"",_303,1,1,1,0,1
 ,"",_305,1,1,1,0,1
-,"",_306,1,1,1,0,1
 ,"",_307,1,1,1,0,1
 ,"",_308,1,1,1,0,1
 ,"",_309,1,1,0,1,1
@@ -395,8 +428,6 @@ Name,Description,Combined Group,Unique Machines,Unique UserID, Count F,Count H,E
 ,"",_330,1,1,1,0,1
 ,"",_331,1,1,1,0,1
 ,"",_332,1,1,1,0,1
-,"",_334,1,1,1,0,1
-,"",_339,1,1,1,0,1
 ,"",_340,1,1,1,0,1
 ,"",_342,1,1,1,0,1
 ,"",_344,1,1,1,0,1
@@ -849,7 +880,6 @@ Name,Description,Combined Group,Unique Machines,Unique UserID, Count F,Count H,E
 ,"",_831,1,1,1,0,1
 ,"",_832,1,1,1,0,1
 ,"",_833,1,1,1,0,1
-,"",_834,1,1,1,0,1
 ,"",_835,1,1,1,0,1
 ,"",_836,1,1,1,0,1
 ,"",_837,1,1,1,0,1
@@ -1022,7 +1052,6 @@ Name,Description,Combined Group,Unique Machines,Unique UserID, Count F,Count H,E
 ,"",_1007,1,1,1,0,1
 ,"",_1009,1,1,1,0,1
 ,"",_1010,1,1,1,0,1
-,"",_1011,1,1,1,0,1
 ,"",_1012,1,1,1,0,1
 ,"",_1013,1,1,1,0,1
 ,"",_1014,1,1,1,0,1
@@ -1752,7 +1781,6 @@ Name,Description,Combined Group,Unique Machines,Unique UserID, Count F,Count H,E
 ,"",_1748,1,1,1,0,1
 ,"",_1749,1,1,1,0,1
 ,"",_1750,1,1,1,0,1
-,"",_1751,1,1,1,0,1
 ,"",_1752,1,1,1,0,1
 ,"",_1753,1,1,1,0,1
 ,"",_1754,1,1,1,0,1

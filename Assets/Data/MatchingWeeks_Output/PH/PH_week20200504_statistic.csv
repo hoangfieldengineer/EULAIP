@@ -1,6 +1,8 @@
 Name,Description,Combined Group,Unique Machines,Unique UserID, Count F,Count H,EULA Machines
 ,"",_1,159,151,122,36,158
-,"",_2,130,127,99,17,116
+CN user group 1,"http://www.c4games.com/index.html
+https://babeltime.com/
+",_2,130,127,99,17,116
 ,"",_3,19,17,18,0,18
 Anino.co,"",_10,14,14,7,1,8
 ,"",_4,10,10,7,1,8
@@ -13,6 +15,7 @@ Monstronauts,"https://monstronauts.com/
 kooapps.com,"",_8,6,6,4,0,4
 Frecre.com,"https://www.frecre.com/
 ",_56,6,5,2,0,2
+Benilde College,"",_46,6,3,5,0,5
 Secret 6,"https://secret6.com/about/
 Part of SF based Studio
 Should be on Pro
@@ -56,7 +59,6 @@ Bubble Gum Interactive,"Australia - Philippines
 ,"",_23,3,3,2,0,2
 ,"",_24,3,2,3,0,3
 ,"",_32,3,2,3,0,3
-,"",_46,3,1,3,0,3
 ,"",_47,3,3,0,3,3
 ,"",_48,3,2,3,0,3
 ,"",_53,3,3,3,0,3
@@ -81,6 +83,7 @@ https://www.htechcorp.net/
 ",_1020,2,1,2,0,2
 Figurama3D,"https://www.figurama3d.com/
 ",_423,2,2,1,0,1
+CN user group 4,"",_52,2,1,2,0,2
 AV Reality,"https://avreality.co/
 ",_1797,2,2,1,0,1
 ,"",_13,2,2,1,0,1
@@ -93,7 +96,6 @@ AV Reality,"https://avreality.co/
 ,"",_38,2,1,0,0,0
 ,"",_41,2,1,2,0,2
 ,"",_50,2,1,2,0,2
-,"",_52,2,1,2,0,2
 ,"",_61,2,2,2,0,2
 ,"",_62,2,1,2,0,2
 ,"",_63,2,1,2,0,2
@@ -145,7 +147,6 @@ AV Reality,"https://avreality.co/
 ,"",_237,2,1,2,0,2
 ,"",_241,2,2,2,0,2
 ,"",_244,2,1,2,0,2
-,"",_247,2,1,2,0,2
 ,"",_250,2,1,2,0,2
 ,"",_253,2,2,2,0,2
 ,"",_261,2,1,2,0,2
@@ -195,6 +196,9 @@ AV Reality,"https://avreality.co/
 ,"",_1584,2,1,1,0,1
 ,"",_1965,2,1,2,0,2
 Technological University of the Philippines,"",_1592,1,1,1,0,1
+PH user group 3,"",_179,1,1,1,0,1
+PH user group (probably university),"",_1575,1,1,1,0,1
+PH / CN user group,"",_69,1,1,0,1,1
 Jinxter Games,"http://www.jinxtergames.com/
 ",_15,1,2,0,0,0
 Imagine Realities Inc,"http://imagine-ar.com/
@@ -229,7 +233,6 @@ https://www.techfactors.com/
 ,"",_60,1,1,1,0,1
 ,"",_64,1,1,1,0,1
 ,"",_65,1,1,1,0,1
-,"",_69,1,1,0,1,1
 ,"",_71,1,1,1,0,1
 ,"",_73,1,1,1,0,1
 ,"",_74,1,2,1,0,1
@@ -308,7 +311,6 @@ https://www.techfactors.com/
 ,"",_176,1,1,1,0,1
 ,"",_177,1,1,1,0,1
 ,"",_178,1,1,0,0,0
-,"",_179,1,1,1,0,1
 ,"",_180,1,1,1,0,1
 ,"",_181,1,1,1,0,1
 ,"",_183,1,1,1,0,1
@@ -1079,7 +1081,6 @@ https://www.techfactors.com/
 ,"",_1042,1,1,1,0,1
 ,"",_1043,1,1,1,0,1
 ,"",_1044,1,1,1,0,1
-,"",_1045,1,1,0,0,0
 ,"",_1046,1,1,0,0,0
 ,"",_1047,1,1,1,0,1
 ,"",_1048,1,1,1,0,1
@@ -1596,7 +1597,6 @@ https://www.techfactors.com/
 ,"",_1572,1,1,1,0,1
 ,"",_1573,1,1,1,0,1
 ,"",_1574,1,1,1,0,1
-,"",_1575,1,1,1,0,1
 ,"",_1576,1,1,1,0,1
 ,"",_1578,1,1,1,0,1
 ,"",_1579,1,1,1,0,1
