@@ -15,7 +15,7 @@ MonoBehaviour:
   dataWeeks:
   - weekData: Assets/Data/week20200309/week20200309.xlsx
     outputFolder: /Hoang/Projects/EULA_IP/Assets/Data/week20200309/_Output
-    shouldProcessThis: 1
+    shouldProcessThis: 0
   - weekData: Assets/Data/week20200316/week20200316.xlsx
     outputFolder: /Hoang/Projects/EULA_IP/Assets/Data/week20200316/_Output
     shouldProcessThis: 0
@@ -39,12 +39,12 @@ MonoBehaviour:
     shouldProcessThis: 0
   - weekData: Assets/Data/week20200504/week20200504.xlsx
     outputFolder: /Hoang/Projects/EULA_IP/Assets/Data/week20200504/_Output
-    shouldProcessThis: 0
+    shouldProcessThis: 1
   countries:
   - country: SG
     referenceData: {fileID: 11400000, guid: f42b733d3d7644775afdbe94a6ab2381, type: 2}
     shouldProcessThis: 1
-    matchWeeks: {fileID: 0}
+    matchWeeks: {fileID: 11400000, guid: e2c56e0128eabbb4ca8677aab1d41f40, type: 2}
   - country: MY
     referenceData: {fileID: 11400000, guid: 02c771a0215eb46d4b07306aaa579e8e, type: 2}
     shouldProcessThis: 0
