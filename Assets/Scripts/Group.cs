@@ -14,6 +14,8 @@ public class Group
     
     [FoldoutGroup("Properties")]
     public string description;
+
+    public string comment;
     
     [TableList(ShowIndexLabels = true)]
     public List<ParamModified> rows;
@@ -113,6 +115,8 @@ public class Group
         cell.SetCellValue(name);
         cell = (HSSFCell) row.CreateCell((short) ++i);
         cell.SetCellValue(description);
+        cell = (HSSFCell) row.CreateCell((short) ++i);
+        cell.SetCellValue(comment);
         cell = (HSSFCell) row.CreateCell((short) ++i);
         cell.SetCellValue(rows[0].combinedGroup);
         cell = (HSSFCell) row.CreateCell((short) ++i);

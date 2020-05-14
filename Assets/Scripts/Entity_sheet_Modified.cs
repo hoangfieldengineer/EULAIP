@@ -9,6 +9,7 @@ using Sirenix.Utilities.Editor;
 using UnityEditor;
 using UnityEngine;
 using System.Linq;
+using System.Runtime.InteropServices;
 using System.Text;
 using NPOI.HSSF.UserModel;
 using NPOI.XSSF.UserModel;
@@ -260,7 +261,7 @@ public class Entity_sheet_Modified : ScriptableObject
 				}
 				// else if (i == 2)
 				// {
-				// 	list[i].Description = $" unique machines: {group.machines}\nuser: {group.users}\nF: {group.F}\nH: {group.H}\nrows: {group.rows.Count}\nEULA machines: {group.F + group.H}";
+				// 	list[i].Description = $"{group.comment}";
 				// }
 				else
 				{
@@ -272,10 +273,58 @@ public class Entity_sheet_Modified : ScriptableObject
 		}
 	}
 
+	[Button]
 	public void SortGroups()
 	{
 		groups = groups.OrderByDescending(x => x.machines).ThenByDescending(x => x.name).ToList();
 		GroupToSheet();
+	}
+
+	public void DeleteComment()
+	{
+		for (int i = 0; i < groups.Count; i++)
+		{
+			groups[i].comment = "";
+		}
+	}
+
+	public void RemoveGroup(string groupName)
+	{
+		if (string.IsNullOrEmpty(groupName))
+		{
+			Debug.LogWarning("Group name can not be null");
+			return;
+		}
+
+		Group g = groups.Find(x => groupName.Equals(x.name));
+
+		if (g == null)
+		{
+			Debug.LogWarning($"Couldn't find group {groupName} in {name}");
+			return;
+		}
+		else
+		{
+			Debug.Log($"Found group {groupName} in {name}");
+		}
+		
+		g.name = "";
+		g.description = "";
+
+		List<ParamModified> rows = sheets[0].list.FindAll(x => x.combinedGroup == g.rows[0].combinedGroup).ToList();
+
+		for (int i = 0; i < rows.Count; i++)
+		{
+			rows[i].combinedGroup = "";
+			rows[i].Description = "";
+
+			g.rows[i].combinedGroup = "";
+			g.rows[i].Description = "";
+		}
+		
+		ClearGroups();
+		SheetToGroup();
+		SortGroups();
 	}
 	
 	public void FillStatisticIntoExcelSheet(HSSFSheet sheet)
@@ -290,6 +339,8 @@ public class Entity_sheet_Modified : ScriptableObject
 		cell.SetCellValue("Name");
 		cell = (HSSFCell) row.CreateCell((short) ++i);
 		cell.SetCellValue("Description");
+		cell = (HSSFCell) row.CreateCell((short) ++i);
+		cell.SetCellValue("Note");
 		cell = (HSSFCell) row.CreateCell((short) ++i);
 		cell.SetCellValue("Combined Group");
 		cell = (HSSFCell) row.CreateCell((short) ++i);
@@ -455,12 +506,12 @@ public class Entity_sheet_Modified : ScriptableObject
 		SortGroups();
 		
 		StringBuilder sb = new StringBuilder();
-		sb.AppendLine("Name,Description,Combined Group,Unique Machines,Unique UserID, Count F,Count H,EULA Machines");
+		sb.AppendLine("Name,Description,Note,Combined Group,Unique Machines,Unique UserID, Count F,Count H,EULA Machines");
 
 		List<Group> orderedGroup = groups;
 		foreach (Group group in orderedGroup)
 		{
-			sb.AppendLine($"{group.name},\"{group.description}\",{group.rows[0].combinedGroup},{group.machines},{group.users},{group.F},{group.H},{group.F + group.H}");
+			sb.AppendLine($"{group.name},\"{group.description}\",\"{group.comment}\",{group.rows[0].combinedGroup},{group.machines},{group.users},{group.F},{group.H},{group.F + group.H}");
 		}
 
 		string finalPath = path.EndsWith($"{Path.DirectorySeparatorChar}") ? path : $"{path}{Path.DirectorySeparatorChar}";
@@ -471,8 +522,6 @@ public class Entity_sheet_Modified : ScriptableObject
 		}
 		Debug.Log($"Final output: {finalFileName}");
 	}
-
-	
 
 	void CrossCheck(List<Group> namedGroups1, string sheet1, List<Group> allGroupFromOtherSheet, string sheet2, float matchingThreshold = 0.2f, bool applyLabeling = false)
 	{
@@ -499,6 +548,12 @@ public class Entity_sheet_Modified : ScriptableObject
 						}
 						else
 						{
+							// string temp = $"[{sheet1}] [{g1.name}] vs [{g2.name}] [{sheet2}]";
+							string temp = log.ToString();
+							if (!g1.name.Equals(g2.name) && !g1.comment.Contains(temp))
+							{
+								g1.comment = $"{temp}\n{g1.comment}";
+							}
 							// Debug.LogWarning($"Won't set name for group 2 because it already has: g1 = [{g1.name}] \t \t g2 = [{g2.name}]");
 						}
 					}

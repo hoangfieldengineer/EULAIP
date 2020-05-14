@@ -17,6 +17,26 @@ public class MatchingWeeks : ScriptableObject
     public Entity_sheet_Modified referenceData;
     public List<Entity_sheet_Modified> weeks;
 
+    public string groupName;
+
+    [Button]
+    public void DeleteComment()
+    {
+        for (int i = 0; i < weeks.Count; i++)
+        {
+            weeks[i].DeleteComment();
+        }
+    }
+    
+    [Button]
+    public void RemoveGroup()
+    {
+        for (int i = 0; i < weeks.Count; i++)
+        {
+            weeks[i].RemoveGroup(groupName.Trim());
+        }
+    }
+    
     [Button]
     public void CompareAndMatchWeeks() {
 
@@ -98,4 +118,6 @@ public class MatchingWeeks : ScriptableObject
         Debug.Log($"{fileNameStatistic}");
         
     }
+
+    
 }
