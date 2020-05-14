@@ -18,7 +18,16 @@ public class MatchingWeeks : ScriptableObject
     public List<Entity_sheet_Modified> weeks;
 
     public string groupName;
-
+    
+    [Button]
+    public void RemoveGroup()
+    {
+        for (int i = 0; i < weeks.Count; i++)
+        {
+            weeks[i].RemoveGroup(groupName.Trim());
+        }
+    }
+    
     [Button]
     public void DeleteComment()
     {
@@ -29,11 +38,11 @@ public class MatchingWeeks : ScriptableObject
     }
     
     [Button]
-    public void RemoveGroup()
+    public void TrimGroupName()
     {
         for (int i = 0; i < weeks.Count; i++)
         {
-            weeks[i].RemoveGroup(groupName.Trim());
+            weeks[i].TrimGroupName();
         }
     }
     
@@ -64,7 +73,7 @@ public class MatchingWeeks : ScriptableObject
     [Button]
     public void ExportData() {
         List<Entity_sheet_Modified> list = new List<Entity_sheet_Modified>();
-        list.Add(referenceData);
+        // list.Add(referenceData);
         list.AddRange(weeks);
 
         string finalPath = outputPath.EndsWith($"{Path.DirectorySeparatorChar}") ? outputPath : $"{outputPath}{Path.DirectorySeparatorChar}";

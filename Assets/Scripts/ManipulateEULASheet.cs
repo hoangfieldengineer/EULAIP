@@ -107,7 +107,7 @@ public class ManipulateEULASheet : /*OdinEditorWindow*/ ScriptableObject
 
 						int k = 0;
 						cell = row.GetCell(k);
-						p.Description = (cell == null ? "" : cell.StringCellValue);
+						p.Description = (cell == null ? "" : cell.StringCellValue.Trim());
 						cell = row.GetCell(++k);
 						p.combinedGroup = (cell == null ? "" : cell.StringCellValue);
 						cell = row.GetCell(++k);

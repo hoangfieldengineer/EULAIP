@@ -33,7 +33,7 @@ public class ParamModified : Param_Extra
 	
     public ParamModified(ParamModified param) : base(param)
     {
-        this.Description = param.Description;
+        this.Description = param.Description.Trim();
         this.combinedGroup = param.combinedGroup;
     }
 

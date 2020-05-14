@@ -153,6 +153,12 @@ public class Entity_sheet_Modified : ScriptableObject
 	public int MatchingNamedGroupsBetweenSheets(/*Entity_sheet_Modified other,*/ float matchingThreshold = 0.2f, bool applyLabeling = false)
 	{
 		Entity_sheet_Modified other = referenceData;
+
+		if (other == this)
+		{
+			return 0;
+		}
+		
 		List<Group> namedGroups1 = groups.Where(x => !string.IsNullOrEmpty(x.name) || !string.IsNullOrEmpty(x.description)).ToList();
 		List<Group> namedGroups2 = other.groups.Where(x => !string.IsNullOrEmpty(x.name) || !string.IsNullOrEmpty(x.description)).ToList();
 		
@@ -286,6 +292,15 @@ public class Entity_sheet_Modified : ScriptableObject
 		{
 			groups[i].comment = "";
 		}
+	}
+
+	public void TrimGroupName()
+	{
+		for (int i = 0; i < groups.Count; i++)
+		{
+			groups[i].name = groups[i].name.Trim();
+		}
+		GroupToSheet();
 	}
 
 	public void RemoveGroup(string groupName)
@@ -550,7 +565,7 @@ public class Entity_sheet_Modified : ScriptableObject
 						{
 							// string temp = $"[{sheet1}] [{g1.name}] vs [{g2.name}] [{sheet2}]";
 							string temp = log.ToString();
-							if (!g1.name.Equals(g2.name) && !g1.comment.Contains(temp))
+							if (!g1.name.Equals(g2.name) && (string.IsNullOrEmpty(g1.comment) || !g1.comment.Contains(temp)))
 							{
 								g1.comment = $"{temp}\n{g1.comment}";
 							}
