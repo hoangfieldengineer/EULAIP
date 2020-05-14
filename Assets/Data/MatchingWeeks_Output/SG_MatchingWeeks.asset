@@ -16,6 +16,7 @@ MonoBehaviour:
   outputPath: /Hoang/Projects/EULA_IP/Assets/Data/MatchingWeeks_Output/SG
   referenceData: {fileID: 11400000, guid: 2c49f7a18af214547942b05ce13f3a28, type: 2}
   weeks:
+  - {fileID: 11400000, guid: 2c49f7a18af214547942b05ce13f3a28, type: 2}
   - {fileID: 11400000, guid: d9478f500db294daf94ce0662692eb25, type: 2}
   - {fileID: 11400000, guid: dd5db57b980dd40c7b6cdc14e60b204b, type: 2}
   - {fileID: 11400000, guid: 1a0e7a3c305f3428c9478c8a1c292f81, type: 2}
@@ -24,3 +25,4 @@ MonoBehaviour:
   - {fileID: 11400000, guid: 7240b93480d5d4c6092c59bf363ae628, type: 2}
   - {fileID: 11400000, guid: 55cb1bdaf3f184f29b56656359820734, type: 2}
   - {fileID: 11400000, guid: 826a2d5bb9da74b50ac596ba0f2e4d67, type: 2}
+  groupName: 
