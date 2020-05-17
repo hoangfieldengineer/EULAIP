@@ -190,6 +190,8 @@ public class Entity_sheet_Modified : ScriptableObject
 					string b = groupToBeMerge.ToString();
 					
 					groupToCheck.rows.AddRange(groupToBeMerge.rows);
+					groupToCheck.description = $"{groupToCheck.description}\n{groupToBeMerge.description}".Trim();
+					groupToCheck.comment = $"{groupToCheck.comment}\n{groupToBeMerge.comment}".Trim();
 					// groupToCheck.F += groupToBeMerge.F;
 					// groupToCheck.H += groupToBeMerge.H;
 					// groupToCheck.machines += groupToBeMerge.machines;
@@ -298,7 +300,10 @@ public class Entity_sheet_Modified : ScriptableObject
 	{
 		for (int i = 0; i < groups.Count; i++)
 		{
-			groups[i].name = groups[i].name.Trim();
+			if (!string.IsNullOrEmpty(groups[i].name))
+			{
+				groups[i].name = groups[i].name.Trim();
+			}
 		}
 		GroupToSheet();
 	}

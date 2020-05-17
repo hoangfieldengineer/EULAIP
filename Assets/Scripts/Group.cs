@@ -15,6 +15,7 @@ public class Group
     [FoldoutGroup("Properties")]
     public string description;
 
+    [FoldoutGroup("Properties")]
     public string comment;
     
     [TableList(ShowIndexLabels = true)]
