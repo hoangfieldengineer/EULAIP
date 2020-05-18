@@ -308,6 +308,12 @@ public class Entity_sheet_Modified : ScriptableObject
 	}
 
 	[Button]
+	public void SetDirty()
+	{
+		EditorUtility.SetDirty(this);
+	}
+
+	[Button]
 	public void CleanUpDescription()
 	{
 		for (int i = 0; i < groups.Count; i++)
