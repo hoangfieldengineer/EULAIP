@@ -29,6 +29,15 @@ public class MatchingWeeks : ScriptableObject
     }
     
     [Button]
+    public void CleanUpDescription()
+    {
+        for (int i = 0; i < weeks.Count; i++)
+        {
+            weeks[i].CleanUpDescription();
+        }
+    }
+    
+    [Button]
     public void DeleteComment()
     {
         for (int i = 0; i < weeks.Count; i++)

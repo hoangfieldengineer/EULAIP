@@ -26,7 +26,7 @@ public class Entity_sheet_Modified : ScriptableObject
 	public class SheetModified
 	{
 		public string name = string.Empty;
-		[TableList(ShowIndexLabels = true, MaxScrollViewHeight = 1000, MinScrollViewHeight = 1000)]
+		[TableList(ShowIndexLabels = true, MaxScrollViewHeight = 500, MinScrollViewHeight = 500)]
 		public List<ParamModified> list = new List<ParamModified>();
 	}
 	
@@ -190,14 +190,33 @@ public class Entity_sheet_Modified : ScriptableObject
 					string b = groupToBeMerge.ToString();
 					
 					groupToCheck.rows.AddRange(groupToBeMerge.rows);
-					groupToCheck.description = $"{groupToCheck.description}\n{groupToBeMerge.description}".Trim();
+
+					if (string.IsNullOrEmpty(groupToCheck.description))
+					{
+						if (!string.IsNullOrEmpty(groupToBeMerge.description))
+						{
+							groupToCheck.description = $"{groupToBeMerge.description}".Trim();
+						}
+					}
+					else
+					{
+						if (!string.IsNullOrEmpty(groupToBeMerge.description) && !groupToCheck.description.Contains(groupToBeMerge.description))
+						{
+							groupToCheck.description = $"{groupToCheck.description}\n{groupToBeMerge.description}".Trim();
+						}
+					}
+
+					groupToCheck.description = string.Join("\n",groupToCheck.description.Split('\n').ToList().Distinct());
+
+					if (groupToCheck.description.Length > 5000)
+					{
+						throw new Exception();
+					}
+					
 					groupToCheck.comment = $"{groupToCheck.comment}\n{groupToBeMerge.comment}".Trim();
-					// groupToCheck.F += groupToBeMerge.F;
-					// groupToCheck.H += groupToBeMerge.H;
-					// groupToCheck.machines += groupToBeMerge.machines;
-					// groupToCheck.users += groupToBeMerge.users;
 					groupToBeMerge.rows.Clear();
 					groupToCheck.CalculateStatistic();
+					
 					Debug.Log($"Merge [{groupToCheck.name}]\n{b}\ninto\n{a}\n=> {groupToCheck}");
 					
 					groups.Remove(groupToBeMerge);
@@ -286,6 +305,19 @@ public class Entity_sheet_Modified : ScriptableObject
 	{
 		groups = groups.OrderByDescending(x => x.machines).ThenByDescending(x => x.name).ToList();
 		GroupToSheet();
+	}
+
+	[Button]
+	public void CleanUpDescription()
+	{
+		for (int i = 0; i < groups.Count; i++)
+		{
+			if (groups[i].description.Length > 1000)
+			{
+				Debug.LogWarning($"{groups[i].name} has strange description: {groups[i].description}");
+			}
+			groups[i].description = string.Join("\n", groups[i].description.Split('\n').ToList().Distinct());
+		}
 	}
 
 	public void DeleteComment()
@@ -570,9 +602,16 @@ public class Entity_sheet_Modified : ScriptableObject
 						{
 							// string temp = $"[{sheet1}] [{g1.name}] vs [{g2.name}] [{sheet2}]";
 							string temp = log.ToString();
-							if (!g1.name.Equals(g2.name) && (string.IsNullOrEmpty(g1.comment) || !g1.comment.Contains(temp)))
+							if (!g1.name.Equals(g2.name))
 							{
-								g1.comment = $"{temp}\n{g1.comment}";
+								if (string.IsNullOrEmpty(g1.comment))
+								{
+									g1.comment = $"{temp}";
+								}
+								else if (!g1.comment.Contains(temp))
+								{
+									g1.comment = $"{temp}\n{g1.comment}";
+								}
 							}
 							// Debug.LogWarning($"Won't set name for group 2 because it already has: g1 = [{g1.name}] \t \t g2 = [{g2.name}]");
 						}
